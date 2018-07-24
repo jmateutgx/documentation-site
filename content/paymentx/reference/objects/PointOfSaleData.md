@@ -25,6 +25,11 @@
       "name": "PointOfSale",
       "description": "",
       "url": "/paymentx/reference/objects/pointofsale"
+    },
+    {
+      "name": "PointOfSale",
+      "description": "",
+      "url": "/paymentx/reference/objects/pointofsale"
     }
   ],
   "enumValues": null,

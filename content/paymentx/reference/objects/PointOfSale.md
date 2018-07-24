@@ -39,7 +39,7 @@
       "typeString": "[AdviseMessage!]",
       "name": "adviseMessage",
       "url": "/paymentx/reference/interfaces/advisemessage",
-      "description": "List of messages",
+      "description": "List of advise messages.",
       "isDeprecated": false,
       "args": [
         {
@@ -52,6 +52,11 @@
     }
   ],
   "requireby": [
+    {
+      "name": "PaymentXBookingInfo",
+      "description": "",
+      "url": "/paymentx/reference/objects/paymentxbookinginfo"
+    },
     {
       "name": "PaymentXBookingInfo",
       "description": "",

@@ -5,6 +5,31 @@
   "fields": null,
   "requireby": [
     {
+      "name": "RelayInput",
+      "description": "",
+      "url": "/hotelx/reference/inputobjects/relayinput"
+    },
+    {
+      "name": "HotelXHotelListInput",
+      "description": "",
+      "url": "/hotelx/reference/inputobjects/hotelxhotellistinput"
+    },
+    {
+      "name": "HotelXRoomQueryInput",
+      "description": "",
+      "url": "/hotelx/reference/inputobjects/hotelxroomqueryinput"
+    },
+    {
+      "name": "HotelXDestinationListInput",
+      "description": "",
+      "url": "/hotelx/reference/inputobjects/hotelxdestinationlistinput"
+    },
+    {
+      "name": "HotelXDestinationSearcherInput",
+      "description": "",
+      "url": "/hotelx/reference/inputobjects/hotelxdestinationsearcherinput"
+    },
+    {
       "name": "StatsRequest",
       "description": "Contains internal information.",
       "url": "/hotelx/reference/objects/statsrequest"

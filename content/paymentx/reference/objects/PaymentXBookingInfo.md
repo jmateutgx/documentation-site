@@ -49,6 +49,11 @@
       "name": "StoredCardData",
       "description": "",
       "url": "/paymentx/reference/objects/storedcarddata"
+    },
+    {
+      "name": "StoredCardData",
+      "description": "",
+      "url": "/paymentx/reference/objects/storedcarddata"
     }
   ],
   "enumValues": null,

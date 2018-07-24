@@ -5,6 +5,11 @@
   "fields": null,
   "requireby": [
     {
+      "name": "MappeaMapSupplierInput",
+      "description": "# MapSupplier",
+      "url": "/mappea/reference/inputobjects/mappeamapsupplierinput"
+    },
+    {
       "name": "SupplierDetected",
       "description": "",
       "url": "/mappea/reference/objects/supplierdetected"

@@ -45,6 +45,11 @@
       "url": "/hotelx/reference/objects/stataccess"
     },
     {
+      "name": "StatPlugin",
+      "description": "",
+      "url": "/hotelx/reference/objects/statplugin"
+    },
+    {
       "name": "StatTransaction",
       "description": "",
       "url": "/hotelx/reference/objects/stattransaction"

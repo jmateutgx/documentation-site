@@ -65,6 +65,7 @@
   "typename": "AdviseMessage",
   "hideGithubLink": true
 }
+List of advise messages.
 ## GraphQL schema definition
 
 {{% graphql-schema-type %}}

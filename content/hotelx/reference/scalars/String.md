@@ -5,6 +5,11 @@
   "fields": null,
   "requireby": [
     {
+      "name": "RelayInput",
+      "description": "",
+      "url": "/hotelx/reference/inputobjects/relayinput"
+    },
+    {
       "name": "HotelConnection",
       "description": "HotelList definition",
       "url": "/hotelx/reference/objects/hotelconnection"
@@ -20,9 +25,24 @@
       "url": "/hotelx/reference/objects/destinationconnection"
     },
     {
+      "name": "HotelXDestinationSearcherInput",
+      "description": "",
+      "url": "/hotelx/reference/inputobjects/hotelxdestinationsearcherinput"
+    },
+    {
       "name": "HotelSearch",
       "description": "Results from Avail Hotel; contains all the available options for a given date and itinerary",
       "url": "/hotelx/reference/objects/hotelsearch"
+    },
+    {
+      "name": "HotelCriteriaQuoteInput",
+      "description": "The quote criteria contains the option reference id, block and language.",
+      "url": "/hotelx/reference/inputobjects/hotelcriteriaquoteinput"
+    },
+    {
+      "name": "HotelCriteriaBookingInput",
+      "description": "Criteria of book contains basic information to find a book or books.",
+      "url": "/hotelx/reference/inputobjects/hotelcriteriabookinginput"
     },
     {
       "name": "ServiceStatus",
@@ -60,14 +80,29 @@
       "url": "/hotelx/reference/objects/categoryedge"
     },
     {
+      "name": "PageInfo",
+      "description": "",
+      "url": "/hotelx/reference/objects/pageinfo"
+    },
+    {
       "name": "CategoryData",
       "description": "Category data",
       "url": "/hotelx/reference/objects/categorydata"
     },
     {
+      "name": "Text",
+      "description": "",
+      "url": "/hotelx/reference/interfaces/text"
+    },
+    {
       "name": "HotelEdge",
       "description": "HotelList Edge definition",
       "url": "/hotelx/reference/objects/hoteledge"
+    },
+    {
+      "name": "PageInfo",
+      "description": "",
+      "url": "/hotelx/reference/objects/pageinfo"
     },
     {
       "name": "HotelData",
@@ -76,7 +111,7 @@
     },
     {
       "name": "AdviseMessage",
-      "description": "",
+      "description": "List of advise messages.",
       "url": "/hotelx/reference/interfaces/advisemessage"
     },
     {
@@ -110,9 +145,29 @@
       "url": "/hotelx/reference/objects/destinationdata"
     },
     {
+      "name": "Text",
+      "description": "",
+      "url": "/hotelx/reference/interfaces/text"
+    },
+    {
       "name": "AirportData",
       "description": "Information about the airport",
       "url": "/hotelx/reference/objects/airportdata"
+    },
+    {
+      "name": "Text",
+      "description": "",
+      "url": "/hotelx/reference/interfaces/text"
+    },
+    {
+      "name": "Text",
+      "description": "",
+      "url": "/hotelx/reference/interfaces/text"
+    },
+    {
+      "name": "Text",
+      "description": "",
+      "url": "/hotelx/reference/interfaces/text"
     },
     {
       "name": "ExternalMessage",
@@ -125,14 +180,29 @@
       "url": "/hotelx/reference/objects/roomedge"
     },
     {
+      "name": "PageInfo",
+      "description": "",
+      "url": "/hotelx/reference/objects/pageinfo"
+    },
+    {
       "name": "RoomData",
       "description": "Room data",
       "url": "/hotelx/reference/objects/roomdata"
     },
     {
+      "name": "Text",
+      "description": "",
+      "url": "/hotelx/reference/interfaces/text"
+    },
+    {
       "name": "DestinationEdge",
       "description": "DestinationList Edge definition",
       "url": "/hotelx/reference/objects/destinationedge"
+    },
+    {
+      "name": "PageInfo",
+      "description": "",
+      "url": "/hotelx/reference/objects/pageinfo"
     },
     {
       "name": "StatsRequest",
@@ -163,6 +233,11 @@
       "name": "StatAccess",
       "description": "",
       "url": "/hotelx/reference/objects/stataccess"
+    },
+    {
+      "name": "StatPlugin",
+      "description": "",
+      "url": "/hotelx/reference/objects/statplugin"
     },
     {
       "name": "StatTransaction",
@@ -268,6 +343,16 @@
       "name": "Map",
       "description": "Map codes.",
       "url": "/hotelx/reference/objects/map"
+    },
+    {
+      "name": "HotelBookInput",
+      "description": "Criteria of book.",
+      "url": "/hotelx/reference/inputobjects/hotelbookinput"
+    },
+    {
+      "name": "HotelCancelInput",
+      "description": "Cancellation Criteria.",
+      "url": "/hotelx/reference/inputobjects/hotelcancelinput"
     },
     {
       "name": "HotelCancelDetail",

@@ -5,6 +5,21 @@
   "fields": null,
   "requireby": [
     {
+      "name": "PaymentXBookingInfoFilterInput",
+      "description": "",
+      "url": "/paymentx/reference/inputobjects/paymentxbookinginfofilterinput"
+    },
+    {
+      "name": "StoredCard",
+      "description": "",
+      "url": "/paymentx/reference/objects/storedcard"
+    },
+    {
+      "name": "PointOfSale",
+      "description": "",
+      "url": "/paymentx/reference/objects/pointofsale"
+    },
+    {
       "name": "StoredCard",
       "description": "",
       "url": "/paymentx/reference/objects/storedcard"

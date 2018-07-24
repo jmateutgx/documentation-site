@@ -10,6 +10,11 @@
       "url": "/paymentx/reference/objects/servicestatus"
     },
     {
+      "name": "PaymentXBookingInfoFilterInput",
+      "description": "",
+      "url": "/paymentx/reference/inputobjects/paymentxbookinginfofilterinput"
+    },
+    {
       "name": "StoredCardEdge",
       "description": "",
       "url": "/paymentx/reference/objects/storedcardedge"
@@ -21,7 +26,7 @@
     },
     {
       "name": "AdviseMessage",
-      "description": "",
+      "description": "List of advise messages.",
       "url": "/paymentx/reference/interfaces/advisemessage"
     },
     {
@@ -48,6 +53,21 @@
       "name": "ExternalMessage",
       "description": "",
       "url": "/paymentx/reference/objects/externalmessage"
+    },
+    {
+      "name": "PaymentXBookingInfoDeleteInput",
+      "description": "",
+      "url": "/paymentx/reference/inputobjects/paymentxbookinginfodeleteinput"
+    },
+    {
+      "name": "PaymentXBookingInfo",
+      "description": "",
+      "url": "/paymentx/reference/objects/paymentxbookinginfo"
+    },
+    {
+      "name": "PointOfSaleData",
+      "description": "",
+      "url": "/paymentx/reference/objects/pointofsaledata"
     }
   ],
   "enumValues": null,

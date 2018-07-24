@@ -6,7 +6,7 @@
   "requireby": [
     {
       "name": "AdviseMessage",
-      "description": "",
+      "description": "List of advise messages.",
       "url": "/paymentx/reference/interfaces/advisemessage"
     }
   ],

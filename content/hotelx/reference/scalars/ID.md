@@ -5,6 +5,36 @@
   "fields": null,
   "requireby": [
     {
+      "name": "HotelXBoardQueryInput",
+      "description": "",
+      "url": "/hotelx/reference/inputobjects/hotelxboardqueryinput"
+    },
+    {
+      "name": "HotelXCategoryQueryInput",
+      "description": "",
+      "url": "/hotelx/reference/inputobjects/hotelxcategoryqueryinput"
+    },
+    {
+      "name": "HotelXHotelListInput",
+      "description": "",
+      "url": "/hotelx/reference/inputobjects/hotelxhotellistinput"
+    },
+    {
+      "name": "HotelXRoomQueryInput",
+      "description": "",
+      "url": "/hotelx/reference/inputobjects/hotelxroomqueryinput"
+    },
+    {
+      "name": "HotelXDestinationListInput",
+      "description": "",
+      "url": "/hotelx/reference/inputobjects/hotelxdestinationlistinput"
+    },
+    {
+      "name": "HotelXDestinationSearcherInput",
+      "description": "",
+      "url": "/hotelx/reference/inputobjects/hotelxdestinationsearcherinput"
+    },
+    {
       "name": "Board",
       "description": "Board type.",
       "url": "/hotelx/reference/objects/board"
@@ -36,7 +66,7 @@
     },
     {
       "name": "AdviseMessage",
-      "description": "",
+      "description": "List of advise messages.",
       "url": "/hotelx/reference/interfaces/advisemessage"
     },
     {

@@ -50,6 +50,26 @@
       "url": "/hotelx/reference/objects/stat"
     },
     {
+      "name": "Stat",
+      "description": "",
+      "url": "/hotelx/reference/objects/stat"
+    },
+    {
+      "name": "Stat",
+      "description": "",
+      "url": "/hotelx/reference/objects/stat"
+    },
+    {
+      "name": "Stat",
+      "description": "",
+      "url": "/hotelx/reference/objects/stat"
+    },
+    {
+      "name": "Stat",
+      "description": "",
+      "url": "/hotelx/reference/objects/stat"
+    },
+    {
       "name": "Transactions",
       "description": "Supplier transaction",
       "url": "/hotelx/reference/objects/transactions"

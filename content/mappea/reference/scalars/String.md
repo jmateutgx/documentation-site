@@ -5,6 +5,11 @@
   "fields": null,
   "requireby": [
     {
+      "name": "MappeaGetMappeaStatsInput",
+      "description": "# GetMappeaStats",
+      "url": "/mappea/reference/inputobjects/mappeagetmappeastatsinput"
+    },
+    {
       "name": "Error",
       "description": "Application errors",
       "url": "/mappea/reference/objects/error"
@@ -23,6 +28,11 @@
       "name": "GetMappeaStatsData",
       "description": "",
       "url": "/mappea/reference/objects/getmappeastatsdata"
+    },
+    {
+      "name": "MappeaUploadFileInput",
+      "description": "## UploadFile",
+      "url": "/mappea/reference/inputobjects/mappeauploadfileinput"
     },
     {
       "name": "UploadFileData",

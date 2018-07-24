@@ -10,6 +10,16 @@
       "url": "/hotelx/reference/objects/pageinfo"
     },
     {
+      "name": "PageInfo",
+      "description": "",
+      "url": "/hotelx/reference/objects/pageinfo"
+    },
+    {
+      "name": "PageInfo",
+      "description": "",
+      "url": "/hotelx/reference/objects/pageinfo"
+    },
+    {
       "name": "HotelData",
       "description": "Hotel data",
       "url": "/hotelx/reference/objects/hoteldata"
@@ -18,6 +28,16 @@
       "name": "DestinationData",
       "description": "Information about destinantion",
       "url": "/hotelx/reference/objects/destinationdata"
+    },
+    {
+      "name": "PageInfo",
+      "description": "",
+      "url": "/hotelx/reference/objects/pageinfo"
+    },
+    {
+      "name": "PageInfo",
+      "description": "",
+      "url": "/hotelx/reference/objects/pageinfo"
     },
     {
       "name": "Room",

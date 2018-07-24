@@ -15,6 +15,16 @@
       "url": "/mappea/reference/objects/getmappeastatsdata"
     },
     {
+      "name": "MappeaConfirmUploadInput",
+      "description": "## ConfirmUpload",
+      "url": "/mappea/reference/inputobjects/mappeaconfirmuploadinput"
+    },
+    {
+      "name": "MappeaMapSupplierInput",
+      "description": "# MapSupplier",
+      "url": "/mappea/reference/inputobjects/mappeamapsupplierinput"
+    },
+    {
       "name": "UploadFileData",
       "description": "",
       "url": "/mappea/reference/objects/uploadfiledata"

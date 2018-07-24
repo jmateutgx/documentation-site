@@ -5,14 +5,39 @@
   "fields": null,
   "requireby": [
     {
+      "name": "PaymentXBookingInfoFilterInput",
+      "description": "",
+      "url": "/paymentx/reference/inputobjects/paymentxbookinginfofilterinput"
+    },
+    {
       "name": "StoredCard",
       "description": "",
       "url": "/paymentx/reference/objects/storedcard"
     },
     {
       "name": "AdviseMessage",
-      "description": "",
+      "description": "List of advise messages.",
       "url": "/paymentx/reference/interfaces/advisemessage"
+    },
+    {
+      "name": "PointOfSale",
+      "description": "",
+      "url": "/paymentx/reference/objects/pointofsale"
+    },
+    {
+      "name": "PointOfSaleData",
+      "description": "",
+      "url": "/paymentx/reference/objects/pointofsaledata"
+    },
+    {
+      "name": "StoredCard",
+      "description": "",
+      "url": "/paymentx/reference/objects/storedcard"
+    },
+    {
+      "name": "PaymentXBookingInfoDeleteInput",
+      "description": "",
+      "url": "/paymentx/reference/inputobjects/paymentxbookinginfodeleteinput"
     },
     {
       "name": "PointOfSale",

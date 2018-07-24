@@ -20,6 +20,26 @@
       "url": "/hotelx/reference/objects/stat"
     },
     {
+      "name": "Stat",
+      "description": "",
+      "url": "/hotelx/reference/objects/stat"
+    },
+    {
+      "name": "Stat",
+      "description": "",
+      "url": "/hotelx/reference/objects/stat"
+    },
+    {
+      "name": "Stat",
+      "description": "",
+      "url": "/hotelx/reference/objects/stat"
+    },
+    {
+      "name": "Stat",
+      "description": "",
+      "url": "/hotelx/reference/objects/stat"
+    },
+    {
       "name": "Price",
       "description": "Price indicates the value of the room/option.\nSupplements and/or surcharges can be included into the price, and will be verified with nodes Supplements/Surcharges.",
       "url": "/hotelx/reference/objects/price"

@@ -8,6 +8,11 @@
       "name": "PaymentXBookingInfo",
       "description": "",
       "url": "/paymentx/reference/objects/paymentxbookinginfo"
+    },
+    {
+      "name": "PaymentXBookingInfo",
+      "description": "",
+      "url": "/paymentx/reference/objects/paymentxbookinginfo"
     }
   ],
   "enumValues": null,
