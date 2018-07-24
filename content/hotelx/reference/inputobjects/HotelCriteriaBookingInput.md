@@ -6,35 +6,35 @@
     {
       "typeString": "String!",
       "name": "accessCode",
-      "url": "/hotelx/reference/scalars/string",
+      "url": "undefined/scalars/string",
       "description": "Name of the access that have to use in the request.",
       "args": null
     },
     {
       "typeString": "Language",
       "name": "language",
-      "url": "/hotelx/reference/scalars/language",
+      "url": "undefined/scalars/language",
       "description": "The language code.",
       "args": null
     },
     {
       "typeString": "BookingCriteriaType!",
       "name": "typeSearch",
-      "url": "/hotelx/reference/enums/bookingcriteriatype",
+      "url": "undefined/enums/bookingcriteriatype",
       "description": "The search type criteria.",
       "args": null
     },
     {
       "typeString": "CriteriaBookingReferencesInput",
       "name": "references",
-      "url": "/hotelx/reference/inputobjects/criteriabookingreferencesinput",
+      "url": "undefined/inputobjects/criteriabookingreferencesinput",
       "description": "The references criteria.",
       "args": null
     },
     {
       "typeString": "CriteriaBookingDatesInput",
       "name": "dates",
-      "url": "/hotelx/reference/inputobjects/criteriabookingdatesinput",
+      "url": "undefined/inputobjects/criteriabookingdatesinput",
       "description": "The dates criteria.",
       "args": null
     }

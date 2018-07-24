@@ -6,7 +6,7 @@
     {
       "typeString": "Int",
       "name": "occupancyRefId",
-      "url": "/travelgatex/reference/scalars/int",
+      "url": "undefined/scalars/int",
       "description": "ID reference to the occupancy",
       "isDeprecated": false,
       "args": null
@@ -14,7 +14,7 @@
     {
       "typeString": "String",
       "name": "code",
-      "url": "/travelgatex/reference/scalars/string",
+      "url": "undefined/scalars/string",
       "description": "Indicates the room code",
       "isDeprecated": false,
       "args": null
@@ -22,7 +22,7 @@
     {
       "typeString": "String",
       "name": "description",
-      "url": "/travelgatex/reference/scalars/string",
+      "url": "undefined/scalars/string",
       "description": "Description about the room",
       "isDeprecated": false,
       "args": null
@@ -30,7 +30,7 @@
     {
       "typeString": "Price",
       "name": "price",
-      "url": "/travelgatex/reference/objects/price",
+      "url": "undefined/objects/price",
       "description": "Total price for all days.",
       "isDeprecated": false,
       "args": null

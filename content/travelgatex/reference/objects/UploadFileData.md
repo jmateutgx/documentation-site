@@ -6,7 +6,7 @@
     {
       "typeString": "String!",
       "name": "fileId",
-      "url": "/travelgatex/reference/scalars/string",
+      "url": "undefined/scalars/string",
       "description": "",
       "isDeprecated": false,
       "args": null
@@ -14,7 +14,7 @@
     {
       "typeString": "[SupplierDetected!]",
       "name": "suppliers",
-      "url": "/travelgatex/reference/objects/supplierdetected",
+      "url": "undefined/objects/supplierdetected",
       "description": "",
       "isDeprecated": false,
       "args": null
@@ -22,7 +22,7 @@
     {
       "typeString": "Int",
       "name": "numberOfLines",
-      "url": "/travelgatex/reference/scalars/int",
+      "url": "undefined/scalars/int",
       "description": "",
       "isDeprecated": false,
       "args": null
@@ -30,7 +30,7 @@
     {
       "typeString": "Int",
       "name": "numberOfHotels",
-      "url": "/travelgatex/reference/scalars/int",
+      "url": "undefined/scalars/int",
       "description": "",
       "isDeprecated": false,
       "args": null
@@ -40,7 +40,7 @@
     {
       "name": "UploadFileResponse",
       "description": "",
-      "url": "/travelgatex/reference/objects/uploadfileresponse"
+      "url": "undefined/objects/uploadfileresponse"
     }
   ],
   "enumValues": null,

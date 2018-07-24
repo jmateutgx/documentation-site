@@ -6,7 +6,7 @@
     {
       "typeString": "AdminMutation",
       "name": "admin",
-      "url": "/travelgatex/reference/objects/adminmutation",
+      "url": "undefined/objects/adminmutation",
       "description": "",
       "isDeprecated": false,
       "args": null
@@ -14,7 +14,7 @@
     {
       "typeString": "HotelXMutation",
       "name": "hotelX",
-      "url": "/travelgatex/reference/objects/hotelxmutation",
+      "url": "undefined/objects/hotelxmutation",
       "description": "",
       "isDeprecated": false,
       "args": null
@@ -22,7 +22,7 @@
     {
       "typeString": "MappeaMutation",
       "name": "mappea",
-      "url": "/travelgatex/reference/objects/mappeamutation",
+      "url": "undefined/objects/mappeamutation",
       "description": "",
       "isDeprecated": false,
       "args": null
@@ -30,7 +30,7 @@
     {
       "typeString": "PaymentXMutation",
       "name": "paymentX",
-      "url": "/travelgatex/reference/objects/paymentxmutation",
+      "url": "undefined/objects/paymentxmutation",
       "description": "",
       "isDeprecated": false,
       "args": null

@@ -6,7 +6,7 @@
     {
       "typeString": "String!",
       "name": "cursor",
-      "url": "/stats/reference/scalars/string",
+      "url": "undefined/scalars/string",
       "description": "",
       "isDeprecated": false,
       "args": null
@@ -14,7 +14,7 @@
     {
       "typeString": "Stats",
       "name": "node",
-      "url": "/stats/reference/objects/stats",
+      "url": "undefined/objects/stats",
       "description": "",
       "isDeprecated": false,
       "args": null
@@ -24,7 +24,7 @@
     {
       "name": "StatsConnection",
       "description": "",
-      "url": "/stats/reference/objects/statsconnection"
+      "url": "undefined/objects/statsconnection"
     }
   ],
   "enumValues": null,

@@ -6,7 +6,7 @@
     {
       "typeString": "String!",
       "name": "cursor",
-      "url": "/travelgatex/reference/scalars/string",
+      "url": "undefined/scalars/string",
       "description": "",
       "isDeprecated": false,
       "args": null
@@ -14,7 +14,7 @@
     {
       "typeString": "Hotel",
       "name": "node",
-      "url": "/travelgatex/reference/objects/hotel",
+      "url": "undefined/objects/hotel",
       "description": "",
       "isDeprecated": false,
       "args": null
@@ -24,7 +24,7 @@
     {
       "name": "HotelConnection",
       "description": "HotelList definition",
-      "url": "/travelgatex/reference/objects/hotelconnection"
+      "url": "undefined/objects/hotelconnection"
     }
   ],
   "enumValues": null,

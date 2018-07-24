@@ -6,7 +6,7 @@
     {
       "typeString": "ID!",
       "name": "code",
-      "url": "/mappea/reference/scalars/id",
+      "url": "undefined/scalars/id",
       "description": "",
       "isDeprecated": false,
       "args": null
@@ -14,7 +14,7 @@
     {
       "typeString": "Supplier",
       "name": "supplier",
-      "url": "/mappea/reference/objects/supplier",
+      "url": "undefined/objects/supplier",
       "description": "",
       "isDeprecated": false,
       "args": null
@@ -22,7 +22,7 @@
     {
       "typeString": "Int!",
       "name": "numberOfHotels",
-      "url": "/mappea/reference/scalars/int",
+      "url": "undefined/scalars/int",
       "description": "",
       "isDeprecated": false,
       "args": null

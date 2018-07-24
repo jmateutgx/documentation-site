@@ -6,7 +6,7 @@
     {
       "typeString": "[APIEdge]",
       "name": "edges",
-      "url": "/travelgatex/reference/objects/apiedge",
+      "url": "undefined/objects/apiedge",
       "description": "",
       "isDeprecated": false,
       "args": null
@@ -14,7 +14,7 @@
     {
       "typeString": "PageInfo!",
       "name": "pageInfo",
-      "url": "/travelgatex/reference/objects/pageinfo",
+      "url": "undefined/objects/pageinfo",
       "description": "",
       "isDeprecated": false,
       "args": null
@@ -24,32 +24,32 @@
     {
       "name": "AdminQuery",
       "description": "The admin query root of TravelgateX's GraphQL interface.",
-      "url": "/travelgatex/reference/objects/adminquery"
+      "url": "undefined/objects/adminquery"
     },
     {
       "name": "OrganizationData",
       "description": "",
-      "url": "/travelgatex/reference/objects/organizationdata"
+      "url": "undefined/objects/organizationdata"
     },
     {
       "name": "GroupCommonData",
       "description": "",
-      "url": "/travelgatex/reference/interfaces/groupcommondata"
+      "url": "undefined/interfaces/groupcommondata"
     },
     {
       "name": "GroupData",
       "description": "",
-      "url": "/travelgatex/reference/objects/groupdata"
+      "url": "undefined/objects/groupdata"
     },
     {
       "name": "ResourceData",
       "description": "",
-      "url": "/travelgatex/reference/objects/resourcedata"
+      "url": "undefined/objects/resourcedata"
     },
     {
       "name": "ProductData",
       "description": "",
-      "url": "/travelgatex/reference/objects/productdata"
+      "url": "undefined/objects/productdata"
     }
   ],
   "enumValues": null,

@@ -7,37 +7,37 @@
     {
       "name": "File",
       "description": "",
-      "url": "/mappea/reference/objects/file"
+      "url": "undefined/objects/file"
     },
     {
       "name": "GetMappeaStatsData",
       "description": "",
-      "url": "/mappea/reference/objects/getmappeastatsdata"
+      "url": "undefined/objects/getmappeastatsdata"
     },
     {
       "name": "MappeaConfirmUploadInput",
       "description": "## ConfirmUpload",
-      "url": "/mappea/reference/inputobjects/mappeaconfirmuploadinput"
+      "url": "undefined/inputobjects/mappeaconfirmuploadinput"
     },
     {
       "name": "MappeaMapSupplierInput",
       "description": "# MapSupplier",
-      "url": "/mappea/reference/inputobjects/mappeamapsupplierinput"
+      "url": "undefined/inputobjects/mappeamapsupplierinput"
     },
     {
       "name": "UploadFileData",
       "description": "",
-      "url": "/mappea/reference/objects/uploadfiledata"
+      "url": "undefined/objects/uploadfiledata"
     },
     {
       "name": "SupplierDetected",
       "description": "",
-      "url": "/mappea/reference/objects/supplierdetected"
+      "url": "undefined/objects/supplierdetected"
     },
     {
       "name": "SupplierData",
       "description": "",
-      "url": "/mappea/reference/objects/supplierdata"
+      "url": "undefined/objects/supplierdata"
     }
   ],
   "enumValues": null,

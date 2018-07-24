@@ -6,7 +6,7 @@
     {
       "typeString": "ID!",
       "name": "code",
-      "url": "/stats/reference/scalars/id",
+      "url": "undefined/scalars/id",
       "description": "",
       "isDeprecated": false,
       "args": null
@@ -14,7 +14,7 @@
     {
       "typeString": "AccessData",
       "name": "accessData",
-      "url": "/stats/reference/objects/accessdata",
+      "url": "undefined/objects/accessdata",
       "description": "",
       "isDeprecated": false,
       "args": null
@@ -22,7 +22,7 @@
     {
       "typeString": "[Error!]",
       "name": "error",
-      "url": "/stats/reference/objects/error",
+      "url": "undefined/objects/error",
       "description": "Errors that abort services",
       "isDeprecated": false,
       "args": null
@@ -30,7 +30,7 @@
     {
       "typeString": "DateTime!",
       "name": "createdAt",
-      "url": "/stats/reference/scalars/datetime",
+      "url": "undefined/scalars/datetime",
       "description": "Date created",
       "isDeprecated": false,
       "args": null
@@ -38,7 +38,7 @@
     {
       "typeString": "DateTime!",
       "name": "updatedAt",
-      "url": "/stats/reference/scalars/datetime",
+      "url": "undefined/scalars/datetime",
       "description": "Date updated",
       "isDeprecated": false,
       "args": null
@@ -48,17 +48,17 @@
     {
       "name": "StatsData",
       "description": "",
-      "url": "/stats/reference/objects/statsdata"
+      "url": "undefined/objects/statsdata"
     },
     {
       "name": "AccessData",
       "description": "",
-      "url": "/stats/reference/objects/accessdata"
+      "url": "undefined/objects/accessdata"
     },
     {
       "name": "AccessEdge",
       "description": "",
-      "url": "/stats/reference/objects/accessedge"
+      "url": "undefined/objects/accessedge"
     }
   ],
   "enumValues": null,

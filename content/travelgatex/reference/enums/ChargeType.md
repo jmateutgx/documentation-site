@@ -7,12 +7,12 @@
     {
       "name": "Supplement",
       "description": "Supplement that it can be or its already added to the option returned. Contains all the information about the supplement.",
-      "url": "/travelgatex/reference/objects/supplement"
+      "url": "undefined/objects/supplement"
     },
     {
       "name": "Surcharge",
       "description": "Surcharge that it can be or it is already added to the option returned. Contains all the information about the surcharge.",
-      "url": "/travelgatex/reference/objects/surcharge"
+      "url": "undefined/objects/surcharge"
     }
   ],
   "enumValues": [

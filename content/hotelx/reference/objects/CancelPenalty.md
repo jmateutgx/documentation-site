@@ -6,7 +6,7 @@
     {
       "typeString": "Int!",
       "name": "hoursBefore",
-      "url": "/hotelx/reference/scalars/int",
+      "url": "undefined/scalars/int",
       "description": "Cancellation fees applicable X number of hours before the check-in date",
       "isDeprecated": false,
       "args": null
@@ -14,7 +14,7 @@
     {
       "typeString": "CancelPenaltyType!",
       "name": "penaltyType",
-      "url": "/hotelx/reference/enums/cancelpenaltytype",
+      "url": "undefined/enums/cancelpenaltytype",
       "description": "Type of penalty; this can be Nights, Percent or Import",
       "isDeprecated": false,
       "args": null
@@ -22,7 +22,7 @@
     {
       "typeString": "Currency!",
       "name": "currency",
-      "url": "/hotelx/reference/scalars/currency",
+      "url": "undefined/scalars/currency",
       "description": "Currency used in the cancellation policy",
       "isDeprecated": false,
       "args": null
@@ -30,7 +30,7 @@
     {
       "typeString": "Float!",
       "name": "value",
-      "url": "/hotelx/reference/scalars/float",
+      "url": "undefined/scalars/float",
       "description": "Value of the cancellation policy",
       "isDeprecated": false,
       "args": null

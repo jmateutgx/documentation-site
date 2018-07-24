@@ -6,7 +6,7 @@
     {
       "typeString": "ID!",
       "name": "code",
-      "url": "/travelgatex/reference/scalars/id",
+      "url": "undefined/scalars/id",
       "description": "",
       "isDeprecated": false,
       "args": null
@@ -14,7 +14,7 @@
     {
       "typeString": "ProfileData",
       "name": "profileData",
-      "url": "/travelgatex/reference/objects/profiledata",
+      "url": "undefined/objects/profiledata",
       "description": "",
       "isDeprecated": false,
       "args": null
@@ -22,14 +22,14 @@
     {
       "typeString": "[AdviseMessage!]",
       "name": "adviseMessage",
-      "url": "/travelgatex/reference/interfaces/advisemessage",
+      "url": "undefined/interfaces/advisemessage",
       "description": "List of messages",
       "isDeprecated": false,
       "args": [
         {
           "typeString": "[AdviseMessageLevel]",
           "name": "level",
-          "url": "/travelgatex/reference/enums/advisemessagelevel",
+          "url": "undefined/enums/advisemessagelevel",
           "description": ""
         }
       ]
@@ -37,7 +37,7 @@
     {
       "typeString": "DateTime!",
       "name": "createdAt",
-      "url": "/travelgatex/reference/scalars/datetime",
+      "url": "undefined/scalars/datetime",
       "description": "Create date",
       "isDeprecated": false,
       "args": null
@@ -45,7 +45,7 @@
     {
       "typeString": "DateTime!",
       "name": "updatedAt",
-      "url": "/travelgatex/reference/scalars/datetime",
+      "url": "undefined/scalars/datetime",
       "description": "Update date",
       "isDeprecated": false,
       "args": null
@@ -55,12 +55,12 @@
     {
       "name": "ProfileEdge",
       "description": "",
-      "url": "/travelgatex/reference/objects/profileedge"
+      "url": "undefined/objects/profileedge"
     },
     {
       "name": "AdminMutation",
       "description": "The admin query root of TravelgateX's for implementing GraphQL mutations.",
-      "url": "/travelgatex/reference/objects/adminmutation"
+      "url": "undefined/objects/adminmutation"
     }
   ],
   "enumValues": null,

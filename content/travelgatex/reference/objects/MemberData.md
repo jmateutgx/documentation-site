@@ -6,7 +6,7 @@
     {
       "typeString": "ID!",
       "name": "id",
-      "url": "/travelgatex/reference/scalars/id",
+      "url": "undefined/scalars/id",
       "description": "",
       "isDeprecated": false,
       "args": null
@@ -14,7 +14,7 @@
     {
       "typeString": "ID!",
       "name": "code",
-      "url": "/travelgatex/reference/scalars/id",
+      "url": "undefined/scalars/id",
       "description": "",
       "isDeprecated": false,
       "args": null
@@ -22,7 +22,7 @@
     {
       "typeString": "String",
       "name": "label",
-      "url": "/travelgatex/reference/scalars/string",
+      "url": "undefined/scalars/string",
       "description": "",
       "isDeprecated": false,
       "args": null
@@ -30,7 +30,7 @@
     {
       "typeString": "MemberType!",
       "name": "type",
-      "url": "/travelgatex/reference/enums/membertype",
+      "url": "undefined/enums/membertype",
       "description": "Member Type",
       "isDeprecated": false,
       "args": null
@@ -38,44 +38,44 @@
     {
       "typeString": "GroupConnection",
       "name": "groups",
-      "url": "/travelgatex/reference/objects/groupconnection",
+      "url": "undefined/objects/groupconnection",
       "description": "which groups the member is in?",
       "isDeprecated": false,
       "args": [
         {
           "typeString": "[ID!]",
           "name": "codes",
-          "url": "/travelgatex/reference/scalars/id",
+          "url": "undefined/scalars/id",
           "description": ""
         },
         {
           "typeString": "GroupType",
           "name": "type",
-          "url": "/travelgatex/reference/enums/grouptype",
+          "url": "undefined/enums/grouptype",
           "description": ""
         },
         {
           "typeString": "Int",
           "name": "first",
-          "url": "/travelgatex/reference/scalars/int",
+          "url": "undefined/scalars/int",
           "description": ""
         },
         {
           "typeString": "Int",
           "name": "last",
-          "url": "/travelgatex/reference/scalars/int",
+          "url": "undefined/scalars/int",
           "description": ""
         },
         {
           "typeString": "String",
           "name": "before",
-          "url": "/travelgatex/reference/scalars/string",
+          "url": "undefined/scalars/string",
           "description": ""
         },
         {
           "typeString": "String",
           "name": "after",
-          "url": "/travelgatex/reference/scalars/string",
+          "url": "undefined/scalars/string",
           "description": ""
         }
       ]
@@ -83,44 +83,44 @@
     {
       "typeString": "RoleConnection",
       "name": "roles",
-      "url": "/travelgatex/reference/objects/roleconnection",
+      "url": "undefined/objects/roleconnection",
       "description": "which roles the member has in?",
       "isDeprecated": false,
       "args": [
         {
           "typeString": "[ID!]",
           "name": "codes",
-          "url": "/travelgatex/reference/scalars/id",
+          "url": "undefined/scalars/id",
           "description": ""
         },
         {
           "typeString": "RoleType",
           "name": "type",
-          "url": "/travelgatex/reference/enums/roletype",
+          "url": "undefined/enums/roletype",
           "description": ""
         },
         {
           "typeString": "Int",
           "name": "first",
-          "url": "/travelgatex/reference/scalars/int",
+          "url": "undefined/scalars/int",
           "description": ""
         },
         {
           "typeString": "Int",
           "name": "last",
-          "url": "/travelgatex/reference/scalars/int",
+          "url": "undefined/scalars/int",
           "description": ""
         },
         {
           "typeString": "String",
           "name": "before",
-          "url": "/travelgatex/reference/scalars/string",
+          "url": "undefined/scalars/string",
           "description": ""
         },
         {
           "typeString": "String",
           "name": "after",
-          "url": "/travelgatex/reference/scalars/string",
+          "url": "undefined/scalars/string",
           "description": ""
         }
       ]
@@ -130,7 +130,7 @@
     {
       "name": "Member",
       "description": "You grant access to members which can be either:\nUsers: A developer, administrator or any other person from your Organization who interacts with the TravelgateX Platform. An email address can be used as the identity of a User.\nService Accounts: An application (Client) instead of an individual User. If you prefer, you can create as many Service Accounts as needed to represent different logical components of your application.",
-      "url": "/travelgatex/reference/objects/member"
+      "url": "undefined/objects/member"
     }
   ],
   "enumValues": null,

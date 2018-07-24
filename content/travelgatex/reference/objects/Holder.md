@@ -6,7 +6,7 @@
     {
       "typeString": "String!",
       "name": "name",
-      "url": "/travelgatex/reference/scalars/string",
+      "url": "undefined/scalars/string",
       "description": "Holder's name",
       "isDeprecated": false,
       "args": null
@@ -14,7 +14,7 @@
     {
       "typeString": "String!",
       "name": "surname",
-      "url": "/travelgatex/reference/scalars/string",
+      "url": "undefined/scalars/string",
       "description": "Holder's surname",
       "isDeprecated": false,
       "args": null
@@ -24,12 +24,12 @@
     {
       "name": "HotelBookingDetail",
       "description": "Contains information about booking",
-      "url": "/travelgatex/reference/objects/hotelbookingdetail"
+      "url": "undefined/objects/hotelbookingdetail"
     },
     {
       "name": "PaymentCard",
       "description": "Input PaymentCard, if the payment is done by credit card, is it mandatory to specify the payment type and the credit card information",
-      "url": "/travelgatex/reference/objects/paymentcard"
+      "url": "undefined/objects/paymentcard"
     }
   ],
   "enumValues": null,

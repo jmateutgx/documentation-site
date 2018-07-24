@@ -6,20 +6,20 @@
     {
       "typeString": "HotelBooking",
       "name": "hotel",
-      "url": "/travelgatex/reference/objects/hotelbooking",
+      "url": "undefined/objects/hotelbooking",
       "description": "Returns detailed information about books, you can indicated a list of locators or a range date.",
       "isDeprecated": true,
       "args": [
         {
           "typeString": "HotelCriteriaBookingInput!",
           "name": "criteria",
-          "url": "/travelgatex/reference/inputobjects/hotelcriteriabookinginput",
+          "url": "undefined/inputobjects/hotelcriteriabookinginput",
           "description": ""
         },
         {
           "typeString": "HotelSettingsInput",
           "name": "settings",
-          "url": "/travelgatex/reference/inputobjects/hotelsettingsinput",
+          "url": "undefined/inputobjects/hotelsettingsinput",
           "description": ""
         }
       ],

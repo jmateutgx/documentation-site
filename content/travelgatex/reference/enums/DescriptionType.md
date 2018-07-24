@@ -7,7 +7,7 @@
     {
       "name": "Description",
       "description": "Object description indicates the type and the description about something.",
-      "url": "/travelgatex/reference/objects/description"
+      "url": "undefined/objects/description"
     }
   ],
   "enumValues": [

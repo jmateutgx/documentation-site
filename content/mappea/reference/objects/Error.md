@@ -6,7 +6,7 @@
     {
       "typeString": "String!",
       "name": "code",
-      "url": "/mappea/reference/scalars/string",
+      "url": "undefined/scalars/string",
       "description": "Error code",
       "isDeprecated": false,
       "args": null
@@ -14,7 +14,7 @@
     {
       "typeString": "String!",
       "name": "type",
-      "url": "/mappea/reference/scalars/string",
+      "url": "undefined/scalars/string",
       "description": "Error type",
       "isDeprecated": false,
       "args": null
@@ -22,7 +22,7 @@
     {
       "typeString": "String!",
       "name": "description",
-      "url": "/mappea/reference/scalars/string",
+      "url": "undefined/scalars/string",
       "description": "Error description",
       "isDeprecated": false,
       "args": null
@@ -32,22 +32,22 @@
     {
       "name": "GetUploadedFilesResponse",
       "description": "## GetUploadedFiles",
-      "url": "/mappea/reference/objects/getuploadedfilesresponse"
+      "url": "undefined/objects/getuploadedfilesresponse"
     },
     {
       "name": "GetMappeaStatsResponse",
       "description": "",
-      "url": "/mappea/reference/objects/getmappeastatsresponse"
+      "url": "undefined/objects/getmappeastatsresponse"
     },
     {
       "name": "OnlyStatusResponse",
       "description": "## Common Items",
-      "url": "/mappea/reference/objects/onlystatusresponse"
+      "url": "undefined/objects/onlystatusresponse"
     },
     {
       "name": "UploadFileResponse",
       "description": "",
-      "url": "/mappea/reference/objects/uploadfileresponse"
+      "url": "undefined/objects/uploadfileresponse"
     }
   ],
   "enumValues": null,

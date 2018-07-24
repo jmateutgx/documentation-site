@@ -6,7 +6,7 @@
     {
       "typeString": "String",
       "name": "context",
-      "url": "/travelgatex/reference/scalars/string",
+      "url": "undefined/scalars/string",
       "description": "Indicates the context of the response.",
       "isDeprecated": false,
       "args": null
@@ -14,14 +14,14 @@
     {
       "typeString": "StatsRequest",
       "name": "stats",
-      "url": "/travelgatex/reference/objects/statsrequest",
+      "url": "undefined/objects/statsrequest",
       "description": "Application stats in string format",
       "isDeprecated": false,
       "args": [
         {
           "typeString": "String!",
           "name": "token",
-          "url": "/travelgatex/reference/scalars/string",
+          "url": "undefined/scalars/string",
           "description": ""
         }
       ]
@@ -29,7 +29,7 @@
     {
       "typeString": "AuditData",
       "name": "auditData",
-      "url": "/travelgatex/reference/objects/auditdata",
+      "url": "undefined/objects/auditdata",
       "description": "Data sent and received in the supplier's native format.",
       "isDeprecated": false,
       "args": null
@@ -37,7 +37,7 @@
     {
       "typeString": "CriteriaSearch",
       "name": "requestCriteria",
-      "url": "/travelgatex/reference/objects/criteriasearch",
+      "url": "undefined/objects/criteriasearch",
       "description": "Request Criteria",
       "isDeprecated": false,
       "args": null
@@ -45,7 +45,7 @@
     {
       "typeString": "[HotelOptionSearch!]",
       "name": "options",
-      "url": "/travelgatex/reference/objects/hoteloptionsearch",
+      "url": "undefined/objects/hoteloptionsearch",
       "description": "List of options returned according to the request.",
       "isDeprecated": false,
       "args": null
@@ -53,7 +53,7 @@
     {
       "typeString": "[Error!]",
       "name": "errors",
-      "url": "/travelgatex/reference/objects/error",
+      "url": "undefined/objects/error",
       "description": "Errors that abort services",
       "isDeprecated": false,
       "args": null
@@ -61,7 +61,7 @@
     {
       "typeString": "[Warning!]",
       "name": "warnings",
-      "url": "/travelgatex/reference/objects/warning",
+      "url": "undefined/objects/warning",
       "description": "Potentially harmful situations or errors that won't force the service to abort",
       "isDeprecated": false,
       "args": null
@@ -71,12 +71,12 @@
     {
       "name": "HotelXQuery",
       "description": "",
-      "url": "/travelgatex/reference/objects/hotelxquery"
+      "url": "undefined/objects/hotelxquery"
     },
     {
       "name": "Search",
       "description": "Available options for a given date and itinerary. It does not filter different classes, times or\nfares. It will always retrieve all results returned by the suppliers. The availability request is very straight\nforward.",
-      "url": "/travelgatex/reference/objects/search"
+      "url": "undefined/objects/search"
     }
   ],
   "enumValues": null,

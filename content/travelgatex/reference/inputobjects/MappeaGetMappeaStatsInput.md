@@ -6,14 +6,14 @@
     {
       "typeString": "String!",
       "name": "organizationName",
-      "url": "/travelgatex/reference/scalars/string",
+      "url": "undefined/scalars/string",
       "description": "",
       "args": null
     },
     {
       "typeString": "String",
       "name": "supplierMapped",
-      "url": "/travelgatex/reference/scalars/string",
+      "url": "undefined/scalars/string",
       "description": "",
       "args": null
     }

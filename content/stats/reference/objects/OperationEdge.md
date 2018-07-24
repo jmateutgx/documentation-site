@@ -6,7 +6,7 @@
     {
       "typeString": "String!",
       "name": "cursor",
-      "url": "/stats/reference/scalars/string",
+      "url": "undefined/scalars/string",
       "description": "",
       "isDeprecated": false,
       "args": null
@@ -14,7 +14,7 @@
     {
       "typeString": "Operation",
       "name": "node",
-      "url": "/stats/reference/objects/operation",
+      "url": "undefined/objects/operation",
       "description": "",
       "isDeprecated": false,
       "args": null
@@ -24,7 +24,7 @@
     {
       "name": "OperationConnection",
       "description": "",
-      "url": "/stats/reference/objects/operationconnection"
+      "url": "undefined/objects/operationconnection"
     }
   ],
   "enumValues": null,

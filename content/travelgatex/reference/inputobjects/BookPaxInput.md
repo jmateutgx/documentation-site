@@ -6,21 +6,21 @@
     {
       "typeString": "String!",
       "name": "name",
-      "url": "/travelgatex/reference/scalars/string",
+      "url": "undefined/scalars/string",
       "description": "The guest's first  name",
       "args": null
     },
     {
       "typeString": "String!",
       "name": "surname",
-      "url": "/travelgatex/reference/scalars/string",
+      "url": "undefined/scalars/string",
       "description": "The guest's last name",
       "args": null
     },
     {
       "typeString": "Int!",
       "name": "age",
-      "url": "/travelgatex/reference/scalars/int",
+      "url": "undefined/scalars/int",
       "description": "The guest's age",
       "args": null
     }

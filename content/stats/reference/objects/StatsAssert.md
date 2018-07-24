@@ -6,7 +6,7 @@
     {
       "typeString": "DateTime!",
       "name": "startTime",
-      "url": "/stats/reference/scalars/datetime",
+      "url": "undefined/scalars/datetime",
       "description": "Start time of the request",
       "isDeprecated": false,
       "args": null
@@ -14,7 +14,7 @@
     {
       "typeString": "Int!",
       "name": "execTime",
-      "url": "/stats/reference/scalars/int",
+      "url": "undefined/scalars/int",
       "description": "Execution time of the request",
       "isDeprecated": false,
       "args": null
@@ -22,7 +22,7 @@
     {
       "typeString": "URI!",
       "name": "url",
-      "url": "/stats/reference/scalars/uri",
+      "url": "undefined/scalars/uri",
       "description": "Endpoint to download the full XML of the request with its response",
       "isDeprecated": false,
       "args": null

@@ -6,14 +6,14 @@
     {
       "typeString": "Int!",
       "name": "month",
-      "url": "/travelgatex/reference/scalars/int",
+      "url": "undefined/scalars/int",
       "description": "Month MM",
       "args": null
     },
     {
       "typeString": "Int!",
       "name": "year",
-      "url": "/travelgatex/reference/scalars/int",
+      "url": "undefined/scalars/int",
       "description": "Year yy",
       "args": null
     }
@@ -22,7 +22,7 @@
     {
       "name": "PaymentCardInput",
       "description": "Input PaymentCard, if the payment is done by credit card, is it mandatory to specify the payment type and the credit card information",
-      "url": "/travelgatex/reference/inputobjects/paymentcardinput"
+      "url": "undefined/inputobjects/paymentcardinput"
     }
   ],
   "enumValues": null,

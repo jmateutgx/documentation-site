@@ -6,7 +6,7 @@
     {
       "typeString": "String",
       "name": "name",
-      "url": "/travelgatex/reference/scalars/string",
+      "url": "undefined/scalars/string",
       "description": "Indicates property type",
       "isDeprecated": false,
       "args": null
@@ -14,7 +14,7 @@
     {
       "typeString": "String",
       "name": "code",
-      "url": "/travelgatex/reference/scalars/string",
+      "url": "undefined/scalars/string",
       "description": "Indicates property type code",
       "isDeprecated": false,
       "args": null
@@ -24,7 +24,7 @@
     {
       "name": "HotelData",
       "description": "Hotel data",
-      "url": "/travelgatex/reference/objects/hoteldata"
+      "url": "undefined/objects/hoteldata"
     }
   ],
   "enumValues": null,

@@ -6,7 +6,7 @@
     {
       "typeString": "ID!",
       "name": "code",
-      "url": "/travelgatex/reference/scalars/id",
+      "url": "undefined/scalars/id",
       "description": "",
       "isDeprecated": false,
       "args": null
@@ -14,7 +14,7 @@
     {
       "typeString": "PointOfSaleData",
       "name": "pointOfSaleData",
-      "url": "/travelgatex/reference/objects/pointofsaledata",
+      "url": "undefined/objects/pointofsaledata",
       "description": "",
       "isDeprecated": false,
       "args": null
@@ -22,7 +22,7 @@
     {
       "typeString": "DateTime!",
       "name": "createdAt",
-      "url": "/travelgatex/reference/scalars/datetime",
+      "url": "undefined/scalars/datetime",
       "description": "Create date",
       "isDeprecated": false,
       "args": null
@@ -30,7 +30,7 @@
     {
       "typeString": "DateTime!",
       "name": "updatedAt",
-      "url": "/travelgatex/reference/scalars/datetime",
+      "url": "undefined/scalars/datetime",
       "description": "Update date",
       "isDeprecated": false,
       "args": null
@@ -38,14 +38,14 @@
     {
       "typeString": "[AdviseMessage!]",
       "name": "adviseMessage",
-      "url": "/travelgatex/reference/interfaces/advisemessage",
-      "description": "List of messages",
+      "url": "undefined/interfaces/advisemessage",
+      "description": "List of advise messages.",
       "isDeprecated": false,
       "args": [
         {
           "typeString": "[AdviseMessageLevel]",
           "name": "level",
-          "url": "/travelgatex/reference/enums/advisemessagelevel",
+          "url": "undefined/enums/advisemessagelevel",
           "description": ""
         }
       ]
@@ -55,12 +55,12 @@
     {
       "name": "PointOfSaleEdge",
       "description": "",
-      "url": "/travelgatex/reference/objects/pointofsaleedge"
+      "url": "undefined/objects/pointofsaleedge"
     },
     {
       "name": "PaymentXBookingInfo",
       "description": "",
-      "url": "/travelgatex/reference/objects/paymentxbookinginfo"
+      "url": "undefined/objects/paymentxbookinginfo"
     }
   ],
   "enumValues": null,

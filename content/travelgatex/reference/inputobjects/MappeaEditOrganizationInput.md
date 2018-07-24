@@ -6,21 +6,21 @@
     {
       "typeString": "String!",
       "name": "name",
-      "url": "/travelgatex/reference/scalars/string",
+      "url": "undefined/scalars/string",
       "description": "",
       "args": null
     },
     {
       "typeString": "Boolean",
       "name": "isActive",
-      "url": "/travelgatex/reference/scalars/boolean",
+      "url": "undefined/scalars/boolean",
       "description": "",
       "args": null
     },
     {
       "typeString": "Boolean",
       "name": "isTest",
-      "url": "/travelgatex/reference/scalars/boolean",
+      "url": "undefined/scalars/boolean",
       "description": "",
       "args": null
     }

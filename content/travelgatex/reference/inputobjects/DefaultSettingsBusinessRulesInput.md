@@ -6,14 +6,14 @@
     {
       "typeString": "Int!",
       "name": "optionsQuota",
-      "url": "/travelgatex/reference/scalars/int",
+      "url": "undefined/scalars/int",
       "description": "Options quota per availability; numbers of options based on availability",
       "args": null
     },
     {
       "typeString": "BusinessRulesType!",
       "name": "businessRulesType",
-      "url": "/travelgatex/reference/enums/businessrulestype",
+      "url": "undefined/enums/businessrulestype",
       "description": "Different business rules for filtering options that you are interested in",
       "args": null
     }
@@ -22,7 +22,7 @@
     {
       "name": "DefaultSettingsInput",
       "description": "",
-      "url": "/travelgatex/reference/inputobjects/defaultsettingsinput"
+      "url": "undefined/inputobjects/defaultsettingsinput"
     }
   ],
   "enumValues": null,

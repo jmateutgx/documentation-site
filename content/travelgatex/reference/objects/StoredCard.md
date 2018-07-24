@@ -6,7 +6,7 @@
     {
       "typeString": "ID!",
       "name": "code",
-      "url": "/travelgatex/reference/scalars/id",
+      "url": "undefined/scalars/id",
       "description": "",
       "isDeprecated": false,
       "args": null
@@ -14,7 +14,7 @@
     {
       "typeString": "StoredCardData",
       "name": "storedCardData",
-      "url": "/travelgatex/reference/objects/storedcarddata",
+      "url": "undefined/objects/storedcarddata",
       "description": "",
       "isDeprecated": false,
       "args": null
@@ -22,7 +22,7 @@
     {
       "typeString": "DateTime!",
       "name": "createdAt",
-      "url": "/travelgatex/reference/scalars/datetime",
+      "url": "undefined/scalars/datetime",
       "description": "Create date",
       "isDeprecated": false,
       "args": null
@@ -30,7 +30,7 @@
     {
       "typeString": "DateTime!",
       "name": "updatedAt",
-      "url": "/travelgatex/reference/scalars/datetime",
+      "url": "undefined/scalars/datetime",
       "description": "Update date",
       "isDeprecated": false,
       "args": null
@@ -38,14 +38,14 @@
     {
       "typeString": "[AdviseMessage!]",
       "name": "adviseMessage",
-      "url": "/travelgatex/reference/interfaces/advisemessage",
+      "url": "undefined/interfaces/advisemessage",
       "description": "List of messages",
       "isDeprecated": false,
       "args": [
         {
           "typeString": "[AdviseMessageLevel]",
           "name": "level",
-          "url": "/travelgatex/reference/enums/advisemessagelevel",
+          "url": "undefined/enums/advisemessagelevel",
           "description": ""
         }
       ]
@@ -55,12 +55,12 @@
     {
       "name": "StoredCardEdge",
       "description": "",
-      "url": "/travelgatex/reference/objects/storedcardedge"
+      "url": "undefined/objects/storedcardedge"
     },
     {
       "name": "PaymentXMutation",
       "description": "",
-      "url": "/travelgatex/reference/objects/paymentxmutation"
+      "url": "undefined/objects/paymentxmutation"
     }
   ],
   "enumValues": null,

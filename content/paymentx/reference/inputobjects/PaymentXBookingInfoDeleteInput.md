@@ -6,21 +6,21 @@
     {
       "typeString": "String!",
       "name": "organization",
-      "url": "/paymentx/reference/scalars/string",
+      "url": "undefined/scalars/string",
       "description": "Responsible organization of the booked property.",
       "args": null
     },
     {
       "typeString": "ID!",
       "name": "pointOfSaleCode",
-      "url": "/paymentx/reference/scalars/id",
+      "url": "undefined/scalars/id",
       "description": "Indicates the code of the booked property",
       "args": null
     },
     {
       "typeString": "String!",
       "name": "bookingReference",
-      "url": "/paymentx/reference/scalars/string",
+      "url": "undefined/scalars/string",
       "description": "Indicates the referece of the booking",
       "args": null
     }

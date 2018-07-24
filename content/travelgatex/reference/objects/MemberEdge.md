@@ -6,7 +6,7 @@
     {
       "typeString": "String!",
       "name": "cursor",
-      "url": "/travelgatex/reference/scalars/string",
+      "url": "undefined/scalars/string",
       "description": "",
       "isDeprecated": false,
       "args": null
@@ -14,7 +14,7 @@
     {
       "typeString": "Member",
       "name": "node",
-      "url": "/travelgatex/reference/objects/member",
+      "url": "undefined/objects/member",
       "description": "",
       "isDeprecated": false,
       "args": null
@@ -24,7 +24,7 @@
     {
       "name": "MemberConnection",
       "description": "",
-      "url": "/travelgatex/reference/objects/memberconnection"
+      "url": "undefined/objects/memberconnection"
     }
   ],
   "enumValues": null,

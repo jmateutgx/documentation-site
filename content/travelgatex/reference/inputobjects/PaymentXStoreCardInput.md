@@ -6,14 +6,14 @@
     {
       "typeString": "PaymentXBookingInfoInput!",
       "name": "bookingInfo",
-      "url": "/travelgatex/reference/inputobjects/paymentxbookinginfoinput",
+      "url": "undefined/inputobjects/paymentxbookinginfoinput",
       "description": "",
       "args": null
     },
     {
       "typeString": "PaymentCardInput!",
       "name": "card",
-      "url": "/travelgatex/reference/inputobjects/paymentcardinput",
+      "url": "undefined/inputobjects/paymentcardinput",
       "description": "",
       "args": null
     }

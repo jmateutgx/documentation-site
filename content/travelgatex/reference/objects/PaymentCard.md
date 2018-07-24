@@ -6,7 +6,7 @@
     {
       "typeString": "String!",
       "name": "cardType",
-      "url": "/travelgatex/reference/scalars/string",
+      "url": "undefined/scalars/string",
       "description": "Indicates the card type.",
       "isDeprecated": false,
       "args": null
@@ -14,7 +14,7 @@
     {
       "typeString": "Holder!",
       "name": "holder",
-      "url": "/travelgatex/reference/objects/holder",
+      "url": "undefined/objects/holder",
       "description": "Contains owner's name",
       "isDeprecated": false,
       "args": null
@@ -22,7 +22,7 @@
     {
       "typeString": "CardNumber!",
       "name": "number",
-      "url": "/travelgatex/reference/scalars/cardnumber",
+      "url": "undefined/scalars/cardnumber",
       "description": "Card Number (16 digits typically)",
       "isDeprecated": false,
       "args": null
@@ -30,7 +30,7 @@
     {
       "typeString": "CVC!",
       "name": "CVC",
-      "url": "/travelgatex/reference/scalars/cvc",
+      "url": "undefined/scalars/cvc",
       "description": "Contains credit card CVC",
       "isDeprecated": false,
       "args": null
@@ -38,7 +38,7 @@
     {
       "typeString": "ExpireDate!",
       "name": "expire",
-      "url": "/travelgatex/reference/objects/expiredate",
+      "url": "undefined/objects/expiredate",
       "description": "Contains credit card expiration date",
       "isDeprecated": false,
       "args": null
@@ -48,7 +48,7 @@
     {
       "name": "StoredCardData",
       "description": "",
-      "url": "/travelgatex/reference/objects/storedcarddata"
+      "url": "undefined/objects/storedcarddata"
     }
   ],
   "enumValues": null,

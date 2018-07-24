@@ -7,42 +7,42 @@
     {
       "name": "MappeaMapSupplierInput",
       "description": "# MapSupplier",
-      "url": "/mappea/reference/inputobjects/mappeamapsupplierinput"
+      "url": "undefined/inputobjects/mappeamapsupplierinput"
     },
     {
       "name": "SupplierDetected",
       "description": "",
-      "url": "/mappea/reference/objects/supplierdetected"
+      "url": "undefined/objects/supplierdetected"
     },
     {
       "name": "Supplier",
       "description": "A Supplier is a Partner who is connected to TravelgateX on the supply side in order to sell their product to connected Buyers",
-      "url": "/mappea/reference/objects/supplier"
+      "url": "undefined/objects/supplier"
     },
     {
       "name": "SupplierData",
       "description": "",
-      "url": "/mappea/reference/objects/supplierdata"
+      "url": "undefined/objects/supplierdata"
     },
     {
       "name": "Provider",
       "description": "Temporary type to use only during SQL server's lifetime",
-      "url": "/mappea/reference/objects/provider"
+      "url": "undefined/objects/provider"
     },
     {
       "name": "Access",
       "description": "An Access is a set of credentials and configuration in order to access the system of a Supplier.",
-      "url": "/mappea/reference/objects/access"
+      "url": "undefined/objects/access"
     },
     {
       "name": "AccessData",
       "description": "",
-      "url": "/mappea/reference/objects/accessdata"
+      "url": "undefined/objects/accessdata"
     },
     {
       "name": "Parameter",
       "description": "Parameters for additional information for the supplier's configuration.",
-      "url": "/mappea/reference/objects/parameter"
+      "url": "undefined/objects/parameter"
     }
   ],
   "enumValues": null,

@@ -6,21 +6,21 @@
     {
       "typeString": "SettingsBaseInput",
       "name": "settings",
-      "url": "/travelgatex/reference/inputobjects/settingsbaseinput",
+      "url": "undefined/inputobjects/settingsbaseinput",
       "description": "You can configure an special settings for any supplier. This level overwrites the avail settings level but not the\naccess settings level.",
       "args": null
     },
     {
       "typeString": "String!",
       "name": "code",
-      "url": "/travelgatex/reference/scalars/string",
+      "url": "undefined/scalars/string",
       "description": "Code that represents a supplier in our system.\nThis information is mandatory.",
       "args": null
     },
     {
       "typeString": "[HotelXAccessInput!]",
       "name": "accesses",
-      "url": "/travelgatex/reference/inputobjects/hotelxaccessinput",
+      "url": "undefined/inputobjects/hotelxaccessinput",
       "description": "Array of accesses that can overwrite an existing access information or include a new access for this avail.",
       "args": null
     }

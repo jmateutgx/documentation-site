@@ -6,14 +6,14 @@
     {
       "typeString": "PaymentXBookingInfoInput!",
       "name": "bookingInfo",
-      "url": "/paymentx/reference/inputobjects/paymentxbookinginfoinput",
+      "url": "undefined/inputobjects/paymentxbookinginfoinput",
       "description": "",
       "args": null
     },
     {
       "typeString": "PaymentCardInput!",
       "name": "card",
-      "url": "/paymentx/reference/inputobjects/paymentcardinput",
+      "url": "undefined/inputobjects/paymentcardinput",
       "description": "",
       "args": null
     }

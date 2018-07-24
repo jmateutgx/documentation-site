@@ -6,7 +6,7 @@
     {
       "typeString": "ID!",
       "name": "code",
-      "url": "/paymentx/reference/scalars/id",
+      "url": "undefined/scalars/id",
       "description": "POS Identifier",
       "isDeprecated": false,
       "args": null
@@ -14,7 +14,7 @@
     {
       "typeString": "String",
       "name": "name",
-      "url": "/paymentx/reference/scalars/string",
+      "url": "undefined/scalars/string",
       "description": "POS Name",
       "isDeprecated": false,
       "args": null
@@ -24,12 +24,7 @@
     {
       "name": "PointOfSale",
       "description": "",
-      "url": "/paymentx/reference/objects/pointofsale"
-    },
-    {
-      "name": "PointOfSale",
-      "description": "",
-      "url": "/paymentx/reference/objects/pointofsale"
+      "url": "undefined/objects/pointofsale"
     }
   ],
   "enumValues": null,

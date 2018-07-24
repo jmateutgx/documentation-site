@@ -7,72 +7,52 @@
     {
       "name": "Board",
       "description": "Board type.",
-      "url": "/hotelx/reference/objects/board"
+      "url": "undefined/objects/board"
     },
     {
       "name": "Category",
       "description": "Category Type",
-      "url": "/hotelx/reference/objects/category"
+      "url": "undefined/objects/category"
     },
     {
       "name": "Hotel",
       "description": "Hotel Type",
-      "url": "/hotelx/reference/objects/hotel"
+      "url": "undefined/objects/hotel"
     },
     {
       "name": "Media",
       "description": "Contains media information.",
-      "url": "/hotelx/reference/objects/media"
+      "url": "undefined/objects/media"
     },
     {
       "name": "Airport",
       "description": "Airport Type",
-      "url": "/hotelx/reference/objects/airport"
+      "url": "undefined/objects/airport"
     },
     {
       "name": "RoomStatic",
       "description": "Room Type",
-      "url": "/hotelx/reference/objects/roomstatic"
+      "url": "undefined/objects/roomstatic"
     },
     {
       "name": "Destination",
       "description": "Destination Type",
-      "url": "/hotelx/reference/objects/destination"
+      "url": "undefined/objects/destination"
     },
     {
       "name": "AuditData",
       "description": "Data sent and received in the supplier’s native format.",
-      "url": "/hotelx/reference/objects/auditdata"
+      "url": "undefined/objects/auditdata"
     },
     {
       "name": "Stat",
       "description": "",
-      "url": "/hotelx/reference/objects/stat"
-    },
-    {
-      "name": "Stat",
-      "description": "",
-      "url": "/hotelx/reference/objects/stat"
-    },
-    {
-      "name": "Stat",
-      "description": "",
-      "url": "/hotelx/reference/objects/stat"
-    },
-    {
-      "name": "Stat",
-      "description": "",
-      "url": "/hotelx/reference/objects/stat"
-    },
-    {
-      "name": "Stat",
-      "description": "",
-      "url": "/hotelx/reference/objects/stat"
+      "url": "undefined/objects/stat"
     },
     {
       "name": "Transactions",
       "description": "Supplier transaction",
-      "url": "/hotelx/reference/objects/transactions"
+      "url": "undefined/objects/transactions"
     }
   ],
   "enumValues": null,

@@ -6,7 +6,7 @@
     {
       "typeString": "String!",
       "name": "text",
-      "url": "/travelgatex/reference/scalars/string",
+      "url": "undefined/scalars/string",
       "description": "",
       "isDeprecated": false,
       "args": null
@@ -14,7 +14,7 @@
     {
       "typeString": "Language!",
       "name": "language",
-      "url": "/travelgatex/reference/scalars/language",
+      "url": "undefined/scalars/language",
       "description": "",
       "isDeprecated": false,
       "args": null

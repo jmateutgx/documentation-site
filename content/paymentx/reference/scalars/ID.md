@@ -7,47 +7,32 @@
     {
       "name": "PaymentXBookingInfoFilterInput",
       "description": "",
-      "url": "/paymentx/reference/inputobjects/paymentxbookinginfofilterinput"
+      "url": "undefined/inputobjects/paymentxbookinginfofilterinput"
     },
     {
       "name": "StoredCard",
       "description": "",
-      "url": "/paymentx/reference/objects/storedcard"
+      "url": "undefined/objects/storedcard"
     },
     {
       "name": "AdviseMessage",
       "description": "List of advise messages.",
-      "url": "/paymentx/reference/interfaces/advisemessage"
+      "url": "undefined/interfaces/advisemessage"
     },
     {
       "name": "PointOfSale",
       "description": "",
-      "url": "/paymentx/reference/objects/pointofsale"
+      "url": "undefined/objects/pointofsale"
     },
     {
       "name": "PointOfSaleData",
       "description": "",
-      "url": "/paymentx/reference/objects/pointofsaledata"
-    },
-    {
-      "name": "StoredCard",
-      "description": "",
-      "url": "/paymentx/reference/objects/storedcard"
+      "url": "undefined/objects/pointofsaledata"
     },
     {
       "name": "PaymentXBookingInfoDeleteInput",
       "description": "",
-      "url": "/paymentx/reference/inputobjects/paymentxbookinginfodeleteinput"
-    },
-    {
-      "name": "PointOfSale",
-      "description": "",
-      "url": "/paymentx/reference/objects/pointofsale"
-    },
-    {
-      "name": "PointOfSaleData",
-      "description": "",
-      "url": "/paymentx/reference/objects/pointofsaledata"
+      "url": "undefined/inputobjects/paymentxbookinginfodeleteinput"
     }
   ],
   "enumValues": null,

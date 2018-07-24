@@ -6,7 +6,7 @@
     {
       "typeString": "String",
       "name": "email",
-      "url": "/hotelx/reference/scalars/string",
+      "url": "undefined/scalars/string",
       "description": "Email",
       "isDeprecated": false,
       "args": null
@@ -14,7 +14,7 @@
     {
       "typeString": "String",
       "name": "telephone",
-      "url": "/hotelx/reference/scalars/string",
+      "url": "undefined/scalars/string",
       "description": "Telephone",
       "isDeprecated": false,
       "args": null
@@ -22,7 +22,7 @@
     {
       "typeString": "String",
       "name": "fax",
-      "url": "/hotelx/reference/scalars/string",
+      "url": "undefined/scalars/string",
       "description": "Fax",
       "isDeprecated": false,
       "args": null
@@ -30,7 +30,7 @@
     {
       "typeString": "URI",
       "name": "web",
-      "url": "/hotelx/reference/scalars/uri",
+      "url": "undefined/scalars/uri",
       "description": "Web",
       "isDeprecated": false,
       "args": null
@@ -40,7 +40,7 @@
     {
       "name": "HotelData",
       "description": "Hotel data",
-      "url": "/hotelx/reference/objects/hoteldata"
+      "url": "undefined/objects/hoteldata"
     }
   ],
   "enumValues": null,

@@ -6,7 +6,7 @@
     {
       "typeString": "ServiceStatus!",
       "name": "vaultStatusService",
-      "url": "/paymentx/reference/objects/servicestatus",
+      "url": "undefined/objects/servicestatus",
       "description": "Returns status of the search service.",
       "isDeprecated": false,
       "args": null
@@ -14,20 +14,20 @@
     {
       "typeString": "StoredCardConnection!",
       "name": "cards",
-      "url": "/paymentx/reference/objects/storedcardconnection",
+      "url": "undefined/objects/storedcardconnection",
       "description": "",
       "isDeprecated": false,
       "args": [
         {
           "typeString": "PaymentXBookingInfoFilterInput!",
           "name": "bookingInfo",
-          "url": "/paymentx/reference/inputobjects/paymentxbookinginfofilterinput",
+          "url": "undefined/inputobjects/paymentxbookinginfofilterinput",
           "description": ""
         },
         {
           "typeString": "PaymentXBookingInfoCriteriaInput",
           "name": "bookingInfoCriteria",
-          "url": "/paymentx/reference/inputobjects/paymentxbookinginfocriteriainput",
+          "url": "undefined/inputobjects/paymentxbookinginfocriteriainput",
           "description": ""
         }
       ]

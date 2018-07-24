@@ -7,12 +7,12 @@
     {
       "name": "HotelBookingDetail",
       "description": "Contains information about booking",
-      "url": "/travelgatex/reference/objects/hotelbookingdetail"
+      "url": "undefined/objects/hotelbookingdetail"
     },
     {
       "name": "HotelCancelDetail",
       "description": "Contains information about cancel",
-      "url": "/travelgatex/reference/objects/hotelcanceldetail"
+      "url": "undefined/objects/hotelcanceldetail"
     }
   ],
   "enumValues": [

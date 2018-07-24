@@ -6,7 +6,7 @@
     {
       "typeString": "String!",
       "name": "cursor",
-      "url": "/travelgatex/reference/scalars/string",
+      "url": "undefined/scalars/string",
       "description": "",
       "isDeprecated": false,
       "args": null
@@ -14,7 +14,7 @@
     {
       "typeString": "Entity",
       "name": "node",
-      "url": "/travelgatex/reference/objects/entity",
+      "url": "undefined/objects/entity",
       "description": "",
       "isDeprecated": false,
       "args": null
@@ -24,7 +24,7 @@
     {
       "name": "EntityConnection",
       "description": "",
-      "url": "/travelgatex/reference/objects/entityconnection"
+      "url": "undefined/objects/entityconnection"
     }
   ],
   "enumValues": null,

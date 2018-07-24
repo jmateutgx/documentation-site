@@ -6,7 +6,7 @@
     {
       "typeString": "Stat!",
       "name": "total",
-      "url": "/travelgatex/reference/objects/stat",
+      "url": "undefined/objects/stat",
       "description": "Total transaction time",
       "isDeprecated": false,
       "args": null
@@ -14,7 +14,7 @@
     {
       "typeString": "Stat!",
       "name": "validation",
-      "url": "/travelgatex/reference/objects/stat",
+      "url": "undefined/objects/stat",
       "description": "Request validation time",
       "isDeprecated": false,
       "args": null
@@ -22,7 +22,7 @@
     {
       "typeString": "Stat!",
       "name": "process",
-      "url": "/travelgatex/reference/objects/stat",
+      "url": "undefined/objects/stat",
       "description": "Process time. Contains communication time, parse time and plugin time.",
       "isDeprecated": false,
       "args": null
@@ -30,7 +30,7 @@
     {
       "typeString": "Stat!",
       "name": "configuration",
-      "url": "/travelgatex/reference/objects/stat",
+      "url": "undefined/objects/stat",
       "description": "Build access time",
       "isDeprecated": false,
       "args": null
@@ -38,7 +38,7 @@
     {
       "typeString": "Stat!",
       "name": "request",
-      "url": "/travelgatex/reference/objects/stat",
+      "url": "undefined/objects/stat",
       "description": "Request time",
       "isDeprecated": false,
       "args": null
@@ -46,7 +46,7 @@
     {
       "typeString": "Stat!",
       "name": "response",
-      "url": "/travelgatex/reference/objects/stat",
+      "url": "undefined/objects/stat",
       "description": "Response time",
       "isDeprecated": false,
       "args": null
@@ -54,7 +54,7 @@
     {
       "typeString": "StatPlugin",
       "name": "requestPlugin",
-      "url": "/travelgatex/reference/objects/statplugin",
+      "url": "undefined/objects/statplugin",
       "description": "Plugin execution time",
       "isDeprecated": false,
       "args": null
@@ -62,7 +62,7 @@
     {
       "typeString": "StatPlugin",
       "name": "responsePlugin",
-      "url": "/travelgatex/reference/objects/statplugin",
+      "url": "undefined/objects/statplugin",
       "description": "Plugin execution time",
       "isDeprecated": false,
       "args": null
@@ -70,7 +70,7 @@
     {
       "typeString": "Int!",
       "name": "hotels",
-      "url": "/travelgatex/reference/scalars/int",
+      "url": "undefined/scalars/int",
       "description": "Number of hotels",
       "isDeprecated": false,
       "args": null
@@ -78,7 +78,7 @@
     {
       "typeString": "Int!",
       "name": "zones",
-      "url": "/travelgatex/reference/scalars/int",
+      "url": "undefined/scalars/int",
       "description": "Number of zones",
       "isDeprecated": false,
       "args": null
@@ -86,7 +86,7 @@
     {
       "typeString": "Int!",
       "name": "cities",
-      "url": "/travelgatex/reference/scalars/int",
+      "url": "undefined/scalars/int",
       "description": "Number of cities",
       "isDeprecated": false,
       "args": null
@@ -94,7 +94,7 @@
     {
       "typeString": "String!",
       "name": "dockerID",
-      "url": "/travelgatex/reference/scalars/string",
+      "url": "undefined/scalars/string",
       "description": "Docker Id",
       "isDeprecated": false,
       "args": null
@@ -102,7 +102,7 @@
     {
       "typeString": "[StatAccess!]!",
       "name": "Accesses",
-      "url": "/travelgatex/reference/objects/stataccess",
+      "url": "undefined/objects/stataccess",
       "description": "Detail access time",
       "isDeprecated": false,
       "args": null
@@ -112,32 +112,32 @@
     {
       "name": "HotelSearch",
       "description": "Results from Avail Hotel; contains all the available options for a given date and itinerary",
-      "url": "/travelgatex/reference/objects/hotelsearch"
+      "url": "undefined/objects/hotelsearch"
     },
     {
       "name": "Response",
       "description": "",
-      "url": "/travelgatex/reference/interfaces/response"
+      "url": "undefined/interfaces/response"
     },
     {
       "name": "HotelQuote",
       "description": "",
-      "url": "/travelgatex/reference/objects/hotelquote"
+      "url": "undefined/objects/hotelquote"
     },
     {
       "name": "HotelBooking",
       "description": "",
-      "url": "/travelgatex/reference/objects/hotelbooking"
+      "url": "undefined/objects/hotelbooking"
     },
     {
       "name": "HotelBookPayload",
       "description": "",
-      "url": "/travelgatex/reference/objects/hotelbookpayload"
+      "url": "undefined/objects/hotelbookpayload"
     },
     {
       "name": "HotelCancelPayload",
       "description": "",
-      "url": "/travelgatex/reference/objects/hotelcancelpayload"
+      "url": "undefined/objects/hotelcancelpayload"
     }
   ],
   "enumValues": null,

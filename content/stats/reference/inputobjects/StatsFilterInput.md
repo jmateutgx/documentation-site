@@ -6,56 +6,56 @@
     {
       "typeString": "[ID!]",
       "name": "groups",
-      "url": "/stats/reference/scalars/id",
+      "url": "undefined/scalars/id",
       "description": "Groups codes list",
       "args": null
     },
     {
       "typeString": "[ID!]",
       "name": "accesses",
-      "url": "/stats/reference/scalars/id",
+      "url": "undefined/scalars/id",
       "description": "List of accesses",
       "args": null
     },
     {
       "typeString": "[ID!]",
       "name": "suppliers",
-      "url": "/stats/reference/scalars/id",
+      "url": "undefined/scalars/id",
       "description": "List of suppliers",
       "args": null
     },
     {
       "typeString": "[ServiceApiType!]",
       "name": "serviceApis",
-      "url": "/stats/reference/enums/serviceapitype",
+      "url": "undefined/enums/serviceapitype",
       "description": "List of services apis",
       "args": null
     },
     {
       "typeString": "[ServiceOperationType!]",
       "name": "operation",
-      "url": "/stats/reference/enums/serviceoperationtype",
+      "url": "undefined/enums/serviceoperationtype",
       "description": "List of services operations",
       "args": null
     },
     {
       "typeString": "[ID!]",
       "name": "serviceOperations",
-      "url": "/stats/reference/scalars/id",
+      "url": "undefined/scalars/id",
       "description": "",
       "args": null
     },
     {
       "typeString": "DateTime!",
       "name": "from",
-      "url": "/stats/reference/scalars/datetime",
+      "url": "undefined/scalars/datetime",
       "description": "From date of search",
       "args": null
     },
     {
       "typeString": "DateTime!",
       "name": "to",
-      "url": "/stats/reference/scalars/datetime",
+      "url": "undefined/scalars/datetime",
       "description": "To date of search",
       "args": null
     }

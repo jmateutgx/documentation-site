@@ -7,67 +7,67 @@
     {
       "name": "MappeaGetMappeaStatsInput",
       "description": "# GetMappeaStats",
-      "url": "/mappea/reference/inputobjects/mappeagetmappeastatsinput"
+      "url": "undefined/inputobjects/mappeagetmappeastatsinput"
     },
     {
       "name": "Error",
       "description": "Application errors",
-      "url": "/mappea/reference/objects/error"
+      "url": "undefined/objects/error"
     },
     {
       "name": "Warning",
       "description": "Application warnings",
-      "url": "/mappea/reference/objects/warning"
+      "url": "undefined/objects/warning"
     },
     {
       "name": "File",
       "description": "",
-      "url": "/mappea/reference/objects/file"
+      "url": "undefined/objects/file"
     },
     {
       "name": "GetMappeaStatsData",
       "description": "",
-      "url": "/mappea/reference/objects/getmappeastatsdata"
+      "url": "undefined/objects/getmappeastatsdata"
     },
     {
       "name": "MappeaUploadFileInput",
       "description": "## UploadFile",
-      "url": "/mappea/reference/inputobjects/mappeauploadfileinput"
+      "url": "undefined/inputobjects/mappeauploadfileinput"
     },
     {
       "name": "UploadFileData",
       "description": "",
-      "url": "/mappea/reference/objects/uploadfiledata"
+      "url": "undefined/objects/uploadfiledata"
     },
     {
       "name": "SupplierData",
       "description": "",
-      "url": "/mappea/reference/objects/supplierdata"
+      "url": "undefined/objects/supplierdata"
     },
     {
       "name": "Provider",
       "description": "Temporary type to use only during SQL server's lifetime",
-      "url": "/mappea/reference/objects/provider"
+      "url": "undefined/objects/provider"
     },
     {
       "name": "AccessEdge",
       "description": "",
-      "url": "/mappea/reference/objects/accessedge"
+      "url": "undefined/objects/accessedge"
     },
     {
       "name": "PageInfo",
       "description": "",
-      "url": "/mappea/reference/objects/pageinfo"
+      "url": "undefined/objects/pageinfo"
     },
     {
       "name": "AccessData",
       "description": "",
-      "url": "/mappea/reference/objects/accessdata"
+      "url": "undefined/objects/accessdata"
     },
     {
       "name": "Parameter",
       "description": "Parameters for additional information for the supplier's configuration.",
-      "url": "/mappea/reference/objects/parameter"
+      "url": "undefined/objects/parameter"
     }
   ],
   "enumValues": null,

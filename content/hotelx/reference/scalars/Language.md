@@ -7,62 +7,32 @@
     {
       "name": "HotelCriteriaQuoteInput",
       "description": "The quote criteria contains the option reference id, block and language.",
-      "url": "/hotelx/reference/inputobjects/hotelcriteriaquoteinput"
+      "url": "undefined/inputobjects/hotelcriteriaquoteinput"
     },
     {
       "name": "HotelCriteriaBookingInput",
       "description": "Criteria of book contains basic information to find a book or books.",
-      "url": "/hotelx/reference/inputobjects/hotelcriteriabookinginput"
+      "url": "undefined/inputobjects/hotelcriteriabookinginput"
     },
     {
       "name": "Text",
       "description": "",
-      "url": "/hotelx/reference/interfaces/text"
-    },
-    {
-      "name": "Text",
-      "description": "",
-      "url": "/hotelx/reference/interfaces/text"
-    },
-    {
-      "name": "Text",
-      "description": "",
-      "url": "/hotelx/reference/interfaces/text"
-    },
-    {
-      "name": "Text",
-      "description": "",
-      "url": "/hotelx/reference/interfaces/text"
-    },
-    {
-      "name": "Text",
-      "description": "",
-      "url": "/hotelx/reference/interfaces/text"
-    },
-    {
-      "name": "Text",
-      "description": "",
-      "url": "/hotelx/reference/interfaces/text"
-    },
-    {
-      "name": "Text",
-      "description": "",
-      "url": "/hotelx/reference/interfaces/text"
+      "url": "undefined/interfaces/text"
     },
     {
       "name": "CriteriaSearch",
       "description": "Search criteria contains destination, travel dates and the number of pax in each room.",
-      "url": "/hotelx/reference/objects/criteriasearch"
+      "url": "undefined/objects/criteriasearch"
     },
     {
       "name": "HotelBookInput",
       "description": "Criteria of book.",
-      "url": "/hotelx/reference/inputobjects/hotelbookinput"
+      "url": "undefined/inputobjects/hotelbookinput"
     },
     {
       "name": "HotelCancelInput",
       "description": "Cancellation Criteria.",
-      "url": "/hotelx/reference/inputobjects/hotelcancelinput"
+      "url": "undefined/inputobjects/hotelcancelinput"
     }
   ],
   "enumValues": null,

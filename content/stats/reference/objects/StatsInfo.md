@@ -6,7 +6,7 @@
     {
       "typeString": "ID!",
       "name": "code",
-      "url": "/stats/reference/scalars/id",
+      "url": "undefined/scalars/id",
       "description": "",
       "isDeprecated": false,
       "args": null
@@ -14,7 +14,7 @@
     {
       "typeString": "StatsInfoTypes!",
       "name": "type",
-      "url": "/stats/reference/enums/statsinfotypes",
+      "url": "undefined/enums/statsinfotypes",
       "description": "Stats type",
       "isDeprecated": false,
       "args": null
@@ -22,7 +22,7 @@
     {
       "typeString": "Int!",
       "name": "hits",
-      "url": "/stats/reference/scalars/int",
+      "url": "undefined/scalars/int",
       "description": "Total hits",
       "isDeprecated": false,
       "args": null
@@ -30,7 +30,7 @@
     {
       "typeString": "Int!",
       "name": "time",
-      "url": "/stats/reference/scalars/int",
+      "url": "undefined/scalars/int",
       "description": "Average time (ms)",
       "isDeprecated": false,
       "args": null
@@ -38,7 +38,7 @@
     {
       "typeString": "[StatsAssert!]",
       "name": "asserts",
-      "url": "/stats/reference/objects/statsassert",
+      "url": "undefined/objects/statsassert",
       "description": "Details about errors.",
       "isDeprecated": false,
       "args": null

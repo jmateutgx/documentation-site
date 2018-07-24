@@ -6,21 +6,21 @@
     {
       "typeString": "ID!",
       "name": "access",
-      "url": "/travelgatex/reference/scalars/id",
+      "url": "undefined/scalars/id",
       "description": "Indicates the access",
       "args": null
     },
     {
       "typeString": "[String!]",
       "name": "destinationCodes",
-      "url": "/travelgatex/reference/scalars/string",
+      "url": "undefined/scalars/string",
       "description": "Search by hotel codes",
       "args": null
     },
     {
       "typeString": "Int",
       "name": "maxSize",
-      "url": "/travelgatex/reference/scalars/int",
+      "url": "undefined/scalars/int",
       "description": "Maxium number of items per page",
       "args": null
     }

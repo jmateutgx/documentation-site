@@ -6,7 +6,7 @@
     {
       "typeString": "Currency!",
       "name": "currency",
-      "url": "/travelgatex/reference/scalars/currency",
+      "url": "undefined/scalars/currency",
       "description": "Provide information about the currency of origin",
       "isDeprecated": false,
       "args": null
@@ -14,7 +14,7 @@
     {
       "typeString": "Float!",
       "name": "rate",
-      "url": "/travelgatex/reference/scalars/float",
+      "url": "undefined/scalars/float",
       "description": "Provides information about the rate applied over results",
       "isDeprecated": false,
       "args": null
@@ -24,17 +24,17 @@
     {
       "name": "Price",
       "description": "Price indicates the value of the room/option.\nSupplements and/or surcharges can be included into the price, and will be verified with nodes Supplements/Surcharges.",
-      "url": "/travelgatex/reference/objects/price"
+      "url": "undefined/objects/price"
     },
     {
       "name": "Priceable",
       "description": "",
-      "url": "/travelgatex/reference/interfaces/priceable"
+      "url": "undefined/interfaces/priceable"
     },
     {
       "name": "Markup",
       "description": "Informs markup applied over supplier price.",
-      "url": "/travelgatex/reference/objects/markup"
+      "url": "undefined/objects/markup"
     }
   ],
   "enumValues": null,

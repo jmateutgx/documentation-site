@@ -6,7 +6,7 @@
     {
       "typeString": "Int!",
       "name": "lookToQuote",
-      "url": "/travelgatex/reference/scalars/int",
+      "url": "undefined/scalars/int",
       "description": "Searches needed to do a quote",
       "isDeprecated": false,
       "args": null
@@ -14,7 +14,7 @@
     {
       "typeString": "Int!",
       "name": "lookToBook",
-      "url": "/travelgatex/reference/scalars/int",
+      "url": "undefined/scalars/int",
       "description": "Searches needed to do a booking",
       "isDeprecated": false,
       "args": null
@@ -22,7 +22,7 @@
     {
       "typeString": "Int!",
       "name": "quoteToBook",
-      "url": "/travelgatex/reference/scalars/int",
+      "url": "undefined/scalars/int",
       "description": "Quotes needed to do a booking",
       "isDeprecated": false,
       "args": null
@@ -32,7 +32,7 @@
     {
       "name": "StatsData",
       "description": "",
-      "url": "/travelgatex/reference/objects/statsdata"
+      "url": "undefined/objects/statsdata"
     }
   ],
   "enumValues": null,

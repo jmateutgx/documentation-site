@@ -6,7 +6,7 @@
     {
       "typeString": "URI",
       "name": "search",
-      "url": "/travelgatex/reference/scalars/uri",
+      "url": "undefined/scalars/uri",
       "description": "Specific URL for Availability method.",
       "isDeprecated": false,
       "args": null
@@ -14,7 +14,7 @@
     {
       "typeString": "URI",
       "name": "quote",
-      "url": "/travelgatex/reference/scalars/uri",
+      "url": "undefined/scalars/uri",
       "description": "Specific URL for Reservation method.",
       "isDeprecated": false,
       "args": null
@@ -22,7 +22,7 @@
     {
       "typeString": "URI",
       "name": "book",
-      "url": "/travelgatex/reference/scalars/uri",
+      "url": "undefined/scalars/uri",
       "description": "Specific URL for Valuation method.",
       "isDeprecated": false,
       "args": null
@@ -30,7 +30,7 @@
     {
       "typeString": "URI",
       "name": "generic",
-      "url": "/travelgatex/reference/scalars/uri",
+      "url": "undefined/scalars/uri",
       "description": "Supplier URL used for multiple methods.",
       "isDeprecated": false,
       "args": null
@@ -40,7 +40,7 @@
     {
       "name": "AccessData",
       "description": "",
-      "url": "/travelgatex/reference/objects/accessdata"
+      "url": "undefined/objects/accessdata"
     }
   ],
   "enumValues": null,

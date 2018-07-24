@@ -6,7 +6,7 @@
     {
       "typeString": "[File]",
       "name": "files",
-      "url": "/mappea/reference/objects/file",
+      "url": "undefined/objects/file",
       "description": "",
       "isDeprecated": false,
       "args": null
@@ -16,7 +16,7 @@
     {
       "name": "GetUploadedFilesResponse",
       "description": "## GetUploadedFiles",
-      "url": "/mappea/reference/objects/getuploadedfilesresponse"
+      "url": "undefined/objects/getuploadedfilesresponse"
     }
   ],
   "enumValues": null,

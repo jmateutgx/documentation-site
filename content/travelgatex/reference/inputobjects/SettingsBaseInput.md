@@ -6,21 +6,21 @@
     {
       "typeString": "Int",
       "name": "timeout",
-      "url": "/travelgatex/reference/scalars/int",
+      "url": "undefined/scalars/int",
       "description": "Milliseconds before the connection is closed.",
       "args": null
     },
     {
       "typeString": "Boolean",
       "name": "auditTransactions",
-      "url": "/travelgatex/reference/scalars/boolean",
+      "url": "undefined/scalars/boolean",
       "description": "Specifies if transactions exchanged with the supplier have to be logged or not.",
       "args": null
     },
     {
       "typeString": "BusinessRulesInput",
       "name": "businessRules",
-      "url": "/travelgatex/reference/inputobjects/businessrulesinput",
+      "url": "undefined/inputobjects/businessrulesinput",
       "description": "Business rules",
       "args": null
     }
@@ -29,12 +29,12 @@
     {
       "name": "HotelXSupplierInput",
       "description": "Supplier object. Contains its own settings, code and access.",
-      "url": "/travelgatex/reference/inputobjects/hotelxsupplierinput"
+      "url": "undefined/inputobjects/hotelxsupplierinput"
     },
     {
       "name": "HotelXAccessInput",
       "description": "AccessInput overwrites an existent access in our Back Office or creates a new\none to be used in this search query only. An access object contains its own code, configuration and settings.",
-      "url": "/travelgatex/reference/inputobjects/hotelxaccessinput"
+      "url": "undefined/inputobjects/hotelxaccessinput"
     }
   ],
   "enumValues": null,

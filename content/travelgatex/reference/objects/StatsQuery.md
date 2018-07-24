@@ -6,38 +6,38 @@
     {
       "typeString": "StatsConnection!",
       "name": "report",
-      "url": "/travelgatex/reference/objects/statsconnection",
+      "url": "undefined/objects/statsconnection",
       "description": "The report query, represents all of the entry points into our object graph",
       "isDeprecated": false,
       "args": [
         {
           "typeString": "StatsFilterInput!",
           "name": "filter",
-          "url": "/travelgatex/reference/inputobjects/statsfilterinput",
+          "url": "undefined/inputobjects/statsfilterinput",
           "description": ""
         },
         {
           "typeString": "Int",
           "name": "first",
-          "url": "/travelgatex/reference/scalars/int",
+          "url": "undefined/scalars/int",
           "description": ""
         },
         {
           "typeString": "Int",
           "name": "last",
-          "url": "/travelgatex/reference/scalars/int",
+          "url": "undefined/scalars/int",
           "description": ""
         },
         {
           "typeString": "String",
           "name": "before",
-          "url": "/travelgatex/reference/scalars/string",
+          "url": "undefined/scalars/string",
           "description": ""
         },
         {
           "typeString": "String",
           "name": "after",
-          "url": "/travelgatex/reference/scalars/string",
+          "url": "undefined/scalars/string",
           "description": ""
         }
       ]
@@ -47,7 +47,7 @@
     {
       "name": "Query",
       "description": "The query root of TravelgateX's GraphQL interface.",
-      "url": "/travelgatex/reference/schema/query"
+      "url": "undefined/schema/query"
     }
   ],
   "enumValues": null,

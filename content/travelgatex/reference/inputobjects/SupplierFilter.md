@@ -6,35 +6,35 @@
     {
       "typeString": "[ID]",
       "name": "supplierID",
-      "url": "/travelgatex/reference/scalars/id",
+      "url": "undefined/scalars/id",
       "description": "",
       "args": null
     },
     {
       "typeString": "[ID]",
       "name": "accessID",
-      "url": "/travelgatex/reference/scalars/id",
+      "url": "undefined/scalars/id",
       "description": "",
       "args": null
     },
     {
       "typeString": "[ID]",
       "name": "groupID",
-      "url": "/travelgatex/reference/scalars/id",
+      "url": "undefined/scalars/id",
       "description": "",
       "args": null
     },
     {
       "typeString": "Boolean",
       "name": "isActive",
-      "url": "/travelgatex/reference/scalars/boolean",
+      "url": "undefined/scalars/boolean",
       "description": "",
       "args": null
     },
     {
       "typeString": "[Int]",
       "name": "serviceAPI",
-      "url": "/travelgatex/reference/scalars/int",
+      "url": "undefined/scalars/int",
       "description": "",
       "args": null
     }

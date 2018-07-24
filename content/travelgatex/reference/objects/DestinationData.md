@@ -6,7 +6,7 @@
     {
       "typeString": "ID!",
       "name": "code",
-      "url": "/travelgatex/reference/scalars/id",
+      "url": "undefined/scalars/id",
       "description": "Destination Code",
       "isDeprecated": false,
       "args": null
@@ -14,7 +14,7 @@
     {
       "typeString": "Boolean!",
       "name": "available",
-      "url": "/travelgatex/reference/scalars/boolean",
+      "url": "undefined/scalars/boolean",
       "description": "Indicates if you can search by destination",
       "isDeprecated": false,
       "args": null
@@ -22,7 +22,7 @@
     {
       "typeString": "[String!]",
       "name": "destinationLeaf",
-      "url": "/travelgatex/reference/scalars/string",
+      "url": "undefined/scalars/string",
       "description": "Returns destination leafs of the destination.",
       "isDeprecated": false,
       "args": null
@@ -30,14 +30,14 @@
     {
       "typeString": "[Text!]!",
       "name": "texts",
-      "url": "/travelgatex/reference/interfaces/text",
+      "url": "undefined/interfaces/text",
       "description": "Contains the destination name",
       "isDeprecated": false,
       "args": [
         {
           "typeString": "[Language!]",
           "name": "languages",
-          "url": "/travelgatex/reference/scalars/language",
+          "url": "undefined/scalars/language",
           "description": ""
         }
       ]
@@ -45,7 +45,7 @@
     {
       "typeString": "[String!]",
       "name": "closestDestinations",
-      "url": "/travelgatex/reference/scalars/string",
+      "url": "undefined/scalars/string",
       "description": "Closest destinations, indicates destinations in proximity",
       "isDeprecated": false,
       "args": null
@@ -53,7 +53,7 @@
     {
       "typeString": "String",
       "name": "parent",
-      "url": "/travelgatex/reference/scalars/string",
+      "url": "undefined/scalars/string",
       "description": "Parent destination code",
       "isDeprecated": false,
       "args": null
@@ -61,7 +61,7 @@
     {
       "typeString": "DestinationType",
       "name": "type",
-      "url": "/travelgatex/reference/enums/destinationtype",
+      "url": "undefined/enums/destinationtype",
       "description": "Indicates destination type, zone or city",
       "isDeprecated": false,
       "args": null
@@ -71,12 +71,12 @@
     {
       "name": "Location",
       "description": "Indicates the location of the hotel",
-      "url": "/travelgatex/reference/objects/location"
+      "url": "undefined/objects/location"
     },
     {
       "name": "Destination",
       "description": "Destination Type",
-      "url": "/travelgatex/reference/objects/destination"
+      "url": "undefined/objects/destination"
     }
   ],
   "enumValues": null,

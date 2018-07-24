@@ -7,12 +7,12 @@
     {
       "name": "Urls",
       "description": "Url's",
-      "url": "/stats/reference/objects/urls"
+      "url": "undefined/objects/urls"
     },
     {
       "name": "StatsAssert",
       "description": "Assert of an specific error",
-      "url": "/stats/reference/objects/statsassert"
+      "url": "undefined/objects/statsassert"
     }
   ],
   "enumValues": null,

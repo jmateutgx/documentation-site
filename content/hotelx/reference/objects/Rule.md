@@ -6,7 +6,7 @@
     {
       "typeString": "String!",
       "name": "id",
-      "url": "/hotelx/reference/scalars/string",
+      "url": "undefined/scalars/string",
       "description": "rule identifier",
       "isDeprecated": false,
       "args": null
@@ -14,7 +14,7 @@
     {
       "typeString": "String",
       "name": "name",
-      "url": "/hotelx/reference/scalars/string",
+      "url": "undefined/scalars/string",
       "description": "rule name",
       "isDeprecated": false,
       "args": null
@@ -22,7 +22,7 @@
     {
       "typeString": "MarkupRuleType!",
       "name": "type",
-      "url": "/hotelx/reference/enums/markupruletype",
+      "url": "undefined/enums/markupruletype",
       "description": "type of the value",
       "isDeprecated": false,
       "args": null
@@ -30,7 +30,7 @@
     {
       "typeString": "Float!",
       "name": "value",
-      "url": "/hotelx/reference/scalars/float",
+      "url": "undefined/scalars/float",
       "description": "value applied by this rule",
       "isDeprecated": false,
       "args": null

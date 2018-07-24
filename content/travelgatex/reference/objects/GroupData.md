@@ -6,7 +6,7 @@
     {
       "typeString": "ID!",
       "name": "id",
-      "url": "/travelgatex/reference/scalars/id",
+      "url": "undefined/scalars/id",
       "description": "",
       "isDeprecated": false,
       "args": null
@@ -14,7 +14,7 @@
     {
       "typeString": "ID!",
       "name": "code",
-      "url": "/travelgatex/reference/scalars/id",
+      "url": "undefined/scalars/id",
       "description": "",
       "isDeprecated": false,
       "args": null
@@ -22,7 +22,7 @@
     {
       "typeString": "String",
       "name": "label",
-      "url": "/travelgatex/reference/scalars/string",
+      "url": "undefined/scalars/string",
       "description": "",
       "isDeprecated": false,
       "args": null
@@ -30,7 +30,7 @@
     {
       "typeString": "GroupType!",
       "name": "type",
-      "url": "/travelgatex/reference/enums/grouptype",
+      "url": "undefined/enums/grouptype",
       "description": "",
       "isDeprecated": false,
       "args": null
@@ -38,7 +38,7 @@
     {
       "typeString": "String",
       "name": "info",
-      "url": "/travelgatex/reference/scalars/string",
+      "url": "undefined/scalars/string",
       "description": "",
       "isDeprecated": false,
       "args": null
@@ -46,7 +46,7 @@
     {
       "typeString": "Group",
       "name": "parent",
-      "url": "/travelgatex/reference/objects/group",
+      "url": "undefined/objects/group",
       "description": "",
       "isDeprecated": false,
       "args": null
@@ -54,50 +54,50 @@
     {
       "typeString": "GroupConnection",
       "name": "children",
-      "url": "/travelgatex/reference/objects/groupconnection",
+      "url": "undefined/objects/groupconnection",
       "description": "Only responses children.(non-hierarchically)",
       "isDeprecated": false,
       "args": [
         {
           "typeString": "[ID!]",
           "name": "codes",
-          "url": "/travelgatex/reference/scalars/id",
+          "url": "undefined/scalars/id",
           "description": ""
         },
         {
           "typeString": "Int",
           "name": "first",
-          "url": "/travelgatex/reference/scalars/int",
+          "url": "undefined/scalars/int",
           "description": ""
         },
         {
           "typeString": "Int",
           "name": "last",
-          "url": "/travelgatex/reference/scalars/int",
+          "url": "undefined/scalars/int",
           "description": ""
         },
         {
           "typeString": "String",
           "name": "before",
-          "url": "/travelgatex/reference/scalars/string",
+          "url": "undefined/scalars/string",
           "description": ""
         },
         {
           "typeString": "String",
           "name": "after",
-          "url": "/travelgatex/reference/scalars/string",
+          "url": "undefined/scalars/string",
           "description": ""
         },
         {
           "typeString": "GroupType",
           "name": "type",
-          "url": "/travelgatex/reference/enums/grouptype",
+          "url": "undefined/enums/grouptype",
           "description": ""
         },
         {
           "typeString": "String",
           "name": "codeStartsWith",
-          "url": "/travelgatex/reference/scalars/string",
+          "url": "undefined/scalars/string",
           "description": ""
         }
       ]
@@ -105,7 +105,7 @@
     {
       "typeString": "Member",
       "name": "owner",
-      "url": "/travelgatex/reference/objects/member",
+      "url": "undefined/objects/member",
       "description": "",
       "isDeprecated": false,
       "args": null
@@ -113,7 +113,7 @@
     {
       "typeString": "Boolean!",
       "name": "isEditable",
-      "url": "/travelgatex/reference/scalars/boolean",
+      "url": "undefined/scalars/boolean",
       "description": "",
       "isDeprecated": false,
       "args": null
@@ -121,7 +121,7 @@
     {
       "typeString": "Int",
       "name": "productId",
-      "url": "/travelgatex/reference/scalars/int",
+      "url": "undefined/scalars/int",
       "description": "",
       "isDeprecated": false,
       "args": null
@@ -129,7 +129,7 @@
     {
       "typeString": "Int",
       "name": "resourceId",
-      "url": "/travelgatex/reference/scalars/int",
+      "url": "undefined/scalars/int",
       "description": "",
       "isDeprecated": false,
       "args": null
@@ -137,44 +137,44 @@
     {
       "typeString": "MemberConnection",
       "name": "members",
-      "url": "/travelgatex/reference/objects/memberconnection",
+      "url": "undefined/objects/memberconnection",
       "description": "Only responses members in this group",
       "isDeprecated": false,
       "args": [
         {
           "typeString": "[ID!]",
           "name": "codes",
-          "url": "/travelgatex/reference/scalars/id",
+          "url": "undefined/scalars/id",
           "description": ""
         },
         {
           "typeString": "MemberType",
           "name": "type",
-          "url": "/travelgatex/reference/enums/membertype",
+          "url": "undefined/enums/membertype",
           "description": ""
         },
         {
           "typeString": "Int",
           "name": "first",
-          "url": "/travelgatex/reference/scalars/int",
+          "url": "undefined/scalars/int",
           "description": ""
         },
         {
           "typeString": "Int",
           "name": "last",
-          "url": "/travelgatex/reference/scalars/int",
+          "url": "undefined/scalars/int",
           "description": ""
         },
         {
           "typeString": "String",
           "name": "before",
-          "url": "/travelgatex/reference/scalars/string",
+          "url": "undefined/scalars/string",
           "description": ""
         },
         {
           "typeString": "String",
           "name": "after",
-          "url": "/travelgatex/reference/scalars/string",
+          "url": "undefined/scalars/string",
           "description": ""
         }
       ]
@@ -182,38 +182,38 @@
     {
       "typeString": "APIConnection",
       "name": "apis",
-      "url": "/travelgatex/reference/objects/apiconnection",
+      "url": "undefined/objects/apiconnection",
       "description": "APIs assigned to this group. Products have APIs.",
       "isDeprecated": false,
       "args": [
         {
           "typeString": "[ID!]",
           "name": "codes",
-          "url": "/travelgatex/reference/scalars/id",
+          "url": "undefined/scalars/id",
           "description": ""
         },
         {
           "typeString": "Int",
           "name": "first",
-          "url": "/travelgatex/reference/scalars/int",
+          "url": "undefined/scalars/int",
           "description": ""
         },
         {
           "typeString": "Int",
           "name": "last",
-          "url": "/travelgatex/reference/scalars/int",
+          "url": "undefined/scalars/int",
           "description": ""
         },
         {
           "typeString": "String",
           "name": "before",
-          "url": "/travelgatex/reference/scalars/string",
+          "url": "undefined/scalars/string",
           "description": ""
         },
         {
           "typeString": "String",
           "name": "after",
-          "url": "/travelgatex/reference/scalars/string",
+          "url": "undefined/scalars/string",
           "description": ""
         }
       ]
@@ -221,44 +221,44 @@
     {
       "typeString": "GroupConnection",
       "name": "managedGroups",
-      "url": "/travelgatex/reference/objects/groupconnection",
+      "url": "undefined/objects/groupconnection",
       "description": "Responses all groups in its group's childrens (hierarchically),",
       "isDeprecated": false,
       "args": [
         {
           "typeString": "[ID!]",
           "name": "codes",
-          "url": "/travelgatex/reference/scalars/id",
+          "url": "undefined/scalars/id",
           "description": ""
         },
         {
           "typeString": "GroupType",
           "name": "type",
-          "url": "/travelgatex/reference/enums/grouptype",
+          "url": "undefined/enums/grouptype",
           "description": ""
         },
         {
           "typeString": "Int",
           "name": "first",
-          "url": "/travelgatex/reference/scalars/int",
+          "url": "undefined/scalars/int",
           "description": ""
         },
         {
           "typeString": "Int",
           "name": "last",
-          "url": "/travelgatex/reference/scalars/int",
+          "url": "undefined/scalars/int",
           "description": ""
         },
         {
           "typeString": "String",
           "name": "before",
-          "url": "/travelgatex/reference/scalars/string",
+          "url": "undefined/scalars/string",
           "description": ""
         },
         {
           "typeString": "String",
           "name": "after",
-          "url": "/travelgatex/reference/scalars/string",
+          "url": "undefined/scalars/string",
           "description": ""
         }
       ]
@@ -266,44 +266,44 @@
     {
       "typeString": "MemberConnection",
       "name": "allMembers",
-      "url": "/travelgatex/reference/objects/memberconnection",
+      "url": "undefined/objects/memberconnection",
       "description": "Response all members in this group's childrens (hierarchically),",
       "isDeprecated": false,
       "args": [
         {
           "typeString": "[ID!]",
           "name": "codes",
-          "url": "/travelgatex/reference/scalars/id",
+          "url": "undefined/scalars/id",
           "description": ""
         },
         {
           "typeString": "MemberType",
           "name": "type",
-          "url": "/travelgatex/reference/enums/membertype",
+          "url": "undefined/enums/membertype",
           "description": ""
         },
         {
           "typeString": "Int",
           "name": "first",
-          "url": "/travelgatex/reference/scalars/int",
+          "url": "undefined/scalars/int",
           "description": ""
         },
         {
           "typeString": "Int",
           "name": "last",
-          "url": "/travelgatex/reference/scalars/int",
+          "url": "undefined/scalars/int",
           "description": ""
         },
         {
           "typeString": "String",
           "name": "before",
-          "url": "/travelgatex/reference/scalars/string",
+          "url": "undefined/scalars/string",
           "description": ""
         },
         {
           "typeString": "String",
           "name": "after",
-          "url": "/travelgatex/reference/scalars/string",
+          "url": "undefined/scalars/string",
           "description": ""
         }
       ]
@@ -311,38 +311,38 @@
     {
       "typeString": "AccessConnection",
       "name": "accesses",
-      "url": "/travelgatex/reference/objects/accessconnection",
+      "url": "undefined/objects/accessconnection",
       "description": "Access resources in a group",
       "isDeprecated": false,
       "args": [
         {
           "typeString": "[ID!]",
           "name": "codes",
-          "url": "/travelgatex/reference/scalars/id",
+          "url": "undefined/scalars/id",
           "description": ""
         },
         {
           "typeString": "Int",
           "name": "first",
-          "url": "/travelgatex/reference/scalars/int",
+          "url": "undefined/scalars/int",
           "description": ""
         },
         {
           "typeString": "Int",
           "name": "last",
-          "url": "/travelgatex/reference/scalars/int",
+          "url": "undefined/scalars/int",
           "description": ""
         },
         {
           "typeString": "String",
           "name": "before",
-          "url": "/travelgatex/reference/scalars/string",
+          "url": "undefined/scalars/string",
           "description": ""
         },
         {
           "typeString": "String",
           "name": "after",
-          "url": "/travelgatex/reference/scalars/string",
+          "url": "undefined/scalars/string",
           "description": ""
         }
       ]
@@ -350,44 +350,44 @@
     {
       "typeString": "SupplierConnection",
       "name": "suppliers",
-      "url": "/travelgatex/reference/objects/supplierconnection",
+      "url": "undefined/objects/supplierconnection",
       "description": "Supplier resources in a group",
       "isDeprecated": false,
       "args": [
         {
           "typeString": "[ID!]",
           "name": "codes",
-          "url": "/travelgatex/reference/scalars/id",
+          "url": "undefined/scalars/id",
           "description": ""
         },
         {
           "typeString": "[ID!]",
           "name": "accessID",
-          "url": "/travelgatex/reference/scalars/id",
+          "url": "undefined/scalars/id",
           "description": ""
         },
         {
           "typeString": "Int",
           "name": "first",
-          "url": "/travelgatex/reference/scalars/int",
+          "url": "undefined/scalars/int",
           "description": ""
         },
         {
           "typeString": "Int",
           "name": "last",
-          "url": "/travelgatex/reference/scalars/int",
+          "url": "undefined/scalars/int",
           "description": ""
         },
         {
           "typeString": "String",
           "name": "before",
-          "url": "/travelgatex/reference/scalars/string",
+          "url": "undefined/scalars/string",
           "description": ""
         },
         {
           "typeString": "String",
           "name": "after",
-          "url": "/travelgatex/reference/scalars/string",
+          "url": "undefined/scalars/string",
           "description": ""
         }
       ]
@@ -395,50 +395,50 @@
     {
       "typeString": "ClientConnection",
       "name": "clients",
-      "url": "/travelgatex/reference/objects/clientconnection",
+      "url": "undefined/objects/clientconnection",
       "description": "Clients resources in a group",
       "isDeprecated": false,
       "args": [
         {
           "typeString": "[ID!]",
           "name": "codes",
-          "url": "/travelgatex/reference/scalars/id",
+          "url": "undefined/scalars/id",
           "description": ""
         },
         {
           "typeString": "[ID!]",
           "name": "name",
-          "url": "/travelgatex/reference/scalars/id",
+          "url": "undefined/scalars/id",
           "description": ""
         },
         {
           "typeString": "Boolean",
           "name": "isActive",
-          "url": "/travelgatex/reference/scalars/boolean",
+          "url": "undefined/scalars/boolean",
           "description": ""
         },
         {
           "typeString": "Int",
           "name": "first",
-          "url": "/travelgatex/reference/scalars/int",
+          "url": "undefined/scalars/int",
           "description": ""
         },
         {
           "typeString": "Int",
           "name": "last",
-          "url": "/travelgatex/reference/scalars/int",
+          "url": "undefined/scalars/int",
           "description": ""
         },
         {
           "typeString": "String",
           "name": "before",
-          "url": "/travelgatex/reference/scalars/string",
+          "url": "undefined/scalars/string",
           "description": ""
         },
         {
           "typeString": "String",
           "name": "after",
-          "url": "/travelgatex/reference/scalars/string",
+          "url": "undefined/scalars/string",
           "description": ""
         }
       ]
@@ -446,44 +446,44 @@
     {
       "typeString": "RoleConnection",
       "name": "roles",
-      "url": "/travelgatex/reference/objects/roleconnection",
+      "url": "undefined/objects/roleconnection",
       "description": "You can grant roles to members, which define the roles catalog for a group.",
       "isDeprecated": false,
       "args": [
         {
           "typeString": "[ID!]",
           "name": "codes",
-          "url": "/travelgatex/reference/scalars/id",
+          "url": "undefined/scalars/id",
           "description": ""
         },
         {
           "typeString": "RoleType",
           "name": "type",
-          "url": "/travelgatex/reference/enums/roletype",
+          "url": "undefined/enums/roletype",
           "description": ""
         },
         {
           "typeString": "Int",
           "name": "first",
-          "url": "/travelgatex/reference/scalars/int",
+          "url": "undefined/scalars/int",
           "description": ""
         },
         {
           "typeString": "Int",
           "name": "last",
-          "url": "/travelgatex/reference/scalars/int",
+          "url": "undefined/scalars/int",
           "description": ""
         },
         {
           "typeString": "String",
           "name": "before",
-          "url": "/travelgatex/reference/scalars/string",
+          "url": "undefined/scalars/string",
           "description": ""
         },
         {
           "typeString": "String",
           "name": "after",
-          "url": "/travelgatex/reference/scalars/string",
+          "url": "undefined/scalars/string",
           "description": ""
         }
       ]
@@ -493,7 +493,7 @@
     {
       "name": "Group",
       "description": "Groups are organized hierarchically.",
-      "url": "/travelgatex/reference/objects/group"
+      "url": "undefined/objects/group"
     }
   ],
   "enumValues": null,

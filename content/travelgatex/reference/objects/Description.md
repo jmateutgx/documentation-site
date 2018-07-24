@@ -6,7 +6,7 @@
     {
       "typeString": "DescriptionType!",
       "name": "type",
-      "url": "/travelgatex/reference/enums/descriptiontype",
+      "url": "undefined/enums/descriptiontype",
       "description": "Indicates type of description",
       "isDeprecated": false,
       "args": null
@@ -14,7 +14,7 @@
     {
       "typeString": "[Text!]",
       "name": "texts",
-      "url": "/travelgatex/reference/interfaces/text",
+      "url": "undefined/interfaces/text",
       "description": "Label",
       "isDeprecated": false,
       "args": null

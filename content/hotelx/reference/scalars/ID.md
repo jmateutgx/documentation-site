@@ -7,97 +7,97 @@
     {
       "name": "HotelXBoardQueryInput",
       "description": "",
-      "url": "/hotelx/reference/inputobjects/hotelxboardqueryinput"
+      "url": "undefined/inputobjects/hotelxboardqueryinput"
     },
     {
       "name": "HotelXCategoryQueryInput",
       "description": "",
-      "url": "/hotelx/reference/inputobjects/hotelxcategoryqueryinput"
+      "url": "undefined/inputobjects/hotelxcategoryqueryinput"
     },
     {
       "name": "HotelXHotelListInput",
       "description": "",
-      "url": "/hotelx/reference/inputobjects/hotelxhotellistinput"
+      "url": "undefined/inputobjects/hotelxhotellistinput"
     },
     {
       "name": "HotelXRoomQueryInput",
       "description": "",
-      "url": "/hotelx/reference/inputobjects/hotelxroomqueryinput"
+      "url": "undefined/inputobjects/hotelxroomqueryinput"
     },
     {
       "name": "HotelXDestinationListInput",
       "description": "",
-      "url": "/hotelx/reference/inputobjects/hotelxdestinationlistinput"
+      "url": "undefined/inputobjects/hotelxdestinationlistinput"
     },
     {
       "name": "HotelXDestinationSearcherInput",
       "description": "",
-      "url": "/hotelx/reference/inputobjects/hotelxdestinationsearcherinput"
+      "url": "undefined/inputobjects/hotelxdestinationsearcherinput"
     },
     {
       "name": "Board",
       "description": "Board type.",
-      "url": "/hotelx/reference/objects/board"
+      "url": "undefined/objects/board"
     },
     {
       "name": "BoardData",
       "description": "Board data",
-      "url": "/hotelx/reference/objects/boarddata"
+      "url": "undefined/objects/boarddata"
     },
     {
       "name": "Category",
       "description": "Category Type",
-      "url": "/hotelx/reference/objects/category"
+      "url": "undefined/objects/category"
     },
     {
       "name": "CategoryData",
       "description": "Category data",
-      "url": "/hotelx/reference/objects/categorydata"
+      "url": "undefined/objects/categorydata"
     },
     {
       "name": "Hotel",
       "description": "Hotel Type",
-      "url": "/hotelx/reference/objects/hotel"
+      "url": "undefined/objects/hotel"
     },
     {
       "name": "HotelData",
       "description": "Hotel data",
-      "url": "/hotelx/reference/objects/hoteldata"
+      "url": "undefined/objects/hoteldata"
     },
     {
       "name": "AdviseMessage",
       "description": "List of advise messages.",
-      "url": "/hotelx/reference/interfaces/advisemessage"
+      "url": "undefined/interfaces/advisemessage"
     },
     {
       "name": "DestinationData",
       "description": "Information about destinantion",
-      "url": "/hotelx/reference/objects/destinationdata"
+      "url": "undefined/objects/destinationdata"
     },
     {
       "name": "Airport",
       "description": "Airport Type",
-      "url": "/hotelx/reference/objects/airport"
+      "url": "undefined/objects/airport"
     },
     {
       "name": "AirportData",
       "description": "Information about the airport",
-      "url": "/hotelx/reference/objects/airportdata"
+      "url": "undefined/objects/airportdata"
     },
     {
       "name": "RoomStatic",
       "description": "Room Type",
-      "url": "/hotelx/reference/objects/roomstatic"
+      "url": "undefined/objects/roomstatic"
     },
     {
       "name": "RoomData",
       "description": "Room data",
-      "url": "/hotelx/reference/objects/roomdata"
+      "url": "undefined/objects/roomdata"
     },
     {
       "name": "Destination",
       "description": "Destination Type",
-      "url": "/hotelx/reference/objects/destination"
+      "url": "undefined/objects/destination"
     }
   ],
   "enumValues": null,

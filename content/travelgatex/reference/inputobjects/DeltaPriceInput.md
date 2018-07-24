@@ -6,21 +6,21 @@
     {
       "typeString": "Float",
       "name": "amount",
-      "url": "/travelgatex/reference/scalars/float",
+      "url": "undefined/scalars/float",
       "description": "The amount in the currency returned by the option that will be accepted by the client to be higher than the valuation price.",
       "args": null
     },
     {
       "typeString": "Float",
       "name": "percent",
-      "url": "/travelgatex/reference/scalars/float",
+      "url": "undefined/scalars/float",
       "description": "The percentage accepted by the client to be higher than the valuation price.",
       "args": null
     },
     {
       "typeString": "Boolean!",
       "name": "applyBoth",
-      "url": "/travelgatex/reference/scalars/boolean",
+      "url": "undefined/scalars/boolean",
       "description": "Depending on the value of applyBoth:\napplyBoth = false: Indicates that one of the conditions (amount or percentage) has to meet the criteria before reservation.\napplyBoth = true: Indicates that the new price cannot exceed the amount or percentage indicated by the client.",
       "args": null
     }
@@ -29,7 +29,7 @@
     {
       "name": "HotelBookInput",
       "description": "Criteria of book.",
-      "url": "/travelgatex/reference/inputobjects/hotelbookinput"
+      "url": "undefined/inputobjects/hotelbookinput"
     }
   ],
   "enumValues": null,

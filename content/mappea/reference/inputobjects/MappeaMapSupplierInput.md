@@ -6,21 +6,21 @@
     {
       "typeString": "ID!",
       "name": "requestId",
-      "url": "/mappea/reference/scalars/id",
+      "url": "undefined/scalars/id",
       "description": "",
       "args": null
     },
     {
       "typeString": "ID!",
       "name": "access",
-      "url": "/mappea/reference/scalars/id",
+      "url": "undefined/scalars/id",
       "description": "",
       "args": null
     },
     {
       "typeString": "Int!",
       "name": "fileId",
-      "url": "/mappea/reference/scalars/int",
+      "url": "undefined/scalars/int",
       "description": "",
       "args": null
     }

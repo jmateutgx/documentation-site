@@ -7,7 +7,7 @@
     {
       "name": "HotelOptionSearch",
       "description": "An option includes hotel information, meal plan, total price, conditions and room description",
-      "url": "/travelgatex/reference/objects/hoteloptionsearch"
+      "url": "undefined/objects/hoteloptionsearch"
     }
   ],
   "enumValues": [

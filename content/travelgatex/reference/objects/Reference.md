@@ -6,7 +6,7 @@
     {
       "typeString": "String",
       "name": "client",
-      "url": "/travelgatex/reference/scalars/string",
+      "url": "undefined/scalars/string",
       "description": "Client reference booking",
       "isDeprecated": false,
       "args": null
@@ -14,7 +14,7 @@
     {
       "typeString": "String",
       "name": "supplier",
-      "url": "/travelgatex/reference/scalars/string",
+      "url": "undefined/scalars/string",
       "description": "Supplier reference booking",
       "isDeprecated": false,
       "args": null
@@ -24,12 +24,12 @@
     {
       "name": "HotelBookingDetail",
       "description": "Contains information about booking",
-      "url": "/travelgatex/reference/objects/hotelbookingdetail"
+      "url": "undefined/objects/hotelbookingdetail"
     },
     {
       "name": "HotelCancelDetail",
       "description": "Contains information about cancel",
-      "url": "/travelgatex/reference/objects/hotelcanceldetail"
+      "url": "undefined/objects/hotelcanceldetail"
     }
   ],
   "enumValues": null,

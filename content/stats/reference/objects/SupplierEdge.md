@@ -6,7 +6,7 @@
     {
       "typeString": "String!",
       "name": "cursor",
-      "url": "/stats/reference/scalars/string",
+      "url": "undefined/scalars/string",
       "description": "",
       "isDeprecated": false,
       "args": null
@@ -14,7 +14,7 @@
     {
       "typeString": "Supplier",
       "name": "node",
-      "url": "/stats/reference/objects/supplier",
+      "url": "undefined/objects/supplier",
       "description": "",
       "isDeprecated": false,
       "args": null
@@ -24,7 +24,7 @@
     {
       "name": "SupplierConnection",
       "description": "",
-      "url": "/stats/reference/objects/supplierconnection"
+      "url": "undefined/objects/supplierconnection"
     }
   ],
   "enumValues": null,

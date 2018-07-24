@@ -6,7 +6,7 @@
     {
       "typeString": "Access!",
       "name": "access",
-      "url": "/stats/reference/objects/access",
+      "url": "undefined/objects/access",
       "description": "Owner access",
       "isDeprecated": false,
       "args": null
@@ -14,7 +14,7 @@
     {
       "typeString": "Client!",
       "name": "client",
-      "url": "/stats/reference/objects/client",
+      "url": "undefined/objects/client",
       "description": "Owner client",
       "isDeprecated": false,
       "args": null
@@ -22,7 +22,7 @@
     {
       "typeString": "DateTime!",
       "name": "from",
-      "url": "/stats/reference/scalars/datetime",
+      "url": "undefined/scalars/datetime",
       "description": "From date of search",
       "isDeprecated": false,
       "args": null
@@ -30,7 +30,7 @@
     {
       "typeString": "DateTime!",
       "name": "to",
-      "url": "/stats/reference/scalars/datetime",
+      "url": "undefined/scalars/datetime",
       "description": "To date of search",
       "isDeprecated": false,
       "args": null
@@ -38,7 +38,7 @@
     {
       "typeString": "Ratios!",
       "name": "ratios",
-      "url": "/stats/reference/objects/ratios",
+      "url": "undefined/objects/ratios",
       "description": "Ratios details",
       "isDeprecated": false,
       "args": null
@@ -46,14 +46,14 @@
     {
       "typeString": "[OperationDetailed!]",
       "name": "operations",
-      "url": "/stats/reference/objects/operationdetailed",
+      "url": "undefined/objects/operationdetailed",
       "description": "Stats information per operation",
       "isDeprecated": false,
       "args": [
         {
           "typeString": "[ServiceOperationType!]",
           "name": "type",
-          "url": "/stats/reference/enums/serviceoperationtype",
+          "url": "undefined/enums/serviceoperationtype",
           "description": ""
         }
       ]
@@ -63,7 +63,7 @@
     {
       "name": "Stats",
       "description": "The service used to access the stats of every connection that uses the HUB",
-      "url": "/stats/reference/objects/stats"
+      "url": "undefined/objects/stats"
     }
   ],
   "enumValues": null,

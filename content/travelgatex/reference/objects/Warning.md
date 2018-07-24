@@ -6,7 +6,7 @@
     {
       "typeString": "String!",
       "name": "code",
-      "url": "/travelgatex/reference/scalars/string",
+      "url": "undefined/scalars/string",
       "description": "Warning code",
       "isDeprecated": false,
       "args": null
@@ -14,7 +14,7 @@
     {
       "typeString": "String!",
       "name": "type",
-      "url": "/travelgatex/reference/scalars/string",
+      "url": "undefined/scalars/string",
       "description": "Warning type",
       "isDeprecated": false,
       "args": null
@@ -22,7 +22,7 @@
     {
       "typeString": "String!",
       "name": "description",
-      "url": "/travelgatex/reference/scalars/string",
+      "url": "undefined/scalars/string",
       "description": "Warning description",
       "isDeprecated": false,
       "args": null
@@ -32,22 +32,22 @@
     {
       "name": "GetUploadedFilesResponse",
       "description": "## GetUploadedFiles",
-      "url": "/travelgatex/reference/objects/getuploadedfilesresponse"
+      "url": "undefined/objects/getuploadedfilesresponse"
     },
     {
       "name": "GetMappeaStatsResponse",
       "description": "",
-      "url": "/travelgatex/reference/objects/getmappeastatsresponse"
+      "url": "undefined/objects/getmappeastatsresponse"
     },
     {
       "name": "OnlyStatusResponse",
       "description": "## Common Items",
-      "url": "/travelgatex/reference/objects/onlystatusresponse"
+      "url": "undefined/objects/onlystatusresponse"
     },
     {
       "name": "UploadFileResponse",
       "description": "",
-      "url": "/travelgatex/reference/objects/uploadfileresponse"
+      "url": "undefined/objects/uploadfileresponse"
     }
   ],
   "enumValues": null,

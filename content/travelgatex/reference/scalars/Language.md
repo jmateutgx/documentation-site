@@ -7,47 +7,47 @@
     {
       "name": "Text",
       "description": "",
-      "url": "/travelgatex/reference/interfaces/text"
+      "url": "undefined/interfaces/text"
     },
     {
       "name": "HotelCriteriaSearchInput",
       "description": "Search criteria contains destination, travel dates and the number of pax in each room.\nYou must preload the other fields in our system by complete the fields absents.",
-      "url": "/travelgatex/reference/inputobjects/hotelcriteriasearchinput"
+      "url": "undefined/inputobjects/hotelcriteriasearchinput"
     },
     {
       "name": "CriteriaSearch",
       "description": "Search criteria contains destination, travel dates and the number of pax in each room.",
-      "url": "/travelgatex/reference/objects/criteriasearch"
+      "url": "undefined/objects/criteriasearch"
     },
     {
       "name": "HotelCriteriaQuoteInput",
       "description": "The quote criteria contains the option reference id, block and language.",
-      "url": "/travelgatex/reference/inputobjects/hotelcriteriaquoteinput"
+      "url": "undefined/inputobjects/hotelcriteriaquoteinput"
     },
     {
       "name": "HotelCriteriaBookingInput",
       "description": "Criteria of book contains basic information to find a book or books.",
-      "url": "/travelgatex/reference/inputobjects/hotelcriteriabookinginput"
+      "url": "undefined/inputobjects/hotelcriteriabookinginput"
     },
     {
       "name": "HotelBookInput",
       "description": "Criteria of book.",
-      "url": "/travelgatex/reference/inputobjects/hotelbookinput"
+      "url": "undefined/inputobjects/hotelbookinput"
     },
     {
       "name": "HotelCancelInput",
       "description": "Cancellation Criteria.",
-      "url": "/travelgatex/reference/inputobjects/hotelcancelinput"
+      "url": "undefined/inputobjects/hotelcancelinput"
     },
     {
       "name": "DefaultSettingsInput",
       "description": "",
-      "url": "/travelgatex/reference/inputobjects/defaultsettingsinput"
+      "url": "undefined/inputobjects/defaultsettingsinput"
     },
     {
       "name": "DefaultSettings",
       "description": "",
-      "url": "/travelgatex/reference/objects/defaultsettings"
+      "url": "undefined/objects/defaultsettings"
     }
   ],
   "enumValues": null,

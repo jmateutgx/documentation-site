@@ -7,7 +7,7 @@
     {
       "name": "GroupData",
       "description": "",
-      "url": "/stats/reference/objects/groupdata"
+      "url": "undefined/objects/groupdata"
     }
   ],
   "enumValues": [

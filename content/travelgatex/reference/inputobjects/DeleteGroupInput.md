@@ -6,7 +6,7 @@
     {
       "typeString": "ID!",
       "name": "group",
-      "url": "/travelgatex/reference/scalars/id",
+      "url": "undefined/scalars/id",
       "description": "",
       "args": null
     }

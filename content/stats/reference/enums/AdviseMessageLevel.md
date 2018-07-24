@@ -7,7 +7,7 @@
     {
       "name": "AdviseMessage",
       "description": "List of advise messages.",
-      "url": "/stats/reference/interfaces/advisemessage"
+      "url": "undefined/interfaces/advisemessage"
     }
   ],
   "enumValues": [

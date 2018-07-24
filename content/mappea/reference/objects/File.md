@@ -6,7 +6,7 @@
     {
       "typeString": "String!",
       "name": "fileName",
-      "url": "/mappea/reference/scalars/string",
+      "url": "undefined/scalars/string",
       "description": "",
       "isDeprecated": false,
       "args": null
@@ -14,7 +14,7 @@
     {
       "typeString": "Int!",
       "name": "fileId",
-      "url": "/mappea/reference/scalars/int",
+      "url": "undefined/scalars/int",
       "description": "",
       "isDeprecated": false,
       "args": null
@@ -22,7 +22,7 @@
     {
       "typeString": "String!",
       "name": "uploadTime",
-      "url": "/mappea/reference/scalars/string",
+      "url": "undefined/scalars/string",
       "description": "",
       "isDeprecated": false,
       "args": null
@@ -32,7 +32,7 @@
     {
       "name": "GetUploadedFilesData",
       "description": "",
-      "url": "/mappea/reference/objects/getuploadedfilesdata"
+      "url": "undefined/objects/getuploadedfilesdata"
     }
   ],
   "enumValues": null,

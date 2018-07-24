@@ -6,7 +6,7 @@
     {
       "typeString": "ID!",
       "name": "code",
-      "url": "/hotelx/reference/scalars/id",
+      "url": "undefined/scalars/id",
       "description": "Airport Code (IATA)",
       "isDeprecated": false,
       "args": null
@@ -14,7 +14,7 @@
     {
       "typeString": "String",
       "name": "name",
-      "url": "/hotelx/reference/scalars/string",
+      "url": "undefined/scalars/string",
       "description": "The airport's name",
       "isDeprecated": false,
       "args": null
@@ -22,7 +22,7 @@
     {
       "typeString": "Location",
       "name": "location",
-      "url": "/hotelx/reference/objects/location",
+      "url": "undefined/objects/location",
       "description": "The airport's location",
       "isDeprecated": false,
       "args": null
@@ -32,7 +32,7 @@
     {
       "name": "Airport",
       "description": "Airport Type",
-      "url": "/hotelx/reference/objects/airport"
+      "url": "undefined/objects/airport"
     }
   ],
   "enumValues": null,

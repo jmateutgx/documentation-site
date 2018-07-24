@@ -6,7 +6,7 @@
     {
       "typeString": "Currency!",
       "name": "currency",
-      "url": "/travelgatex/reference/scalars/currency",
+      "url": "undefined/scalars/currency",
       "description": "Specifies the currency.",
       "isDeprecated": false,
       "args": null
@@ -14,7 +14,7 @@
     {
       "typeString": "Boolean!",
       "name": "binding",
-      "url": "/travelgatex/reference/scalars/boolean",
+      "url": "undefined/scalars/boolean",
       "description": "Is binding.",
       "isDeprecated": false,
       "args": null
@@ -22,7 +22,7 @@
     {
       "typeString": "Float!",
       "name": "net",
-      "url": "/travelgatex/reference/scalars/float",
+      "url": "undefined/scalars/float",
       "description": "Specifies the import net.",
       "isDeprecated": false,
       "args": null
@@ -30,7 +30,7 @@
     {
       "typeString": "Float",
       "name": "gross",
-      "url": "/travelgatex/reference/scalars/float",
+      "url": "undefined/scalars/float",
       "description": "Specifies the import gross.",
       "isDeprecated": false,
       "args": null
@@ -38,7 +38,7 @@
     {
       "typeString": "Exchange!",
       "name": "exchange",
-      "url": "/travelgatex/reference/objects/exchange",
+      "url": "undefined/objects/exchange",
       "description": "Specifies the exchange.",
       "isDeprecated": false,
       "args": null

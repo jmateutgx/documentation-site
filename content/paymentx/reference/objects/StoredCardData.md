@@ -6,7 +6,7 @@
     {
       "typeString": "PaymentXBookingInfo!",
       "name": "bookingInfo",
-      "url": "/paymentx/reference/objects/paymentxbookinginfo",
+      "url": "undefined/objects/paymentxbookinginfo",
       "description": "",
       "isDeprecated": false,
       "args": null
@@ -14,7 +14,7 @@
     {
       "typeString": "PaymentCard!",
       "name": "card",
-      "url": "/paymentx/reference/objects/paymentcard",
+      "url": "undefined/objects/paymentcard",
       "description": "",
       "isDeprecated": false,
       "args": null
@@ -24,12 +24,7 @@
     {
       "name": "StoredCard",
       "description": "",
-      "url": "/paymentx/reference/objects/storedcard"
-    },
-    {
-      "name": "StoredCard",
-      "description": "",
-      "url": "/paymentx/reference/objects/storedcard"
+      "url": "undefined/objects/storedcard"
     }
   ],
   "enumValues": null,

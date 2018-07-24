@@ -6,7 +6,7 @@
     {
       "typeString": "String!",
       "name": "cursor",
-      "url": "/travelgatex/reference/scalars/string",
+      "url": "undefined/scalars/string",
       "description": "",
       "isDeprecated": false,
       "args": null
@@ -14,7 +14,7 @@
     {
       "typeString": "API",
       "name": "node",
-      "url": "/travelgatex/reference/objects/api",
+      "url": "undefined/objects/api",
       "description": "",
       "isDeprecated": false,
       "args": null
@@ -24,7 +24,7 @@
     {
       "name": "APIConnection",
       "description": "",
-      "url": "/travelgatex/reference/objects/apiconnection"
+      "url": "undefined/objects/apiconnection"
     }
   ],
   "enumValues": null,

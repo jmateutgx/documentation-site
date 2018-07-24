@@ -6,7 +6,7 @@
     {
       "typeString": "ID!",
       "name": "code",
-      "url": "/travelgatex/reference/scalars/id",
+      "url": "undefined/scalars/id",
       "description": "",
       "isDeprecated": false,
       "args": null
@@ -14,7 +14,7 @@
     {
       "typeString": "MemberData",
       "name": "memberData",
-      "url": "/travelgatex/reference/objects/memberdata",
+      "url": "undefined/objects/memberdata",
       "description": "",
       "isDeprecated": false,
       "args": null
@@ -22,7 +22,7 @@
     {
       "typeString": "Boolean!",
       "name": "isActive",
-      "url": "/travelgatex/reference/scalars/boolean",
+      "url": "undefined/scalars/boolean",
       "description": "Errors that abort services",
       "isDeprecated": false,
       "args": null
@@ -30,7 +30,7 @@
     {
       "typeString": "[Error!]",
       "name": "error",
-      "url": "/travelgatex/reference/objects/error",
+      "url": "undefined/objects/error",
       "description": "",
       "isDeprecated": false,
       "args": null
@@ -38,7 +38,7 @@
     {
       "typeString": "DateTime!",
       "name": "createdAt",
-      "url": "/travelgatex/reference/scalars/datetime",
+      "url": "undefined/scalars/datetime",
       "description": "Date created",
       "isDeprecated": false,
       "args": null
@@ -46,7 +46,7 @@
     {
       "typeString": "DateTime!",
       "name": "updatedAt",
-      "url": "/travelgatex/reference/scalars/datetime",
+      "url": "undefined/scalars/datetime",
       "description": "Date updated",
       "isDeprecated": false,
       "args": null
@@ -56,27 +56,27 @@
     {
       "name": "OrganizationData",
       "description": "",
-      "url": "/travelgatex/reference/objects/organizationdata"
+      "url": "undefined/objects/organizationdata"
     },
     {
       "name": "GroupCommonData",
       "description": "",
-      "url": "/travelgatex/reference/interfaces/groupcommondata"
+      "url": "undefined/interfaces/groupcommondata"
     },
     {
       "name": "GroupData",
       "description": "",
-      "url": "/travelgatex/reference/objects/groupdata"
+      "url": "undefined/objects/groupdata"
     },
     {
       "name": "MemberEdge",
       "description": "",
-      "url": "/travelgatex/reference/objects/memberedge"
+      "url": "undefined/objects/memberedge"
     },
     {
       "name": "AdminMutation",
       "description": "The admin query root of TravelgateX's for implementing GraphQL mutations.",
-      "url": "/travelgatex/reference/objects/adminmutation"
+      "url": "undefined/objects/adminmutation"
     }
   ],
   "enumValues": null,

@@ -6,7 +6,7 @@
     {
       "typeString": "ID!",
       "name": "code",
-      "url": "/stats/reference/scalars/id",
+      "url": "undefined/scalars/id",
       "description": "",
       "isDeprecated": false,
       "args": null
@@ -14,7 +14,7 @@
     {
       "typeString": "String!",
       "name": "name",
-      "url": "/stats/reference/scalars/string",
+      "url": "undefined/scalars/string",
       "description": "",
       "isDeprecated": false,
       "args": null
@@ -22,7 +22,7 @@
     {
       "typeString": "Boolean",
       "name": "isActive",
-      "url": "/stats/reference/scalars/boolean",
+      "url": "undefined/scalars/boolean",
       "description": "",
       "isDeprecated": false,
       "args": null
@@ -30,7 +30,7 @@
     {
       "typeString": "Boolean",
       "name": "isPublic",
-      "url": "/stats/reference/scalars/boolean",
+      "url": "undefined/scalars/boolean",
       "description": "",
       "isDeprecated": false,
       "args": null
@@ -40,7 +40,7 @@
     {
       "name": "SupplierData",
       "description": "",
-      "url": "/stats/reference/objects/supplierdata"
+      "url": "undefined/objects/supplierdata"
     }
   ],
   "enumValues": null,

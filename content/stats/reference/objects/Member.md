@@ -6,7 +6,7 @@
     {
       "typeString": "ID!",
       "name": "code",
-      "url": "/stats/reference/scalars/id",
+      "url": "undefined/scalars/id",
       "description": "",
       "isDeprecated": false,
       "args": null
@@ -14,7 +14,7 @@
     {
       "typeString": "MemberData",
       "name": "memberData",
-      "url": "/stats/reference/objects/memberdata",
+      "url": "undefined/objects/memberdata",
       "description": "",
       "isDeprecated": false,
       "args": null
@@ -22,7 +22,7 @@
     {
       "typeString": "Boolean!",
       "name": "isActive",
-      "url": "/stats/reference/scalars/boolean",
+      "url": "undefined/scalars/boolean",
       "description": "Errors that abort services",
       "isDeprecated": false,
       "args": null
@@ -30,7 +30,7 @@
     {
       "typeString": "[Error!]",
       "name": "error",
-      "url": "/stats/reference/objects/error",
+      "url": "undefined/objects/error",
       "description": "",
       "isDeprecated": false,
       "args": null
@@ -38,7 +38,7 @@
     {
       "typeString": "DateTime!",
       "name": "createdAt",
-      "url": "/stats/reference/scalars/datetime",
+      "url": "undefined/scalars/datetime",
       "description": "Date created",
       "isDeprecated": false,
       "args": null
@@ -46,7 +46,7 @@
     {
       "typeString": "DateTime!",
       "name": "updatedAt",
-      "url": "/stats/reference/scalars/datetime",
+      "url": "undefined/scalars/datetime",
       "description": "Date updated",
       "isDeprecated": false,
       "args": null
@@ -56,12 +56,12 @@
     {
       "name": "GroupData",
       "description": "",
-      "url": "/stats/reference/objects/groupdata"
+      "url": "undefined/objects/groupdata"
     },
     {
       "name": "MemberEdge",
       "description": "",
-      "url": "/stats/reference/objects/memberedge"
+      "url": "undefined/objects/memberedge"
     }
   ],
   "enumValues": null,

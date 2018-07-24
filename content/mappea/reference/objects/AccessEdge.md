@@ -6,7 +6,7 @@
     {
       "typeString": "String!",
       "name": "cursor",
-      "url": "/mappea/reference/scalars/string",
+      "url": "undefined/scalars/string",
       "description": "",
       "isDeprecated": false,
       "args": null
@@ -14,7 +14,7 @@
     {
       "typeString": "Access",
       "name": "node",
-      "url": "/mappea/reference/objects/access",
+      "url": "undefined/objects/access",
       "description": "",
       "isDeprecated": false,
       "args": null
@@ -24,7 +24,7 @@
     {
       "name": "AccessConnection",
       "description": "",
-      "url": "/mappea/reference/objects/accessconnection"
+      "url": "undefined/objects/accessconnection"
     }
   ],
   "enumValues": null,

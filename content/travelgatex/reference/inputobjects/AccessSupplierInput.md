@@ -6,28 +6,28 @@
     {
       "typeString": "String!",
       "name": "code",
-      "url": "/travelgatex/reference/scalars/string",
+      "url": "undefined/scalars/string",
       "description": "supplier code",
       "args": null
     },
     {
       "typeString": "String!",
       "name": "dll",
-      "url": "/travelgatex/reference/scalars/string",
+      "url": "undefined/scalars/string",
       "description": "supplier instance",
       "args": null
     },
     {
       "typeString": "Boolean!",
       "name": "isActive",
-      "url": "/travelgatex/reference/scalars/boolean",
+      "url": "undefined/scalars/boolean",
       "description": "Indicates if the supplier is active.",
       "args": null
     },
     {
       "typeString": "[SupplierGroupInput!]",
       "name": "groups",
-      "url": "/travelgatex/reference/inputobjects/suppliergroupinput",
+      "url": "undefined/inputobjects/suppliergroupinput",
       "description": "groups related to this supplier",
       "args": null
     }

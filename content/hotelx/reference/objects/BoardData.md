@@ -6,7 +6,7 @@
     {
       "typeString": "ID!",
       "name": "code",
-      "url": "/hotelx/reference/scalars/id",
+      "url": "undefined/scalars/id",
       "description": "Internal code for checking availability",
       "isDeprecated": false,
       "args": null
@@ -14,7 +14,7 @@
     {
       "typeString": "String!",
       "name": "boardCode",
-      "url": "/hotelx/reference/scalars/string",
+      "url": "undefined/scalars/string",
       "description": "Code of the hotel in the Supplier selected",
       "isDeprecated": false,
       "args": null
@@ -22,14 +22,14 @@
     {
       "typeString": "[Text!]",
       "name": "texts",
-      "url": "/hotelx/reference/interfaces/text",
+      "url": "undefined/interfaces/text",
       "description": "Label",
       "isDeprecated": false,
       "args": [
         {
           "typeString": "[Language!]",
           "name": "languages",
-          "url": "/hotelx/reference/scalars/language",
+          "url": "undefined/scalars/language",
           "description": ""
         }
       ]
@@ -39,7 +39,7 @@
     {
       "name": "Board",
       "description": "Board type.",
-      "url": "/hotelx/reference/objects/board"
+      "url": "undefined/objects/board"
     }
   ],
   "enumValues": null,

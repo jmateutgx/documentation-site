@@ -6,7 +6,7 @@
     {
       "typeString": "ServiceStatus!",
       "name": "vaultStatusService",
-      "url": "/travelgatex/reference/objects/servicestatus",
+      "url": "undefined/objects/servicestatus",
       "description": "Returns status of the search service.",
       "isDeprecated": false,
       "args": null
@@ -14,20 +14,20 @@
     {
       "typeString": "StoredCardConnection!",
       "name": "cards",
-      "url": "/travelgatex/reference/objects/storedcardconnection",
+      "url": "undefined/objects/storedcardconnection",
       "description": "",
       "isDeprecated": false,
       "args": [
         {
           "typeString": "PaymentXBookingInfoFilterInput!",
           "name": "bookingInfo",
-          "url": "/travelgatex/reference/inputobjects/paymentxbookinginfofilterinput",
+          "url": "undefined/inputobjects/paymentxbookinginfofilterinput",
           "description": ""
         },
         {
           "typeString": "PaymentXBookingInfoCriteriaInput",
           "name": "bookingInfoCriteria",
-          "url": "/travelgatex/reference/inputobjects/paymentxbookinginfocriteriainput",
+          "url": "undefined/inputobjects/paymentxbookinginfocriteriainput",
           "description": ""
         }
       ]
@@ -37,7 +37,7 @@
     {
       "name": "Query",
       "description": "The query root of TravelgateX's GraphQL interface.",
-      "url": "/travelgatex/reference/schema/query"
+      "url": "undefined/schema/query"
     }
   ],
   "enumValues": null,

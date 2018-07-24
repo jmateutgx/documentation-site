@@ -7,12 +7,12 @@
     {
       "name": "Amenity",
       "description": "An Amenity is defined as something intended to make life more pleasant or comfortable for people. Examples include: swimming pools, shopping centers, etc.",
-      "url": "/travelgatex/reference/objects/amenity"
+      "url": "undefined/objects/amenity"
     },
     {
       "name": "Media",
       "description": "Contains media information.",
-      "url": "/travelgatex/reference/objects/media"
+      "url": "undefined/objects/media"
     }
   ],
   "enumValues": [

@@ -6,7 +6,7 @@
     {
       "typeString": "String!",
       "name": "cursor",
-      "url": "/stats/reference/scalars/string",
+      "url": "undefined/scalars/string",
       "description": "",
       "isDeprecated": false,
       "args": null
@@ -14,7 +14,7 @@
     {
       "typeString": "Access",
       "name": "node",
-      "url": "/stats/reference/objects/access",
+      "url": "undefined/objects/access",
       "description": "",
       "isDeprecated": false,
       "args": null
@@ -24,7 +24,7 @@
     {
       "name": "AccessConnection",
       "description": "",
-      "url": "/stats/reference/objects/accessconnection"
+      "url": "undefined/objects/accessconnection"
     }
   ],
   "enumValues": null,

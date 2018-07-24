@@ -6,7 +6,7 @@
     {
       "typeString": "String!",
       "name": "cursor",
-      "url": "/travelgatex/reference/scalars/string",
+      "url": "undefined/scalars/string",
       "description": "",
       "isDeprecated": false,
       "args": null
@@ -14,7 +14,7 @@
     {
       "typeString": "Group",
       "name": "node",
-      "url": "/travelgatex/reference/objects/group",
+      "url": "undefined/objects/group",
       "description": "",
       "isDeprecated": false,
       "args": null
@@ -24,7 +24,7 @@
     {
       "name": "GroupConnection",
       "description": "",
-      "url": "/travelgatex/reference/objects/groupconnection"
+      "url": "undefined/objects/groupconnection"
     }
   ],
   "enumValues": null,

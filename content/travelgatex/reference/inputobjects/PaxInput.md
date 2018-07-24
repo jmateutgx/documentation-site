@@ -6,7 +6,7 @@
     {
       "typeString": "Int!",
       "name": "age",
-      "url": "/travelgatex/reference/scalars/int",
+      "url": "undefined/scalars/int",
       "description": "Pax age.",
       "args": null
     }

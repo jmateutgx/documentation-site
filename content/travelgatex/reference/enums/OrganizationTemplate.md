@@ -7,7 +7,7 @@
     {
       "name": "CreateOrganizationInput",
       "description": "",
-      "url": "/travelgatex/reference/inputobjects/createorganizationinput"
+      "url": "undefined/inputobjects/createorganizationinput"
     }
   ],
   "enumValues": [

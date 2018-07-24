@@ -6,28 +6,28 @@
     {
       "typeString": "Int",
       "name": "first",
-      "url": "/travelgatex/reference/scalars/int",
+      "url": "undefined/scalars/int",
       "description": "",
       "args": null
     },
     {
       "typeString": "Int",
       "name": "last",
-      "url": "/travelgatex/reference/scalars/int",
+      "url": "undefined/scalars/int",
       "description": "",
       "args": null
     },
     {
       "typeString": "String",
       "name": "before",
-      "url": "/travelgatex/reference/scalars/string",
+      "url": "undefined/scalars/string",
       "description": "",
       "args": null
     },
     {
       "typeString": "String",
       "name": "after",
-      "url": "/travelgatex/reference/scalars/string",
+      "url": "undefined/scalars/string",
       "description": "",
       "args": null
     }

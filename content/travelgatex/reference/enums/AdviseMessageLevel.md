@@ -6,8 +6,8 @@
   "requireby": [
     {
       "name": "AdviseMessage",
-      "description": "",
-      "url": "/travelgatex/reference/interfaces/advisemessage"
+      "description": "List of advise messages.",
+      "url": "undefined/interfaces/advisemessage"
     }
   ],
   "enumValues": [

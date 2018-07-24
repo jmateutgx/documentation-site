@@ -6,14 +6,14 @@
     {
       "typeString": "Int!",
       "name": "fileId",
-      "url": "/travelgatex/reference/scalars/int",
+      "url": "undefined/scalars/int",
       "description": "",
       "args": null
     },
     {
       "typeString": "[MappeaSupplierConfirmedInput!]!",
       "name": "suppliers",
-      "url": "/travelgatex/reference/inputobjects/mappeasupplierconfirmedinput",
+      "url": "undefined/inputobjects/mappeasupplierconfirmedinput",
       "description": "",
       "args": null
     }

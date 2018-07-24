@@ -7,217 +7,217 @@
     {
       "name": "AccessData",
       "description": "",
-      "url": "/travelgatex/reference/objects/accessdata"
+      "url": "undefined/objects/accessdata"
     },
     {
       "name": "SupplierData",
       "description": "",
-      "url": "/travelgatex/reference/objects/supplierdata"
+      "url": "undefined/objects/supplierdata"
     },
     {
       "name": "Provider",
       "description": "Temporary type to use only during SQL server's lifetime",
-      "url": "/travelgatex/reference/objects/provider"
+      "url": "undefined/objects/provider"
     },
     {
       "name": "PageInfo",
       "description": "",
-      "url": "/travelgatex/reference/objects/pageinfo"
+      "url": "undefined/objects/pageinfo"
     },
     {
       "name": "SupplierFilter",
       "description": "",
-      "url": "/travelgatex/reference/inputobjects/supplierfilter"
+      "url": "undefined/inputobjects/supplierfilter"
     },
     {
       "name": "ClientFilter",
       "description": "",
-      "url": "/travelgatex/reference/inputobjects/clientfilter"
+      "url": "undefined/inputobjects/clientfilter"
     },
     {
       "name": "ClientData",
       "description": "",
-      "url": "/travelgatex/reference/objects/clientdata"
+      "url": "undefined/objects/clientdata"
     },
     {
       "name": "OrganizationData",
       "description": "",
-      "url": "/travelgatex/reference/objects/organizationdata"
+      "url": "undefined/objects/organizationdata"
     },
     {
       "name": "GroupCommonData",
       "description": "",
-      "url": "/travelgatex/reference/interfaces/groupcommondata"
+      "url": "undefined/interfaces/groupcommondata"
     },
     {
       "name": "GroupData",
       "description": "",
-      "url": "/travelgatex/reference/objects/groupdata"
+      "url": "undefined/objects/groupdata"
     },
     {
       "name": "Member",
       "description": "You grant access to members which can be either:\nUsers: A developer, administrator or any other person from your Organization who interacts with the TravelgateX Platform. An email address can be used as the identity of a User.\nService Accounts: An application (Client) instead of an individual User. If you prefer, you can create as many Service Accounts as needed to represent different logical components of your application.",
-      "url": "/travelgatex/reference/objects/member"
+      "url": "undefined/objects/member"
     },
     {
       "name": "RoleData",
       "description": "",
-      "url": "/travelgatex/reference/objects/roledata"
+      "url": "undefined/objects/roledata"
     },
     {
       "name": "ResourceData",
       "description": "",
-      "url": "/travelgatex/reference/objects/resourcedata"
+      "url": "undefined/objects/resourcedata"
     },
     {
       "name": "APIData",
       "description": "",
-      "url": "/travelgatex/reference/objects/apidata"
+      "url": "undefined/objects/apidata"
     },
     {
       "name": "HotelData",
       "description": "Hotel data",
-      "url": "/travelgatex/reference/objects/hoteldata"
+      "url": "undefined/objects/hoteldata"
     },
     {
       "name": "DestinationData",
       "description": "Information about destinantion",
-      "url": "/travelgatex/reference/objects/destinationdata"
+      "url": "undefined/objects/destinationdata"
     },
     {
       "name": "HotelSettingsInput",
       "description": "Settings that you can edit for this avail. Values are loaded by default in our Back Office.",
-      "url": "/travelgatex/reference/inputobjects/hotelsettingsinput"
+      "url": "undefined/inputobjects/hotelsettingsinput"
     },
     {
       "name": "SettingsBaseInput",
       "description": "Contains the time out and business rules of a supplier or an access.",
-      "url": "/travelgatex/reference/inputobjects/settingsbaseinput"
+      "url": "undefined/inputobjects/settingsbaseinput"
     },
     {
       "name": "Room",
       "description": "Contains the room information of the option returned.",
-      "url": "/travelgatex/reference/objects/room"
+      "url": "undefined/objects/room"
     },
     {
       "name": "Price",
       "description": "Price indicates the value of the room/option.\nSupplements and/or surcharges can be included into the price, and will be verified with nodes Supplements/Surcharges.",
-      "url": "/travelgatex/reference/objects/price"
+      "url": "undefined/objects/price"
     },
     {
       "name": "Priceable",
       "description": "",
-      "url": "/travelgatex/reference/interfaces/priceable"
+      "url": "undefined/interfaces/priceable"
     },
     {
       "name": "Markup",
       "description": "Informs markup applied over supplier price.",
-      "url": "/travelgatex/reference/objects/markup"
+      "url": "undefined/objects/markup"
     },
     {
       "name": "Bed",
       "description": "Contains information about a bed.",
-      "url": "/travelgatex/reference/objects/bed"
+      "url": "undefined/objects/bed"
     },
     {
       "name": "Supplement",
       "description": "Supplement that it can be or its already added to the option returned. Contains all the information about the supplement.",
-      "url": "/travelgatex/reference/objects/supplement"
+      "url": "undefined/objects/supplement"
     },
     {
       "name": "Surcharge",
       "description": "Surcharge that it can be or it is already added to the option returned. Contains all the information about the surcharge.",
-      "url": "/travelgatex/reference/objects/surcharge"
+      "url": "undefined/objects/surcharge"
     },
     {
       "name": "CancelPolicy",
       "description": "Information about a policy cancellation.",
-      "url": "/travelgatex/reference/objects/cancelpolicy"
+      "url": "undefined/objects/cancelpolicy"
     },
     {
       "name": "OperationDetailed",
       "description": "Stats information per operation",
-      "url": "/travelgatex/reference/objects/operationdetailed"
+      "url": "undefined/objects/operationdetailed"
     },
     {
       "name": "AccessInput",
       "description": "Access input",
-      "url": "/travelgatex/reference/inputobjects/accessinput"
+      "url": "undefined/inputobjects/accessinput"
     },
     {
       "name": "CreateClientInput",
       "description": "",
-      "url": "/travelgatex/reference/inputobjects/createclientinput"
+      "url": "undefined/inputobjects/createclientinput"
     },
     {
       "name": "UpdateClientInput",
       "description": "",
-      "url": "/travelgatex/reference/inputobjects/updateclientinput"
+      "url": "undefined/inputobjects/updateclientinput"
     },
     {
       "name": "DeltaPriceInput",
       "description": "Input delta price, indicates price variation permitted by the client\nAn error will be returned if the new price does not abide to DeltaPrice. If DeltaPrice is not sent and the integration implements it, we assume that the price range is 0 and the process will continue \n(price is lower or equal to the price showed in valuation).\nThis field is implemented if it’s native to the supplier or if another availability/valuation request needs to be done in Reservation. In case the supplier blocks the option in valuation, reservation \nwill be done automatically in reservation method.",
-      "url": "/travelgatex/reference/inputobjects/deltapriceinput"
+      "url": "undefined/inputobjects/deltapriceinput"
     },
     {
       "name": "SupplierGroup",
       "description": "group related to a supplier",
-      "url": "/travelgatex/reference/objects/suppliergroup"
+      "url": "undefined/objects/suppliergroup"
     },
     {
       "name": "AccessConfigurationInput",
       "description": "The information required to access the supplier's system.",
-      "url": "/travelgatex/reference/inputobjects/accessconfigurationinput"
+      "url": "undefined/inputobjects/accessconfigurationinput"
     },
     {
       "name": "AccessConnectUserInput",
       "description": "Connect user input for data access management API",
-      "url": "/travelgatex/reference/inputobjects/accessconnectuserinput"
+      "url": "undefined/inputobjects/accessconnectuserinput"
     },
     {
       "name": "ConnectUserGroupInput",
       "description": "group related to a connect user",
-      "url": "/travelgatex/reference/inputobjects/connectusergroupinput"
+      "url": "undefined/inputobjects/connectusergroupinput"
     },
     {
       "name": "AccessSupplierInput",
       "description": "Supplier input for data access management API",
-      "url": "/travelgatex/reference/inputobjects/accesssupplierinput"
+      "url": "undefined/inputobjects/accesssupplierinput"
     },
     {
       "name": "SupplierGroupInput",
       "description": "group related to a supplier",
-      "url": "/travelgatex/reference/inputobjects/suppliergroupinput"
+      "url": "undefined/inputobjects/suppliergroupinput"
     },
     {
       "name": "IdAccessConfigurationInput",
       "description": "",
-      "url": "/travelgatex/reference/inputobjects/idaccessconfigurationinput"
+      "url": "undefined/inputobjects/idaccessconfigurationinput"
     },
     {
       "name": "ConnectUser",
       "description": "Data related to a connected user and its groups",
-      "url": "/travelgatex/reference/objects/connectuser"
+      "url": "undefined/objects/connectuser"
     },
     {
       "name": "ConnectUserGroup",
       "description": "group related to a connect user",
-      "url": "/travelgatex/reference/objects/connectusergroup"
+      "url": "undefined/objects/connectusergroup"
     },
     {
       "name": "MappeaAddOrganizationInput",
       "description": "# AddOrganization",
-      "url": "/travelgatex/reference/inputobjects/mappeaaddorganizationinput"
+      "url": "undefined/inputobjects/mappeaaddorganizationinput"
     },
     {
       "name": "MappeaEditOrganizationInput",
       "description": "# EditOrganization",
-      "url": "/travelgatex/reference/inputobjects/mappeaeditorganizationinput"
+      "url": "undefined/inputobjects/mappeaeditorganizationinput"
     },
     {
       "name": "fake__options",
       "description": "",
-      "url": "/travelgatex/reference/inputobjects/fake__options"
+      "url": "undefined/inputobjects/fake__options"
     }
   ],
   "enumValues": null,

@@ -7,27 +7,17 @@
     {
       "name": "PaymentXBookingInfoFilterInput",
       "description": "",
-      "url": "/paymentx/reference/inputobjects/paymentxbookinginfofilterinput"
+      "url": "undefined/inputobjects/paymentxbookinginfofilterinput"
     },
     {
       "name": "StoredCard",
       "description": "",
-      "url": "/paymentx/reference/objects/storedcard"
+      "url": "undefined/objects/storedcard"
     },
     {
       "name": "PointOfSale",
       "description": "",
-      "url": "/paymentx/reference/objects/pointofsale"
-    },
-    {
-      "name": "StoredCard",
-      "description": "",
-      "url": "/paymentx/reference/objects/storedcard"
-    },
-    {
-      "name": "PointOfSale",
-      "description": "",
-      "url": "/paymentx/reference/objects/pointofsale"
+      "url": "undefined/objects/pointofsale"
     }
   ],
   "enumValues": null,

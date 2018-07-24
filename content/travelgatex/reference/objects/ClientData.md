@@ -6,7 +6,7 @@
     {
       "typeString": "ID!",
       "name": "code",
-      "url": "/travelgatex/reference/scalars/id",
+      "url": "undefined/scalars/id",
       "description": "ID identifier of a Client",
       "isDeprecated": false,
       "args": null
@@ -14,7 +14,7 @@
     {
       "typeString": "String!",
       "name": "name",
-      "url": "/travelgatex/reference/scalars/string",
+      "url": "undefined/scalars/string",
       "description": "Client complete name",
       "isDeprecated": false,
       "args": null
@@ -22,7 +22,7 @@
     {
       "typeString": "Boolean!",
       "name": "isActive",
-      "url": "/travelgatex/reference/scalars/boolean",
+      "url": "undefined/scalars/boolean",
       "description": "Indicates whether a Client is active or inactive",
       "isDeprecated": false,
       "args": null
@@ -32,7 +32,7 @@
     {
       "name": "Client",
       "description": "Client identifies who is making the request and holds the configuration assigned to it.",
-      "url": "/travelgatex/reference/objects/client"
+      "url": "undefined/objects/client"
     }
   ],
   "enumValues": null,

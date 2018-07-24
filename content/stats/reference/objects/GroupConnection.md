@@ -6,7 +6,7 @@
     {
       "typeString": "[GroupEdge]",
       "name": "edges",
-      "url": "/stats/reference/objects/groupedge",
+      "url": "undefined/objects/groupedge",
       "description": "",
       "isDeprecated": false,
       "args": null
@@ -14,7 +14,7 @@
     {
       "typeString": "PageInfo!",
       "name": "pageInfo",
-      "url": "/stats/reference/objects/pageinfo",
+      "url": "undefined/objects/pageinfo",
       "description": "",
       "isDeprecated": false,
       "args": null
@@ -24,17 +24,17 @@
     {
       "name": "APIData",
       "description": "",
-      "url": "/stats/reference/objects/apidata"
+      "url": "undefined/objects/apidata"
     },
     {
       "name": "GroupData",
       "description": "",
-      "url": "/stats/reference/objects/groupdata"
+      "url": "undefined/objects/groupdata"
     },
     {
       "name": "MemberData",
       "description": "",
-      "url": "/stats/reference/objects/memberdata"
+      "url": "undefined/objects/memberdata"
     }
   ],
   "enumValues": null,

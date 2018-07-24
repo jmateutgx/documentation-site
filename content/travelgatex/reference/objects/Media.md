@@ -6,7 +6,7 @@
     {
       "typeString": "String",
       "name": "code",
-      "url": "/travelgatex/reference/scalars/string",
+      "url": "undefined/scalars/string",
       "description": "Code.",
       "isDeprecated": false,
       "args": null
@@ -14,7 +14,7 @@
     {
       "typeString": "String",
       "name": "order",
-      "url": "/travelgatex/reference/scalars/string",
+      "url": "undefined/scalars/string",
       "description": "Indicates the order priority.",
       "isDeprecated": false,
       "args": null
@@ -22,7 +22,7 @@
     {
       "typeString": "ApplicationAreaType!",
       "name": "type",
-      "url": "/travelgatex/reference/enums/applicationareatype",
+      "url": "undefined/enums/applicationareatype",
       "description": "Indicates the type of the media.",
       "isDeprecated": false,
       "args": null
@@ -30,7 +30,7 @@
     {
       "typeString": "DateTime!",
       "name": "updatedAt",
-      "url": "/travelgatex/reference/scalars/datetime",
+      "url": "undefined/scalars/datetime",
       "description": "Date updated.",
       "isDeprecated": false,
       "args": null
@@ -38,7 +38,7 @@
     {
       "typeString": "URI!",
       "name": "url",
-      "url": "/travelgatex/reference/scalars/uri",
+      "url": "undefined/scalars/uri",
       "description": "Url.",
       "isDeprecated": false,
       "args": null
@@ -46,14 +46,14 @@
     {
       "typeString": "[Text!]",
       "name": "texts",
-      "url": "/travelgatex/reference/interfaces/text",
+      "url": "undefined/interfaces/text",
       "description": "Contains the descriptive.",
       "isDeprecated": false,
       "args": [
         {
           "typeString": "[Language!]",
           "name": "languages",
-          "url": "/travelgatex/reference/scalars/language",
+          "url": "undefined/scalars/language",
           "description": ""
         }
       ]

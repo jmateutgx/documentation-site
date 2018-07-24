@@ -6,7 +6,7 @@
     {
       "typeString": "Boolean!",
       "name": "hasNextPage",
-      "url": "/paymentx/reference/scalars/boolean",
+      "url": "undefined/scalars/boolean",
       "description": "",
       "isDeprecated": false,
       "args": null
@@ -14,7 +14,7 @@
     {
       "typeString": "Boolean!",
       "name": "hasPreviousPage",
-      "url": "/paymentx/reference/scalars/boolean",
+      "url": "undefined/scalars/boolean",
       "description": "",
       "isDeprecated": false,
       "args": null
@@ -22,7 +22,7 @@
     {
       "typeString": "String!",
       "name": "startCursor",
-      "url": "/paymentx/reference/scalars/string",
+      "url": "undefined/scalars/string",
       "description": "",
       "isDeprecated": false,
       "args": null
@@ -30,7 +30,7 @@
     {
       "typeString": "String!",
       "name": "endCursor",
-      "url": "/paymentx/reference/scalars/string",
+      "url": "undefined/scalars/string",
       "description": "",
       "isDeprecated": false,
       "args": null
@@ -40,7 +40,7 @@
     {
       "name": "StoredCardConnection",
       "description": "",
-      "url": "/paymentx/reference/objects/storedcardconnection"
+      "url": "undefined/objects/storedcardconnection"
     }
   ],
   "enumValues": null,

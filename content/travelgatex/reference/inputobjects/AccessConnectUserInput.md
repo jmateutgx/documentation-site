@@ -6,21 +6,21 @@
     {
       "typeString": "String!",
       "name": "code",
-      "url": "/travelgatex/reference/scalars/string",
+      "url": "undefined/scalars/string",
       "description": "connect user code",
       "args": null
     },
     {
       "typeString": "Boolean!",
       "name": "isActive",
-      "url": "/travelgatex/reference/scalars/boolean",
+      "url": "undefined/scalars/boolean",
       "description": "Indicates if the connect user is active.",
       "args": null
     },
     {
       "typeString": "[ConnectUserGroupInput!]",
       "name": "groups",
-      "url": "/travelgatex/reference/inputobjects/connectusergroupinput",
+      "url": "undefined/inputobjects/connectusergroupinput",
       "description": "groups related to this connect user",
       "args": null
     }

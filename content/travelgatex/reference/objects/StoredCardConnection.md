@@ -6,7 +6,7 @@
     {
       "typeString": "[StoredCardEdge]",
       "name": "edges",
-      "url": "/travelgatex/reference/objects/storedcardedge",
+      "url": "undefined/objects/storedcardedge",
       "description": "",
       "isDeprecated": false,
       "args": null
@@ -14,7 +14,7 @@
     {
       "typeString": "PageInfo!",
       "name": "pageInfo",
-      "url": "/travelgatex/reference/objects/pageinfo",
+      "url": "undefined/objects/pageinfo",
       "description": "",
       "isDeprecated": false,
       "args": null
@@ -24,7 +24,7 @@
     {
       "name": "PaymentXQuery",
       "description": "",
-      "url": "/travelgatex/reference/objects/paymentxquery"
+      "url": "undefined/objects/paymentxquery"
     }
   ],
   "enumValues": null,

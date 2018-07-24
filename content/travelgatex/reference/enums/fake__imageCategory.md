@@ -7,7 +7,7 @@
     {
       "name": "fake__options",
       "description": "",
-      "url": "/travelgatex/reference/inputobjects/fake__options"
+      "url": "undefined/inputobjects/fake__options"
     }
   ],
   "enumValues": [

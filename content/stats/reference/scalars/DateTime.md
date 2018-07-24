@@ -7,67 +7,67 @@
     {
       "name": "StatsFilterInput",
       "description": "Filters needed to do a search.\nUsers (List of users), Suppliers (List of suppliers), ServiceApis (List of service apis), From (Start date of search - YYYY-MM-DD HH:mm:ss), To (End date of search - YYYY-MM-DD HH:mm:ss)",
-      "url": "/stats/reference/inputobjects/statsfilterinput"
+      "url": "undefined/inputobjects/statsfilterinput"
     },
     {
       "name": "Stats",
       "description": "The service used to access the stats of every connection that uses the HUB",
-      "url": "/stats/reference/objects/stats"
+      "url": "undefined/objects/stats"
     },
     {
       "name": "StatsData",
       "description": "",
-      "url": "/stats/reference/objects/statsdata"
+      "url": "undefined/objects/statsdata"
     },
     {
       "name": "Access",
       "description": "An Access is a set of credentials and configuration in order to access the system of a Supplier.",
-      "url": "/stats/reference/objects/access"
+      "url": "undefined/objects/access"
     },
     {
       "name": "Client",
       "description": "Client identifies who is making the request and holds the configuration assigned to it.",
-      "url": "/stats/reference/objects/client"
+      "url": "undefined/objects/client"
     },
     {
       "name": "Supplier",
       "description": "A Supplier is a Partner who is connected to TravelgateX on the supply side in order to sell their product to connected Buyers",
-      "url": "/stats/reference/objects/supplier"
+      "url": "undefined/objects/supplier"
     },
     {
       "name": "Operation",
       "description": "",
-      "url": "/stats/reference/objects/operation"
+      "url": "undefined/objects/operation"
     },
     {
       "name": "API",
       "description": "",
-      "url": "/stats/reference/objects/api"
+      "url": "undefined/objects/api"
     },
     {
       "name": "Group",
       "description": "Groups are organized hierarchically.",
-      "url": "/stats/reference/objects/group"
+      "url": "undefined/objects/group"
     },
     {
       "name": "Member",
       "description": "You grant access to members which can be either:\nUsers: A developer, administrator or any other person from your Organization who interacts with the TravelgateX Platform. An email address can be used as the identity of a User.\nService Accounts: An application (Client) instead of an individual User. If you prefer, you can create as many Service Accounts as needed to represent different logical components of your application.",
-      "url": "/stats/reference/objects/member"
+      "url": "undefined/objects/member"
     },
     {
       "name": "Role",
       "description": "Permissions determine what operations are allowed on a resource",
-      "url": "/stats/reference/objects/role"
+      "url": "undefined/objects/role"
     },
     {
       "name": "Resource",
       "description": "Resources are those used in APIs and Products.",
-      "url": "/stats/reference/objects/resource"
+      "url": "undefined/objects/resource"
     },
     {
       "name": "StatsAssert",
       "description": "Assert of an specific error",
-      "url": "/stats/reference/objects/statsassert"
+      "url": "undefined/objects/statsassert"
     }
   ],
   "enumValues": null,

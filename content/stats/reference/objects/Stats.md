@@ -6,7 +6,7 @@
     {
       "typeString": "ID!",
       "name": "code",
-      "url": "/stats/reference/scalars/id",
+      "url": "undefined/scalars/id",
       "description": "",
       "isDeprecated": false,
       "args": null
@@ -14,7 +14,7 @@
     {
       "typeString": "StatsData",
       "name": "statsData",
-      "url": "/stats/reference/objects/statsdata",
+      "url": "undefined/objects/statsdata",
       "description": "The data returned by a Stats query.",
       "isDeprecated": false,
       "args": null
@@ -22,14 +22,14 @@
     {
       "typeString": "[AdviseMessage!]",
       "name": "adviseMessage",
-      "url": "/stats/reference/interfaces/advisemessage",
+      "url": "undefined/interfaces/advisemessage",
       "description": "List of advise messages.",
       "isDeprecated": false,
       "args": [
         {
           "typeString": "[AdviseMessageLevel]",
           "name": "level",
-          "url": "/stats/reference/enums/advisemessagelevel",
+          "url": "undefined/enums/advisemessagelevel",
           "description": ""
         }
       ]
@@ -37,7 +37,7 @@
     {
       "typeString": "DateTime!",
       "name": "createdAt",
-      "url": "/stats/reference/scalars/datetime",
+      "url": "undefined/scalars/datetime",
       "description": "Create date",
       "isDeprecated": false,
       "args": null
@@ -45,7 +45,7 @@
     {
       "typeString": "DateTime!",
       "name": "updatedAt",
-      "url": "/stats/reference/scalars/datetime",
+      "url": "undefined/scalars/datetime",
       "description": "Update date",
       "isDeprecated": false,
       "args": null
@@ -55,7 +55,7 @@
     {
       "name": "StatsEdge",
       "description": "",
-      "url": "/stats/reference/objects/statsedge"
+      "url": "undefined/objects/statsedge"
     }
   ],
   "enumValues": null,

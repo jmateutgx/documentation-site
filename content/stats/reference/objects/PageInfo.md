@@ -6,7 +6,7 @@
     {
       "typeString": "Boolean!",
       "name": "hasNextPage",
-      "url": "/stats/reference/scalars/boolean",
+      "url": "undefined/scalars/boolean",
       "description": "",
       "isDeprecated": false,
       "args": null
@@ -14,7 +14,7 @@
     {
       "typeString": "Boolean!",
       "name": "hasPreviousPage",
-      "url": "/stats/reference/scalars/boolean",
+      "url": "undefined/scalars/boolean",
       "description": "",
       "isDeprecated": false,
       "args": null
@@ -22,7 +22,7 @@
     {
       "typeString": "String!",
       "name": "startCursor",
-      "url": "/stats/reference/scalars/string",
+      "url": "undefined/scalars/string",
       "description": "",
       "isDeprecated": false,
       "args": null
@@ -30,7 +30,7 @@
     {
       "typeString": "String!",
       "name": "endCursor",
-      "url": "/stats/reference/scalars/string",
+      "url": "undefined/scalars/string",
       "description": "",
       "isDeprecated": false,
       "args": null
@@ -40,52 +40,52 @@
     {
       "name": "StatsConnection",
       "description": "",
-      "url": "/stats/reference/objects/statsconnection"
+      "url": "undefined/objects/statsconnection"
     },
     {
       "name": "AccessConnection",
       "description": "",
-      "url": "/stats/reference/objects/accessconnection"
+      "url": "undefined/objects/accessconnection"
     },
     {
       "name": "GroupConnection",
       "description": "",
-      "url": "/stats/reference/objects/groupconnection"
+      "url": "undefined/objects/groupconnection"
     },
     {
       "name": "ResourceConnection",
       "description": "",
-      "url": "/stats/reference/objects/resourceconnection"
+      "url": "undefined/objects/resourceconnection"
     },
     {
       "name": "OperationConnection",
       "description": "",
-      "url": "/stats/reference/objects/operationconnection"
+      "url": "undefined/objects/operationconnection"
     },
     {
       "name": "MemberConnection",
       "description": "",
-      "url": "/stats/reference/objects/memberconnection"
+      "url": "undefined/objects/memberconnection"
     },
     {
       "name": "APIConnection",
       "description": "",
-      "url": "/stats/reference/objects/apiconnection"
+      "url": "undefined/objects/apiconnection"
     },
     {
       "name": "SupplierConnection",
       "description": "",
-      "url": "/stats/reference/objects/supplierconnection"
+      "url": "undefined/objects/supplierconnection"
     },
     {
       "name": "ClientConnection",
       "description": "",
-      "url": "/stats/reference/objects/clientconnection"
+      "url": "undefined/objects/clientconnection"
     },
     {
       "name": "RoleConnection",
       "description": "",
-      "url": "/stats/reference/objects/roleconnection"
+      "url": "undefined/objects/roleconnection"
     }
   ],
   "enumValues": null,

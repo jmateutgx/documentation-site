@@ -6,14 +6,14 @@
     {
       "typeString": "String!",
       "name": "key",
-      "url": "/travelgatex/reference/scalars/string",
+      "url": "undefined/scalars/string",
       "description": "Contains the keyword/Id to identify a parameter.\nThis information is mandatory.",
       "args": null
     },
     {
       "typeString": "String!",
       "name": "value",
-      "url": "/travelgatex/reference/scalars/string",
+      "url": "undefined/scalars/string",
       "description": "Contains the parameter values.\nThis information is mandatory.",
       "args": null
     }
@@ -22,7 +22,7 @@
     {
       "name": "AccessInput",
       "description": "Access input",
-      "url": "/travelgatex/reference/inputobjects/accessinput"
+      "url": "undefined/inputobjects/accessinput"
     }
   ],
   "enumValues": null,

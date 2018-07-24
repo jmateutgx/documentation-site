@@ -7,12 +7,12 @@
     {
       "name": "MemberData",
       "description": "",
-      "url": "/travelgatex/reference/objects/memberdata"
+      "url": "undefined/objects/memberdata"
     },
     {
       "name": "CreateMemberInput",
       "description": "",
-      "url": "/travelgatex/reference/inputobjects/creatememberinput"
+      "url": "undefined/inputobjects/creatememberinput"
     }
   ],
   "enumValues": [

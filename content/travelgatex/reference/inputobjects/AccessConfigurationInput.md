@@ -6,28 +6,28 @@
     {
       "typeString": "Boolean!",
       "name": "isActive",
-      "url": "/travelgatex/reference/scalars/boolean",
+      "url": "undefined/scalars/boolean",
       "description": "Indicates if Access is active",
       "args": null
     },
     {
       "typeString": "String!",
       "name": "code",
-      "url": "/travelgatex/reference/scalars/string",
+      "url": "undefined/scalars/string",
       "description": "Arbitrary not unique identifier",
       "args": null
     },
     {
       "typeString": "String!",
       "name": "supplier",
-      "url": "/travelgatex/reference/scalars/string",
+      "url": "undefined/scalars/string",
       "description": "Supplier to which this access belongs",
       "args": null
     },
     {
       "typeString": "ConfigurationInput",
       "name": "configuration",
-      "url": "/travelgatex/reference/inputobjects/configurationinput",
+      "url": "undefined/inputobjects/configurationinput",
       "description": "Information required to access the supplier's system.",
       "args": null
     }

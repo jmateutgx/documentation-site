@@ -6,14 +6,14 @@
     {
       "typeString": "Int!",
       "name": "fileId",
-      "url": "/mappea/reference/scalars/int",
+      "url": "undefined/scalars/int",
       "description": "",
       "args": null
     },
     {
       "typeString": "[MappeaSupplierConfirmedInput!]!",
       "name": "suppliers",
-      "url": "/mappea/reference/inputobjects/mappeasupplierconfirmedinput",
+      "url": "undefined/inputobjects/mappeasupplierconfirmedinput",
       "description": "",
       "args": null
     }

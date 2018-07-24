@@ -6,21 +6,21 @@
     {
       "typeString": "DateType!",
       "name": "dateType",
-      "url": "/travelgatex/reference/enums/datetype",
+      "url": "undefined/enums/datetype",
       "description": "Type of date. Can be Arrival or Booking date.",
       "args": null
     },
     {
       "typeString": "Date!",
       "name": "start",
-      "url": "/travelgatex/reference/scalars/date",
+      "url": "undefined/scalars/date",
       "description": "Start date.\nFormat: YYYY-MM-DD.",
       "args": null
     },
     {
       "typeString": "Date!",
       "name": "end",
-      "url": "/travelgatex/reference/scalars/date",
+      "url": "undefined/scalars/date",
       "description": "End date.\nFormat: YYYY-MM-DD.",
       "args": null
     }
@@ -29,7 +29,7 @@
     {
       "name": "HotelCriteriaBookingInput",
       "description": "Criteria of book contains basic information to find a book or books.",
-      "url": "/travelgatex/reference/inputobjects/hotelcriteriabookinginput"
+      "url": "undefined/inputobjects/hotelcriteriabookinginput"
     }
   ],
   "enumValues": null,

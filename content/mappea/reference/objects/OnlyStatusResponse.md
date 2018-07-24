@@ -6,7 +6,7 @@
     {
       "typeString": "Error",
       "name": "error",
-      "url": "/mappea/reference/objects/error",
+      "url": "undefined/objects/error",
       "description": "",
       "isDeprecated": false,
       "args": null
@@ -14,7 +14,7 @@
     {
       "typeString": "[Warning]",
       "name": "warnings",
-      "url": "/mappea/reference/objects/warning",
+      "url": "undefined/objects/warning",
       "description": "",
       "isDeprecated": false,
       "args": null
@@ -24,7 +24,7 @@
     {
       "name": "MappeaMutation",
       "description": "",
-      "url": "/mappea/reference/objects/mappeamutation"
+      "url": "undefined/objects/mappeamutation"
     }
   ],
   "enumValues": null,

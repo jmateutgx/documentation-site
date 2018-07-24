@@ -7,7 +7,7 @@
     {
       "name": "PluginsInput",
       "description": "Plugin to execute.",
-      "url": "/travelgatex/reference/inputobjects/pluginsinput"
+      "url": "undefined/inputobjects/pluginsinput"
     }
   ],
   "enumValues": [

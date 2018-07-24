@@ -6,7 +6,7 @@
     {
       "typeString": "[AccessEdge]",
       "name": "edges",
-      "url": "/mappea/reference/objects/accessedge",
+      "url": "undefined/objects/accessedge",
       "description": "",
       "isDeprecated": false,
       "args": null
@@ -14,7 +14,7 @@
     {
       "typeString": "PageInfo!",
       "name": "pageInfo",
-      "url": "/mappea/reference/objects/pageinfo",
+      "url": "undefined/objects/pageinfo",
       "description": "",
       "isDeprecated": false,
       "args": null
@@ -24,7 +24,7 @@
     {
       "name": "SupplierData",
       "description": "",
-      "url": "/mappea/reference/objects/supplierdata"
+      "url": "undefined/objects/supplierdata"
     }
   ],
   "enumValues": null,

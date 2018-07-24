@@ -7,7 +7,7 @@
     {
       "name": "DestinationData",
       "description": "Information about destinantion",
-      "url": "/travelgatex/reference/objects/destinationdata"
+      "url": "undefined/objects/destinationdata"
     }
   ],
   "enumValues": [

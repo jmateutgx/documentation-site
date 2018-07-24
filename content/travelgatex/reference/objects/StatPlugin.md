@@ -6,7 +6,7 @@
     {
       "typeString": "String!",
       "name": "name",
-      "url": "/travelgatex/reference/scalars/string",
+      "url": "undefined/scalars/string",
       "description": "Plugin name",
       "isDeprecated": false,
       "args": null
@@ -14,7 +14,7 @@
     {
       "typeString": "Stat!",
       "name": "total",
-      "url": "/travelgatex/reference/objects/stat",
+      "url": "undefined/objects/stat",
       "description": "total plugin time",
       "isDeprecated": false,
       "args": null
@@ -24,12 +24,12 @@
     {
       "name": "StatsRequest",
       "description": "Contains internal information.",
-      "url": "/travelgatex/reference/objects/statsrequest"
+      "url": "undefined/objects/statsrequest"
     },
     {
       "name": "StatAccess",
       "description": "",
-      "url": "/travelgatex/reference/objects/stataccess"
+      "url": "undefined/objects/stataccess"
     }
   ],
   "enumValues": null,

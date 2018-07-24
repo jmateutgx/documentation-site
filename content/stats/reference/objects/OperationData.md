@@ -6,7 +6,7 @@
     {
       "typeString": "ID!",
       "name": "id",
-      "url": "/stats/reference/scalars/id",
+      "url": "undefined/scalars/id",
       "description": "",
       "isDeprecated": false,
       "args": null
@@ -14,7 +14,7 @@
     {
       "typeString": "ID!",
       "name": "code",
-      "url": "/stats/reference/scalars/id",
+      "url": "undefined/scalars/id",
       "description": "",
       "isDeprecated": false,
       "args": null
@@ -22,7 +22,7 @@
     {
       "typeString": "String",
       "name": "label",
-      "url": "/stats/reference/scalars/string",
+      "url": "undefined/scalars/string",
       "description": "",
       "isDeprecated": false,
       "args": null
@@ -30,7 +30,7 @@
     {
       "typeString": "[OperationType!]!",
       "name": "types",
-      "url": "/stats/reference/enums/operationtype",
+      "url": "undefined/enums/operationtype",
       "description": "",
       "isDeprecated": false,
       "args": null
@@ -38,7 +38,7 @@
     {
       "typeString": "API",
       "name": "api",
-      "url": "/stats/reference/objects/api",
+      "url": "undefined/objects/api",
       "description": "",
       "isDeprecated": false,
       "args": null
@@ -48,7 +48,7 @@
     {
       "name": "Operation",
       "description": "",
-      "url": "/stats/reference/objects/operation"
+      "url": "undefined/objects/operation"
     }
   ],
   "enumValues": null,

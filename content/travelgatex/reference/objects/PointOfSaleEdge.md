@@ -6,7 +6,7 @@
     {
       "typeString": "String!",
       "name": "cursor",
-      "url": "/travelgatex/reference/scalars/string",
+      "url": "undefined/scalars/string",
       "description": "",
       "isDeprecated": false,
       "args": null
@@ -14,7 +14,7 @@
     {
       "typeString": "PointOfSale",
       "name": "node",
-      "url": "/travelgatex/reference/objects/pointofsale",
+      "url": "undefined/objects/pointofsale",
       "description": "",
       "isDeprecated": false,
       "args": null
@@ -24,7 +24,7 @@
     {
       "name": "PointOfSaleConnection",
       "description": "",
-      "url": "/travelgatex/reference/objects/pointofsaleconnection"
+      "url": "undefined/objects/pointofsaleconnection"
     }
   ],
   "enumValues": null,

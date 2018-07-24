@@ -6,21 +6,21 @@
     {
       "typeString": "String!",
       "name": "hotelCode",
-      "url": "/travelgatex/reference/scalars/string",
+      "url": "undefined/scalars/string",
       "description": "The hotel code.",
       "args": null
     },
     {
       "typeString": "Currency!",
       "name": "currency",
-      "url": "/travelgatex/reference/scalars/currency",
+      "url": "undefined/scalars/currency",
       "description": "The requested currency. The API will convert to this currency if supplier returns a different one.",
       "args": null
     },
     {
       "typeString": "[BookReferenceInput!]!",
       "name": "references",
-      "url": "/travelgatex/reference/inputobjects/bookreferenceinput",
+      "url": "undefined/inputobjects/bookreferenceinput",
       "description": "Contains the client reference and/or supplier reference.",
       "args": null
     }
@@ -29,7 +29,7 @@
     {
       "name": "HotelCriteriaBookingInput",
       "description": "Criteria of book contains basic information to find a book or books.",
-      "url": "/travelgatex/reference/inputobjects/hotelcriteriabookinginput"
+      "url": "undefined/inputobjects/hotelcriteriabookinginput"
     }
   ],
   "enumValues": null,

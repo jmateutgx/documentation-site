@@ -6,7 +6,7 @@
     {
       "typeString": "ID!",
       "name": "code",
-      "url": "/hotelx/reference/scalars/id",
+      "url": "undefined/scalars/id",
       "description": "Hotel ID",
       "isDeprecated": false,
       "args": null
@@ -14,7 +14,7 @@
     {
       "typeString": "HotelData",
       "name": "hotelData",
-      "url": "/hotelx/reference/objects/hoteldata",
+      "url": "undefined/objects/hoteldata",
       "description": "Hotel data",
       "isDeprecated": false,
       "args": null
@@ -22,7 +22,7 @@
     {
       "typeString": "[AdviseMessage!]",
       "name": "error",
-      "url": "/hotelx/reference/interfaces/advisemessage",
+      "url": "undefined/interfaces/advisemessage",
       "description": "Errors that abort services",
       "isDeprecated": false,
       "args": null
@@ -30,7 +30,7 @@
     {
       "typeString": "DateTime!",
       "name": "createdAt",
-      "url": "/hotelx/reference/scalars/datetime",
+      "url": "undefined/scalars/datetime",
       "description": "Date created",
       "isDeprecated": false,
       "args": null
@@ -38,7 +38,7 @@
     {
       "typeString": "DateTime!",
       "name": "updatedAt",
-      "url": "/hotelx/reference/scalars/datetime",
+      "url": "undefined/scalars/datetime",
       "description": "Date updated",
       "isDeprecated": false,
       "args": null
@@ -48,7 +48,7 @@
     {
       "name": "HotelEdge",
       "description": "HotelList Edge definition",
-      "url": "/hotelx/reference/objects/hoteledge"
+      "url": "undefined/objects/hoteledge"
     }
   ],
   "enumValues": null,

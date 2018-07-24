@@ -6,7 +6,7 @@
     {
       "typeString": "String!",
       "name": "code",
-      "url": "/travelgatex/reference/scalars/string",
+      "url": "undefined/scalars/string",
       "description": "Unique connected user of a supplier",
       "isDeprecated": false,
       "args": null
@@ -14,7 +14,7 @@
     {
       "typeString": "Boolean!",
       "name": "isActive",
-      "url": "/travelgatex/reference/scalars/boolean",
+      "url": "undefined/scalars/boolean",
       "description": "Indicates whether a connected user is active",
       "isDeprecated": false,
       "args": null
@@ -22,7 +22,7 @@
     {
       "typeString": "[ConnectUserGroup!]",
       "name": "connectUserGroups",
-      "url": "/travelgatex/reference/objects/connectusergroup",
+      "url": "undefined/objects/connectusergroup",
       "description": "Connected user's related data based on its groups",
       "isDeprecated": false,
       "args": null

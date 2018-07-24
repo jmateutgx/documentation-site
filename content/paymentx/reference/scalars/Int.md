@@ -7,7 +7,7 @@
     {
       "name": "ExpireDate",
       "description": "The card expiration date",
-      "url": "/paymentx/reference/objects/expiredate"
+      "url": "undefined/objects/expiredate"
     }
   ],
   "enumValues": null,

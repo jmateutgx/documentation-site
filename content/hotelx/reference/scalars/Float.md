@@ -7,62 +7,42 @@
     {
       "name": "Coordinates",
       "description": "Geographical coordinates corresponding to a location.",
-      "url": "/hotelx/reference/objects/coordinates"
+      "url": "undefined/objects/coordinates"
     },
     {
       "name": "AuditData",
       "description": "Data sent and received in the supplier’s native format.",
-      "url": "/hotelx/reference/objects/auditdata"
+      "url": "undefined/objects/auditdata"
     },
     {
       "name": "Stat",
       "description": "",
-      "url": "/hotelx/reference/objects/stat"
-    },
-    {
-      "name": "Stat",
-      "description": "",
-      "url": "/hotelx/reference/objects/stat"
-    },
-    {
-      "name": "Stat",
-      "description": "",
-      "url": "/hotelx/reference/objects/stat"
-    },
-    {
-      "name": "Stat",
-      "description": "",
-      "url": "/hotelx/reference/objects/stat"
-    },
-    {
-      "name": "Stat",
-      "description": "",
-      "url": "/hotelx/reference/objects/stat"
+      "url": "undefined/objects/stat"
     },
     {
       "name": "Price",
       "description": "Price indicates the value of the room/option.\nSupplements and/or surcharges can be included into the price, and will be verified with nodes Supplements/Surcharges.",
-      "url": "/hotelx/reference/objects/price"
+      "url": "undefined/objects/price"
     },
     {
       "name": "Exchange",
       "description": "Provides information about the currency of original, and its rate applied over the results returned by the Supplier.",
-      "url": "/hotelx/reference/objects/exchange"
+      "url": "undefined/objects/exchange"
     },
     {
       "name": "Markup",
       "description": "Informs markup applied over supplier price.",
-      "url": "/hotelx/reference/objects/markup"
+      "url": "undefined/objects/markup"
     },
     {
       "name": "Rule",
       "description": "",
-      "url": "/hotelx/reference/objects/rule"
+      "url": "undefined/objects/rule"
     },
     {
       "name": "CancelPenalty",
       "description": "Contains information for cancellation penalities..",
-      "url": "/hotelx/reference/objects/cancelpenalty"
+      "url": "undefined/objects/cancelpenalty"
     }
   ],
   "enumValues": null,

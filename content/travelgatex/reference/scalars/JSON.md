@@ -7,12 +7,12 @@
     {
       "name": "AddOns",
       "description": "Additional information about the option",
-      "url": "/travelgatex/reference/objects/addons"
+      "url": "undefined/objects/addons"
     },
     {
       "name": "AddOn",
       "description": "Additional information about the option",
-      "url": "/travelgatex/reference/objects/addon"
+      "url": "undefined/objects/addon"
     }
   ],
   "enumValues": null,

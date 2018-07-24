@@ -6,14 +6,14 @@
     {
       "typeString": "OnlyStatusResponse!",
       "name": "confirmUpload",
-      "url": "/mappea/reference/objects/onlystatusresponse",
+      "url": "undefined/objects/onlystatusresponse",
       "description": "",
       "isDeprecated": false,
       "args": [
         {
           "typeString": "MappeaConfirmUploadInput!",
           "name": "input",
-          "url": "/mappea/reference/inputobjects/mappeaconfirmuploadinput",
+          "url": "undefined/inputobjects/mappeaconfirmuploadinput",
           "description": ""
         }
       ]
@@ -21,14 +21,14 @@
     {
       "typeString": "UploadFileResponse!",
       "name": "uploadFile",
-      "url": "/mappea/reference/objects/uploadfileresponse",
+      "url": "undefined/objects/uploadfileresponse",
       "description": "",
       "isDeprecated": false,
       "args": [
         {
           "typeString": "MappeaUploadFileInput!",
           "name": "input",
-          "url": "/mappea/reference/inputobjects/mappeauploadfileinput",
+          "url": "undefined/inputobjects/mappeauploadfileinput",
           "description": ""
         }
       ]
@@ -36,14 +36,14 @@
     {
       "typeString": "OnlyStatusResponse!",
       "name": "mapSupplier",
-      "url": "/mappea/reference/objects/onlystatusresponse",
+      "url": "undefined/objects/onlystatusresponse",
       "description": "",
       "isDeprecated": false,
       "args": [
         {
           "typeString": "MappeaMapSupplierInput!",
           "name": "input",
-          "url": "/mappea/reference/inputobjects/mappeamapsupplierinput",
+          "url": "undefined/inputobjects/mappeamapsupplierinput",
           "description": ""
         }
       ]

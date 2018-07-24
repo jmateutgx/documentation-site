@@ -6,7 +6,7 @@
     {
       "typeString": "Float!",
       "name": "latitude",
-      "url": "/travelgatex/reference/scalars/float",
+      "url": "undefined/scalars/float",
       "description": "Latitude",
       "isDeprecated": false,
       "args": null
@@ -14,7 +14,7 @@
     {
       "typeString": "Float!",
       "name": "longitude",
-      "url": "/travelgatex/reference/scalars/float",
+      "url": "undefined/scalars/float",
       "description": "Longitude",
       "isDeprecated": false,
       "args": null
@@ -24,7 +24,7 @@
     {
       "name": "Location",
       "description": "Indicates the location of the hotel",
-      "url": "/travelgatex/reference/objects/location"
+      "url": "undefined/objects/location"
     }
   ],
   "enumValues": null,

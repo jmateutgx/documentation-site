@@ -6,21 +6,21 @@
     {
       "typeString": "ID!",
       "name": "accessId",
-      "url": "/travelgatex/reference/scalars/id",
+      "url": "undefined/scalars/id",
       "description": "The accessID used to identify the existing access in our Back Office in order to\noverwrite it. Acts as an identifier in this search. It can either exist or not.",
       "args": null
     },
     {
       "typeString": "ConfigurationInput",
       "name": "configuration",
-      "url": "/travelgatex/reference/inputobjects/configurationinput",
+      "url": "undefined/inputobjects/configurationinput",
       "description": "Information required to access the supplier's system.",
       "args": null
     },
     {
       "typeString": "SettingsBaseInput",
       "name": "settings",
-      "url": "/travelgatex/reference/inputobjects/settingsbaseinput",
+      "url": "undefined/inputobjects/settingsbaseinput",
       "description": "You can configure an special settings for any access. This level overwrites the search and supplier settings levels.",
       "args": null
     }

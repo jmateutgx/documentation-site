@@ -6,7 +6,7 @@
     {
       "typeString": "String",
       "name": "address",
-      "url": "/travelgatex/reference/scalars/string",
+      "url": "undefined/scalars/string",
       "description": "Contains Hotel Address",
       "isDeprecated": false,
       "args": null
@@ -14,7 +14,7 @@
     {
       "typeString": "String",
       "name": "city",
-      "url": "/travelgatex/reference/scalars/string",
+      "url": "undefined/scalars/string",
       "description": "Contains the city",
       "isDeprecated": false,
       "args": null
@@ -22,7 +22,7 @@
     {
       "typeString": "String",
       "name": "zipCode",
-      "url": "/travelgatex/reference/scalars/string",
+      "url": "undefined/scalars/string",
       "description": "Contains the zipCode.",
       "isDeprecated": false,
       "args": null
@@ -30,7 +30,7 @@
     {
       "typeString": "Country!",
       "name": "country",
-      "url": "/travelgatex/reference/scalars/country",
+      "url": "undefined/scalars/country",
       "description": "Country where is the Hotel.",
       "isDeprecated": false,
       "args": null
@@ -38,7 +38,7 @@
     {
       "typeString": "Coordinates",
       "name": "coordinates",
-      "url": "/travelgatex/reference/objects/coordinates",
+      "url": "undefined/objects/coordinates",
       "description": "Geographical coordinates corresponding to a location.",
       "isDeprecated": false,
       "args": null
@@ -46,7 +46,7 @@
     {
       "typeString": "DestinationData!",
       "name": "closestDestination",
-      "url": "/travelgatex/reference/objects/destinationdata",
+      "url": "undefined/objects/destinationdata",
       "description": "Closest destination",
       "isDeprecated": false,
       "args": null
@@ -54,7 +54,7 @@
     {
       "typeString": "[Airport!]",
       "name": "airports",
-      "url": "/travelgatex/reference/objects/airport",
+      "url": "undefined/objects/airport",
       "description": "Airports",
       "isDeprecated": false,
       "args": null
@@ -64,12 +64,12 @@
     {
       "name": "HotelData",
       "description": "Hotel data",
-      "url": "/travelgatex/reference/objects/hoteldata"
+      "url": "undefined/objects/hoteldata"
     },
     {
       "name": "AirportData",
       "description": "Information about the airport",
-      "url": "/travelgatex/reference/objects/airportdata"
+      "url": "undefined/objects/airportdata"
     }
   ],
   "enumValues": null,

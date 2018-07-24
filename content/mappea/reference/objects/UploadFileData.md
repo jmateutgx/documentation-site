@@ -6,7 +6,7 @@
     {
       "typeString": "String!",
       "name": "fileId",
-      "url": "/mappea/reference/scalars/string",
+      "url": "undefined/scalars/string",
       "description": "",
       "isDeprecated": false,
       "args": null
@@ -14,7 +14,7 @@
     {
       "typeString": "[SupplierDetected!]",
       "name": "suppliers",
-      "url": "/mappea/reference/objects/supplierdetected",
+      "url": "undefined/objects/supplierdetected",
       "description": "",
       "isDeprecated": false,
       "args": null
@@ -22,7 +22,7 @@
     {
       "typeString": "Int",
       "name": "numberOfLines",
-      "url": "/mappea/reference/scalars/int",
+      "url": "undefined/scalars/int",
       "description": "",
       "isDeprecated": false,
       "args": null
@@ -30,7 +30,7 @@
     {
       "typeString": "Int",
       "name": "numberOfHotels",
-      "url": "/mappea/reference/scalars/int",
+      "url": "undefined/scalars/int",
       "description": "",
       "isDeprecated": false,
       "args": null
@@ -40,7 +40,7 @@
     {
       "name": "UploadFileResponse",
       "description": "",
-      "url": "/mappea/reference/objects/uploadfileresponse"
+      "url": "undefined/objects/uploadfileresponse"
     }
   ],
   "enumValues": null,

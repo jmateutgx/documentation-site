@@ -7,32 +7,32 @@
     {
       "name": "CriteriaSearch",
       "description": "Search criteria contains destination, travel dates and the number of pax in each room.",
-      "url": "/hotelx/reference/objects/criteriasearch"
+      "url": "undefined/objects/criteriasearch"
     },
     {
       "name": "Supplement",
       "description": "Supplement that it can be or its already added to the option returned. Contains all the information about the supplement.",
-      "url": "/hotelx/reference/objects/supplement"
+      "url": "undefined/objects/supplement"
     },
     {
       "name": "RatePlan",
       "description": "Information about the rate of the option returned.",
-      "url": "/hotelx/reference/objects/rateplan"
+      "url": "undefined/objects/rateplan"
     },
     {
       "name": "Promotion",
       "description": "Information about room promotions(offers).",
-      "url": "/hotelx/reference/objects/promotion"
+      "url": "undefined/objects/promotion"
     },
     {
       "name": "PriceBreakdown",
       "description": "Information about daily price.",
-      "url": "/hotelx/reference/objects/pricebreakdown"
+      "url": "undefined/objects/pricebreakdown"
     },
     {
       "name": "BookingHotel",
       "description": "",
-      "url": "/hotelx/reference/objects/bookinghotel"
+      "url": "undefined/objects/bookinghotel"
     }
   ],
   "enumValues": null,

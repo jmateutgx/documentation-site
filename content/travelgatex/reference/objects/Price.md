@@ -6,7 +6,7 @@
     {
       "typeString": "Currency!",
       "name": "currency",
-      "url": "/travelgatex/reference/scalars/currency",
+      "url": "undefined/scalars/currency",
       "description": "Currency code indicating which currency should be paid.\nThis information is mandatory.",
       "isDeprecated": false,
       "args": null
@@ -14,7 +14,7 @@
     {
       "typeString": "Boolean!",
       "name": "binding",
-      "url": "/travelgatex/reference/scalars/boolean",
+      "url": "undefined/scalars/boolean",
       "description": "It indicates if the price indicated in the gross must be respected.\nThat is, the customer can not sell the room / option at a price lower than that established by the supplier.\nThis information is mandatory.",
       "isDeprecated": false,
       "args": null
@@ -22,7 +22,7 @@
     {
       "typeString": "Float!",
       "name": "net",
-      "url": "/travelgatex/reference/scalars/float",
+      "url": "undefined/scalars/float",
       "description": "Indicates the net price that the customer must pay to the supplier.\nThis information is mandatory.",
       "isDeprecated": false,
       "args": null
@@ -30,7 +30,7 @@
     {
       "typeString": "Float",
       "name": "gross",
-      "url": "/travelgatex/reference/scalars/float",
+      "url": "undefined/scalars/float",
       "description": "Indicates the retail price that the supplier sells to the customer.",
       "isDeprecated": false,
       "args": null
@@ -38,7 +38,7 @@
     {
       "typeString": "Exchange!",
       "name": "exchange",
-      "url": "/travelgatex/reference/objects/exchange",
+      "url": "undefined/objects/exchange",
       "description": "Provides information about the currency of original, and its rate applied over the results returned by the Supplier.\nThis information is mandatory.",
       "isDeprecated": false,
       "args": null
@@ -46,7 +46,7 @@
     {
       "typeString": "[Markup!]",
       "name": "markups",
-      "url": "/travelgatex/reference/objects/markup",
+      "url": "undefined/objects/markup",
       "description": "Informs markup applied over supplier price.",
       "isDeprecated": false,
       "args": null
@@ -56,47 +56,47 @@
     {
       "name": "HotelOptionSearch",
       "description": "An option includes hotel information, meal plan, total price, conditions and room description",
-      "url": "/travelgatex/reference/objects/hoteloptionsearch"
+      "url": "undefined/objects/hoteloptionsearch"
     },
     {
       "name": "RoomPrice",
       "description": "Specifies the room price.",
-      "url": "/travelgatex/reference/objects/roomprice"
+      "url": "undefined/objects/roomprice"
     },
     {
       "name": "PriceBreakdown",
       "description": "Information about daily price.",
-      "url": "/travelgatex/reference/objects/pricebreakdown"
+      "url": "undefined/objects/pricebreakdown"
     },
     {
       "name": "Supplement",
       "description": "Supplement that it can be or its already added to the option returned. Contains all the information about the supplement.",
-      "url": "/travelgatex/reference/objects/supplement"
+      "url": "undefined/objects/supplement"
     },
     {
       "name": "Surcharge",
       "description": "Surcharge that it can be or it is already added to the option returned. Contains all the information about the surcharge.",
-      "url": "/travelgatex/reference/objects/surcharge"
+      "url": "undefined/objects/surcharge"
     },
     {
       "name": "HotelOptionQuote",
       "description": "Contains information about quote(s)",
-      "url": "/travelgatex/reference/objects/hoteloptionquote"
+      "url": "undefined/objects/hoteloptionquote"
     },
     {
       "name": "HotelBookingDetail",
       "description": "Contains information about booking",
-      "url": "/travelgatex/reference/objects/hotelbookingdetail"
+      "url": "undefined/objects/hotelbookingdetail"
     },
     {
       "name": "BookingRoom",
       "description": "",
-      "url": "/travelgatex/reference/objects/bookingroom"
+      "url": "undefined/objects/bookingroom"
     },
     {
       "name": "HotelCancelDetail",
       "description": "Contains information about cancel",
-      "url": "/travelgatex/reference/objects/hotelcanceldetail"
+      "url": "undefined/objects/hotelcanceldetail"
     }
   ],
   "enumValues": null,

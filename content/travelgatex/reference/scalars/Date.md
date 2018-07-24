@@ -7,52 +7,52 @@
     {
       "name": "HotelCriteriaSearchInput",
       "description": "Search criteria contains destination, travel dates and the number of pax in each room.\nYou must preload the other fields in our system by complete the fields absents.",
-      "url": "/travelgatex/reference/inputobjects/hotelcriteriasearchinput"
+      "url": "undefined/inputobjects/hotelcriteriasearchinput"
     },
     {
       "name": "CriteriaSearch",
       "description": "Search criteria contains destination, travel dates and the number of pax in each room.",
-      "url": "/travelgatex/reference/objects/criteriasearch"
+      "url": "undefined/objects/criteriasearch"
     },
     {
       "name": "PriceBreakdown",
       "description": "Information about daily price.",
-      "url": "/travelgatex/reference/objects/pricebreakdown"
+      "url": "undefined/objects/pricebreakdown"
     },
     {
       "name": "RatePlan",
       "description": "Information about the rate of the option returned.",
-      "url": "/travelgatex/reference/objects/rateplan"
+      "url": "undefined/objects/rateplan"
     },
     {
       "name": "Promotion",
       "description": "Information about room promotions(offers).",
-      "url": "/travelgatex/reference/objects/promotion"
+      "url": "undefined/objects/promotion"
     },
     {
       "name": "Supplement",
       "description": "Supplement that it can be or its already added to the option returned. Contains all the information about the supplement.",
-      "url": "/travelgatex/reference/objects/supplement"
+      "url": "undefined/objects/supplement"
     },
     {
       "name": "CriteriaBookingDatesInput",
       "description": "Criteria by dates",
-      "url": "/travelgatex/reference/inputobjects/criteriabookingdatesinput"
+      "url": "undefined/inputobjects/criteriabookingdatesinput"
     },
     {
       "name": "BookingHotel",
       "description": "",
-      "url": "/travelgatex/reference/objects/bookinghotel"
+      "url": "undefined/objects/bookinghotel"
     },
     {
       "name": "PaymentXBookingInfo",
       "description": "",
-      "url": "/travelgatex/reference/objects/paymentxbookinginfo"
+      "url": "undefined/objects/paymentxbookinginfo"
     },
     {
       "name": "PaymentXBookingInfoInput",
       "description": "",
-      "url": "/travelgatex/reference/inputobjects/paymentxbookinginfoinput"
+      "url": "undefined/inputobjects/paymentxbookinginfoinput"
     }
   ],
   "enumValues": null,

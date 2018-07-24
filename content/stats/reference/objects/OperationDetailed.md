@@ -6,7 +6,7 @@
     {
       "typeString": "Operation!",
       "name": "operation",
-      "url": "/stats/reference/objects/operation",
+      "url": "undefined/objects/operation",
       "description": "Operation information",
       "isDeprecated": false,
       "args": null
@@ -14,7 +14,7 @@
     {
       "typeString": "Int!",
       "name": "totalHits",
-      "url": "/stats/reference/scalars/int",
+      "url": "undefined/scalars/int",
       "description": "Total hits.",
       "isDeprecated": false,
       "args": null
@@ -22,20 +22,20 @@
     {
       "typeString": "[StatsInfo!]",
       "name": "detailedHits",
-      "url": "/stats/reference/objects/statsinfo",
+      "url": "undefined/objects/statsinfo",
       "description": "Hits grouped depending on their status",
       "isDeprecated": false,
       "args": [
         {
           "typeString": "[StatsInfoTypes!]",
           "name": "type",
-          "url": "/stats/reference/enums/statsinfotypes",
+          "url": "undefined/enums/statsinfotypes",
           "description": ""
         },
         {
           "typeString": "[Int!]",
           "name": "code",
-          "url": "/stats/reference/scalars/int",
+          "url": "undefined/scalars/int",
           "description": ""
         }
       ]
@@ -43,7 +43,7 @@
     {
       "typeString": "Boolean!",
       "name": "cache",
-      "url": "/stats/reference/scalars/boolean",
+      "url": "undefined/scalars/boolean",
       "description": "Responsible for the execution of the this stats. If TRUE then cache, else client",
       "isDeprecated": false,
       "args": null

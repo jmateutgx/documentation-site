@@ -6,7 +6,7 @@
     {
       "typeString": "ID!",
       "name": "code",
-      "url": "/travelgatex/reference/scalars/id",
+      "url": "undefined/scalars/id",
       "description": "",
       "isDeprecated": false,
       "args": null
@@ -14,7 +14,7 @@
     {
       "typeString": "StatsInfoTypes!",
       "name": "type",
-      "url": "/travelgatex/reference/enums/statsinfotypes",
+      "url": "undefined/enums/statsinfotypes",
       "description": "Stats type",
       "isDeprecated": false,
       "args": null
@@ -22,7 +22,7 @@
     {
       "typeString": "Int!",
       "name": "hits",
-      "url": "/travelgatex/reference/scalars/int",
+      "url": "undefined/scalars/int",
       "description": "Total hits",
       "isDeprecated": false,
       "args": null
@@ -30,7 +30,7 @@
     {
       "typeString": "Int!",
       "name": "time",
-      "url": "/travelgatex/reference/scalars/int",
+      "url": "undefined/scalars/int",
       "description": "Average time (ms)",
       "isDeprecated": false,
       "args": null
@@ -38,7 +38,7 @@
     {
       "typeString": "[StatsAssert!]",
       "name": "asserts",
-      "url": "/travelgatex/reference/objects/statsassert",
+      "url": "undefined/objects/statsassert",
       "description": "Details about errors.",
       "isDeprecated": false,
       "args": null

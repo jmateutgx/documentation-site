@@ -6,7 +6,7 @@
     {
       "typeString": "JSON",
       "name": "distribute",
-      "url": "/travelgatex/reference/scalars/json",
+      "url": "undefined/scalars/json",
       "description": "Extra information from the distribution layer",
       "isDeprecated": true,
       "args": null,
@@ -22,7 +22,7 @@
     {
       "typeString": "[AddOn!]",
       "name": "distribution",
-      "url": "/travelgatex/reference/objects/addon",
+      "url": "undefined/objects/addon",
       "description": "Extra information from the distribution layer",
       "isDeprecated": false,
       "args": null
@@ -32,17 +32,17 @@
     {
       "name": "HotelOptionSearch",
       "description": "An option includes hotel information, meal plan, total price, conditions and room description",
-      "url": "/travelgatex/reference/objects/hoteloptionsearch"
+      "url": "undefined/objects/hoteloptionsearch"
     },
     {
       "name": "HotelOptionQuote",
       "description": "Contains information about quote(s)",
-      "url": "/travelgatex/reference/objects/hoteloptionquote"
+      "url": "undefined/objects/hoteloptionquote"
     },
     {
       "name": "HotelBookingDetail",
       "description": "Contains information about booking",
-      "url": "/travelgatex/reference/objects/hotelbookingdetail"
+      "url": "undefined/objects/hotelbookingdetail"
     }
   ],
   "enumValues": null,

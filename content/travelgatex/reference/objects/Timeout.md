@@ -6,7 +6,7 @@
     {
       "typeString": "Int!",
       "name": "search",
-      "url": "/travelgatex/reference/scalars/int",
+      "url": "undefined/scalars/int",
       "description": "Milliseconds before the search connection is closed.",
       "isDeprecated": false,
       "args": null
@@ -14,7 +14,7 @@
     {
       "typeString": "Int!",
       "name": "quote",
-      "url": "/travelgatex/reference/scalars/int",
+      "url": "undefined/scalars/int",
       "description": "Milliseconds before the quote connection is closed.",
       "isDeprecated": false,
       "args": null
@@ -22,7 +22,7 @@
     {
       "typeString": "Int!",
       "name": "book",
-      "url": "/travelgatex/reference/scalars/int",
+      "url": "undefined/scalars/int",
       "description": "Milliseconds before the book connection is closed.",
       "isDeprecated": false,
       "args": null
@@ -32,7 +32,7 @@
     {
       "name": "DefaultSettings",
       "description": "",
-      "url": "/travelgatex/reference/objects/defaultsettings"
+      "url": "undefined/objects/defaultsettings"
     }
   ],
   "enumValues": null,

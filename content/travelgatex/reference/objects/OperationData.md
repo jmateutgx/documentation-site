@@ -6,7 +6,7 @@
     {
       "typeString": "ID!",
       "name": "id",
-      "url": "/travelgatex/reference/scalars/id",
+      "url": "undefined/scalars/id",
       "description": "",
       "isDeprecated": false,
       "args": null
@@ -14,7 +14,7 @@
     {
       "typeString": "ID!",
       "name": "code",
-      "url": "/travelgatex/reference/scalars/id",
+      "url": "undefined/scalars/id",
       "description": "",
       "isDeprecated": false,
       "args": null
@@ -22,7 +22,7 @@
     {
       "typeString": "String",
       "name": "label",
-      "url": "/travelgatex/reference/scalars/string",
+      "url": "undefined/scalars/string",
       "description": "",
       "isDeprecated": false,
       "args": null
@@ -30,7 +30,7 @@
     {
       "typeString": "[OperationType!]!",
       "name": "types",
-      "url": "/travelgatex/reference/enums/operationtype",
+      "url": "undefined/enums/operationtype",
       "description": "",
       "isDeprecated": false,
       "args": null
@@ -38,7 +38,7 @@
     {
       "typeString": "API",
       "name": "api",
-      "url": "/travelgatex/reference/objects/api",
+      "url": "undefined/objects/api",
       "description": "",
       "isDeprecated": false,
       "args": null
@@ -48,7 +48,7 @@
     {
       "name": "Operation",
       "description": "",
-      "url": "/travelgatex/reference/objects/operation"
+      "url": "undefined/objects/operation"
     }
   ],
   "enumValues": null,

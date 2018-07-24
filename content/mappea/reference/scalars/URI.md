@@ -7,7 +7,7 @@
     {
       "name": "Urls",
       "description": "Url's",
-      "url": "/mappea/reference/objects/urls"
+      "url": "undefined/objects/urls"
     }
   ],
   "enumValues": null,

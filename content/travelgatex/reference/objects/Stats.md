@@ -6,7 +6,7 @@
     {
       "typeString": "ID!",
       "name": "code",
-      "url": "/travelgatex/reference/scalars/id",
+      "url": "undefined/scalars/id",
       "description": "",
       "isDeprecated": false,
       "args": null
@@ -14,23 +14,30 @@
     {
       "typeString": "StatsData",
       "name": "statsData",
-      "url": "/travelgatex/reference/objects/statsdata",
+      "url": "undefined/objects/statsdata",
       "description": "The data returned by a Stats query.",
       "isDeprecated": false,
       "args": null
     },
     {
-      "typeString": "[Error!]",
-      "name": "error",
-      "url": "/travelgatex/reference/objects/error",
-      "description": "Errors that will lead the service to abort",
+      "typeString": "[AdviseMessage!]",
+      "name": "adviseMessage",
+      "url": "undefined/interfaces/advisemessage",
+      "description": "List of advise messages.",
       "isDeprecated": false,
-      "args": null
+      "args": [
+        {
+          "typeString": "[AdviseMessageLevel]",
+          "name": "level",
+          "url": "undefined/enums/advisemessagelevel",
+          "description": ""
+        }
+      ]
     },
     {
       "typeString": "DateTime!",
       "name": "createdAt",
-      "url": "/travelgatex/reference/scalars/datetime",
+      "url": "undefined/scalars/datetime",
       "description": "Create date",
       "isDeprecated": false,
       "args": null
@@ -38,7 +45,7 @@
     {
       "typeString": "DateTime!",
       "name": "updatedAt",
-      "url": "/travelgatex/reference/scalars/datetime",
+      "url": "undefined/scalars/datetime",
       "description": "Update date",
       "isDeprecated": false,
       "args": null
@@ -48,7 +55,7 @@
     {
       "name": "StatsEdge",
       "description": "",
-      "url": "/travelgatex/reference/objects/statsedge"
+      "url": "undefined/objects/statsedge"
     }
   ],
   "enumValues": null,

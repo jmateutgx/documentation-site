@@ -7,12 +7,12 @@
     {
       "name": "Location",
       "description": "Indicates the location of the hotel",
-      "url": "/hotelx/reference/objects/location"
+      "url": "undefined/objects/location"
     },
     {
       "name": "CriteriaSearch",
       "description": "Search criteria contains destination, travel dates and the number of pax in each room.",
-      "url": "/hotelx/reference/objects/criteriasearch"
+      "url": "undefined/objects/criteriasearch"
     }
   ],
   "enumValues": null,

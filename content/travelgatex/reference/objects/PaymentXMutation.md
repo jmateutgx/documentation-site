@@ -6,14 +6,14 @@
     {
       "typeString": "StoredCard!",
       "name": "storeCard",
-      "url": "/travelgatex/reference/objects/storedcard",
+      "url": "undefined/objects/storedcard",
       "description": "Store Card",
       "isDeprecated": false,
       "args": [
         {
           "typeString": "PaymentXStoreCardInput!",
           "name": "input",
-          "url": "/travelgatex/reference/inputobjects/paymentxstorecardinput",
+          "url": "undefined/inputobjects/paymentxstorecardinput",
           "description": ""
         }
       ]
@@ -21,14 +21,14 @@
     {
       "typeString": "StoredCard!",
       "name": "deleteCard",
-      "url": "/travelgatex/reference/objects/storedcard",
+      "url": "undefined/objects/storedcard",
       "description": "Delete Card",
       "isDeprecated": false,
       "args": [
         {
           "typeString": "PaymentXBookingInfoDeleteInput!",
           "name": "input",
-          "url": "/travelgatex/reference/inputobjects/paymentxbookinginfodeleteinput",
+          "url": "undefined/inputobjects/paymentxbookinginfodeleteinput",
           "description": ""
         }
       ]
@@ -38,7 +38,7 @@
     {
       "name": "Mutation",
       "description": "The root query for implementing GraphQL mutations. Mutations are operations that change or update data on the server",
-      "url": "/travelgatex/reference/schema/mutation"
+      "url": "undefined/schema/mutation"
     }
   ],
   "enumValues": null,

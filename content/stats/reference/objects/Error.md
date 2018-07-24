@@ -6,7 +6,7 @@
     {
       "typeString": "String!",
       "name": "code",
-      "url": "/stats/reference/scalars/string",
+      "url": "undefined/scalars/string",
       "description": "Error code",
       "isDeprecated": false,
       "args": null
@@ -14,7 +14,7 @@
     {
       "typeString": "String!",
       "name": "type",
-      "url": "/stats/reference/scalars/string",
+      "url": "undefined/scalars/string",
       "description": "Error type",
       "isDeprecated": false,
       "args": null
@@ -22,7 +22,7 @@
     {
       "typeString": "String!",
       "name": "description",
-      "url": "/stats/reference/scalars/string",
+      "url": "undefined/scalars/string",
       "description": "Error description",
       "isDeprecated": false,
       "args": null

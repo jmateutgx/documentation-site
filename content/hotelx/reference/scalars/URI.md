@@ -7,12 +7,12 @@
     {
       "name": "Contact",
       "description": "Contact Data.",
-      "url": "/hotelx/reference/objects/contact"
+      "url": "undefined/objects/contact"
     },
     {
       "name": "Media",
       "description": "Contains media information.",
-      "url": "/hotelx/reference/objects/media"
+      "url": "undefined/objects/media"
     }
   ],
   "enumValues": null,

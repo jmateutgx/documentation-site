@@ -6,7 +6,7 @@
     {
       "typeString": "String",
       "name": "code",
-      "url": "/paymentx/reference/scalars/string",
+      "url": "undefined/scalars/string",
       "description": "External Code",
       "isDeprecated": false,
       "args": null
@@ -14,7 +14,7 @@
     {
       "typeString": "String!",
       "name": "message",
-      "url": "/paymentx/reference/scalars/string",
+      "url": "undefined/scalars/string",
       "description": "External Message",
       "isDeprecated": false,
       "args": null
@@ -24,7 +24,7 @@
     {
       "name": "AdviseMessage",
       "description": "List of advise messages.",
-      "url": "/paymentx/reference/interfaces/advisemessage"
+      "url": "undefined/interfaces/advisemessage"
     }
   ],
   "enumValues": null,

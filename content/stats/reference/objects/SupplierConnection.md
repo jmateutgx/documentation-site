@@ -6,7 +6,7 @@
     {
       "typeString": "[SupplierEdge]",
       "name": "edges",
-      "url": "/stats/reference/objects/supplieredge",
+      "url": "undefined/objects/supplieredge",
       "description": "",
       "isDeprecated": false,
       "args": null
@@ -14,7 +14,7 @@
     {
       "typeString": "PageInfo!",
       "name": "pageInfo",
-      "url": "/stats/reference/objects/pageinfo",
+      "url": "undefined/objects/pageinfo",
       "description": "",
       "isDeprecated": false,
       "args": null
@@ -24,7 +24,7 @@
     {
       "name": "GroupData",
       "description": "",
-      "url": "/stats/reference/objects/groupdata"
+      "url": "undefined/objects/groupdata"
     }
   ],
   "enumValues": null,

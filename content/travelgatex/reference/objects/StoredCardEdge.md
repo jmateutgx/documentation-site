@@ -6,7 +6,7 @@
     {
       "typeString": "String!",
       "name": "cursor",
-      "url": "/travelgatex/reference/scalars/string",
+      "url": "undefined/scalars/string",
       "description": "",
       "isDeprecated": false,
       "args": null
@@ -14,7 +14,7 @@
     {
       "typeString": "StoredCard",
       "name": "node",
-      "url": "/travelgatex/reference/objects/storedcard",
+      "url": "undefined/objects/storedcard",
       "description": "",
       "isDeprecated": false,
       "args": null
@@ -24,7 +24,7 @@
     {
       "name": "StoredCardConnection",
       "description": "",
-      "url": "/travelgatex/reference/objects/storedcardconnection"
+      "url": "undefined/objects/storedcardconnection"
     }
   ],
   "enumValues": null,

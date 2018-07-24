@@ -6,7 +6,7 @@
     {
       "typeString": "ID!",
       "name": "code",
-      "url": "/travelgatex/reference/scalars/id",
+      "url": "undefined/scalars/id",
       "description": "Service Operation ID",
       "isDeprecated": false,
       "args": null
@@ -14,7 +14,7 @@
     {
       "typeString": "String!",
       "name": "name",
-      "url": "/travelgatex/reference/scalars/string",
+      "url": "undefined/scalars/string",
       "description": "Service Operation name",
       "isDeprecated": false,
       "args": null
@@ -22,7 +22,7 @@
     {
       "typeString": "String!",
       "name": "type",
-      "url": "/travelgatex/reference/scalars/string",
+      "url": "undefined/scalars/string",
       "description": "Service Operation type",
       "isDeprecated": false,
       "args": null
@@ -30,7 +30,7 @@
     {
       "typeString": "Int!",
       "name": "travelOperation",
-      "url": "/travelgatex/reference/scalars/int",
+      "url": "undefined/scalars/int",
       "description": "Service Operation Travel Operation ID (1: avail) (2: reservation) (3: batch) (4: batchLongRun)",
       "isDeprecated": false,
       "args": null
@@ -40,7 +40,7 @@
     {
       "name": "ServiceApi",
       "description": "Information related to a Service API",
-      "url": "/travelgatex/reference/objects/serviceapi"
+      "url": "undefined/objects/serviceapi"
     }
   ],
   "enumValues": null,

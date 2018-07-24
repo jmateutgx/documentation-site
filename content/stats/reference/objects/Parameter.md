@@ -6,7 +6,7 @@
     {
       "typeString": "ID!",
       "name": "key",
-      "url": "/stats/reference/scalars/id",
+      "url": "undefined/scalars/id",
       "description": "Contains the keyword/Id to identify a parameter.\nThis information is mandatory.",
       "isDeprecated": false,
       "args": null
@@ -14,7 +14,7 @@
     {
       "typeString": "String!",
       "name": "value",
-      "url": "/stats/reference/scalars/string",
+      "url": "undefined/scalars/string",
       "description": "Contains the parameter values.\nThis information is mandatory.",
       "isDeprecated": false,
       "args": null
@@ -24,7 +24,7 @@
     {
       "name": "AccessData",
       "description": "",
-      "url": "/stats/reference/objects/accessdata"
+      "url": "undefined/objects/accessdata"
     }
   ],
   "enumValues": null,
