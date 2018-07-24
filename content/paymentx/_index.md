@@ -5,7 +5,7 @@ description = ""
 weight = 6
 alwaysopen = false
 isDirectory = false
-hidden = true
+hidden = false
 +++
 
 {{%custom-children%}}
