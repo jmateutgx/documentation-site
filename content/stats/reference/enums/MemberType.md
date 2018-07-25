@@ -7,7 +7,7 @@
     {
       "name": "MemberData",
       "description": "",
-      "url": "undefined/objects/memberdata"
+      "url": "/stats/reference/objects/memberdata"
     }
   ],
   "enumValues": [

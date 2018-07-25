@@ -7,7 +7,7 @@
     {
       "name": "CancelPenalty",
       "description": "Contains information for cancellation penalities..",
-      "url": "undefined/objects/cancelpenalty"
+      "url": "/travelgatex/reference/objects/cancelpenalty"
     }
   ],
   "enumValues": [

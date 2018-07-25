@@ -6,7 +6,7 @@
     {
       "typeString": "[String!]!",
       "name": "groupCodes",
-      "url": "undefined/scalars/string",
+      "url": "/travelgatex/reference/scalars/string",
       "description": "Group identifiers",
       "isDeprecated": false,
       "args": null
@@ -14,7 +14,7 @@
     {
       "typeString": "[Access!]",
       "name": "accesses",
-      "url": "undefined/objects/access",
+      "url": "/travelgatex/reference/objects/access",
       "description": "",
       "isDeprecated": false,
       "args": null

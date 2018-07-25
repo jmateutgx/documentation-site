@@ -6,32 +6,32 @@
     {
       "typeString": "HotelSearch",
       "name": "hotel",
-      "url": "undefined/objects/hotelsearch",
+      "url": "/travelgatex/reference/objects/hotelsearch",
       "description": "Available options of an hotel for a given date and itinerary. It does not filter different classes, times or\nfares. It will always retrieve all results returned by the suppliers. The availability request is very straight\nforward. It only requires the criteria of search (destination, travel dates and the number of pax in each room).\nBut you must preload the other fields in our system by complete the fields absents.",
       "isDeprecated": true,
       "args": [
         {
           "typeString": "String",
           "name": "token",
-          "url": "undefined/scalars/string",
+          "url": "/travelgatex/reference/scalars/string",
           "description": ""
         },
         {
           "typeString": "HotelCriteriaSearchInput",
           "name": "criteria",
-          "url": "undefined/inputobjects/hotelcriteriasearchinput",
+          "url": "/travelgatex/reference/inputobjects/hotelcriteriasearchinput",
           "description": ""
         },
         {
           "typeString": "HotelSettingsInput",
           "name": "settings",
-          "url": "undefined/inputobjects/hotelsettingsinput",
+          "url": "/travelgatex/reference/inputobjects/hotelsettingsinput",
           "description": ""
         },
         {
           "typeString": "FilterInput",
           "name": "filter",
-          "url": "undefined/inputobjects/filterinput",
+          "url": "/travelgatex/reference/inputobjects/filterinput",
           "description": ""
         }
       ],

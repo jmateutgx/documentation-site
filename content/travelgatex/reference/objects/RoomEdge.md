@@ -6,7 +6,7 @@
     {
       "typeString": "String!",
       "name": "cursor",
-      "url": "undefined/scalars/string",
+      "url": "/travelgatex/reference/scalars/string",
       "description": "",
       "isDeprecated": false,
       "args": null
@@ -14,7 +14,7 @@
     {
       "typeString": "RoomStatic",
       "name": "node",
-      "url": "undefined/objects/roomstatic",
+      "url": "/travelgatex/reference/objects/roomstatic",
       "description": "",
       "isDeprecated": false,
       "args": null
@@ -24,7 +24,7 @@
     {
       "name": "RoomConnection",
       "description": "RoomList definition",
-      "url": "undefined/objects/roomconnection"
+      "url": "/travelgatex/reference/objects/roomconnection"
     }
   ],
   "enumValues": null,

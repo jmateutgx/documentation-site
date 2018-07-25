@@ -6,14 +6,14 @@
     {
       "typeString": "String",
       "name": "client",
-      "url": "undefined/scalars/string",
+      "url": "/travelgatex/reference/scalars/string",
       "description": "The client's reference",
       "args": null
     },
     {
       "typeString": "String",
       "name": "supplier",
-      "url": "undefined/scalars/string",
+      "url": "/travelgatex/reference/scalars/string",
       "description": "The Supplier's reference",
       "args": null
     }
@@ -22,7 +22,7 @@
     {
       "name": "HotelCancelInput",
       "description": "Cancellation Criteria.",
-      "url": "undefined/inputobjects/hotelcancelinput"
+      "url": "/travelgatex/reference/inputobjects/hotelcancelinput"
     }
   ],
   "enumValues": null,

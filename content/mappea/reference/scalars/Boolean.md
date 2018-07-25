@@ -7,22 +7,22 @@
     {
       "name": "SupplierData",
       "description": "",
-      "url": "undefined/objects/supplierdata"
+      "url": "/mappea/reference/objects/supplierdata"
     },
     {
       "name": "Provider",
       "description": "Temporary type to use only during SQL server's lifetime",
-      "url": "undefined/objects/provider"
+      "url": "/mappea/reference/objects/provider"
     },
     {
       "name": "PageInfo",
       "description": "",
-      "url": "undefined/objects/pageinfo"
+      "url": "/mappea/reference/objects/pageinfo"
     },
     {
       "name": "AccessData",
       "description": "",
-      "url": "undefined/objects/accessdata"
+      "url": "/mappea/reference/objects/accessdata"
     }
   ],
   "enumValues": null,

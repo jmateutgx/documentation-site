@@ -6,7 +6,7 @@
     {
       "typeString": "String!",
       "name": "cardType",
-      "url": "undefined/scalars/string",
+      "url": "/paymentx/reference/scalars/string",
       "description": "Indicates the card type.",
       "isDeprecated": false,
       "args": null
@@ -14,7 +14,7 @@
     {
       "typeString": "Holder!",
       "name": "holder",
-      "url": "undefined/objects/holder",
+      "url": "/paymentx/reference/objects/holder",
       "description": "Contains owner's name",
       "isDeprecated": false,
       "args": null
@@ -22,7 +22,7 @@
     {
       "typeString": "CardNumber!",
       "name": "number",
-      "url": "undefined/scalars/cardnumber",
+      "url": "/paymentx/reference/scalars/cardnumber",
       "description": "Card Number (16 digits typically)",
       "isDeprecated": false,
       "args": null
@@ -30,7 +30,7 @@
     {
       "typeString": "CVC!",
       "name": "CVC",
-      "url": "undefined/scalars/cvc",
+      "url": "/paymentx/reference/scalars/cvc",
       "description": "Contains credit card CVC",
       "isDeprecated": false,
       "args": null
@@ -38,7 +38,7 @@
     {
       "typeString": "ExpireDate!",
       "name": "expire",
-      "url": "undefined/objects/expiredate",
+      "url": "/paymentx/reference/objects/expiredate",
       "description": "Contains credit card expiration date",
       "isDeprecated": false,
       "args": null
@@ -48,7 +48,7 @@
     {
       "name": "StoredCardData",
       "description": "",
-      "url": "undefined/objects/storedcarddata"
+      "url": "/paymentx/reference/objects/storedcarddata"
     }
   ],
   "enumValues": null,

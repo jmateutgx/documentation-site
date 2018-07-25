@@ -6,21 +6,21 @@
     {
       "typeString": "PluginType!",
       "name": "type",
-      "url": "undefined/enums/plugintype",
+      "url": "/travelgatex/reference/enums/plugintype",
       "description": "type of the plugins to execute",
       "args": null
     },
     {
       "typeString": "String!",
       "name": "name",
-      "url": "undefined/scalars/string",
+      "url": "/travelgatex/reference/scalars/string",
       "description": "name of plugin to execute",
       "args": null
     },
     {
       "typeString": "[ParameterInput!]",
       "name": "parameters",
-      "url": "undefined/inputobjects/parameterinput",
+      "url": "/travelgatex/reference/inputobjects/parameterinput",
       "description": "Plugin's parameters",
       "args": null
     }

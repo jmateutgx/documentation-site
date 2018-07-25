@@ -6,7 +6,7 @@
     {
       "typeString": "[DestinationEdge]",
       "name": "edges",
-      "url": "undefined/objects/destinationedge",
+      "url": "/hotelx/reference/objects/destinationedge",
       "description": "",
       "isDeprecated": false,
       "args": null
@@ -14,7 +14,7 @@
     {
       "typeString": "String!",
       "name": "token",
-      "url": "undefined/scalars/string",
+      "url": "/hotelx/reference/scalars/string",
       "description": "",
       "isDeprecated": false,
       "args": null
@@ -22,7 +22,7 @@
     {
       "typeString": "PageInfo!",
       "name": "pageInfo",
-      "url": "undefined/objects/pageinfo",
+      "url": "/hotelx/reference/objects/pageinfo",
       "description": "Indicates info about page",
       "isDeprecated": false,
       "args": null
@@ -32,7 +32,7 @@
     {
       "name": "HotelXQuery",
       "description": "",
-      "url": "undefined/objects/hotelxquery"
+      "url": "/hotelx/reference/objects/hotelxquery"
     }
   ],
   "enumValues": null,

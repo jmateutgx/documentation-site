@@ -6,7 +6,7 @@
     {
       "typeString": "String",
       "name": "code",
-      "url": "undefined/scalars/string",
+      "url": "/paymentx/reference/scalars/string",
       "description": "Status code",
       "isDeprecated": false,
       "args": null
@@ -14,7 +14,7 @@
     {
       "typeString": "String",
       "name": "type",
-      "url": "undefined/scalars/string",
+      "url": "/paymentx/reference/scalars/string",
       "description": "Status type",
       "isDeprecated": false,
       "args": null
@@ -22,7 +22,7 @@
     {
       "typeString": "String",
       "name": "description",
-      "url": "undefined/scalars/string",
+      "url": "/paymentx/reference/scalars/string",
       "description": "Status description",
       "isDeprecated": false,
       "args": null
@@ -32,7 +32,7 @@
     {
       "name": "PaymentXQuery",
       "description": "",
-      "url": "undefined/objects/paymentxquery"
+      "url": "/paymentx/reference/objects/paymentxquery"
     }
   ],
   "enumValues": null,

@@ -6,7 +6,7 @@
     {
       "typeString": "[OperationEdge]",
       "name": "edges",
-      "url": "undefined/objects/operationedge",
+      "url": "/travelgatex/reference/objects/operationedge",
       "description": "",
       "isDeprecated": false,
       "args": null
@@ -14,7 +14,7 @@
     {
       "typeString": "PageInfo!",
       "name": "pageInfo",
-      "url": "undefined/objects/pageinfo",
+      "url": "/travelgatex/reference/objects/pageinfo",
       "description": "",
       "isDeprecated": false,
       "args": null
@@ -24,12 +24,12 @@
     {
       "name": "AdminQuery",
       "description": "The admin query root of TravelgateX's GraphQL interface.",
-      "url": "undefined/objects/adminquery"
+      "url": "/travelgatex/reference/objects/adminquery"
     },
     {
       "name": "APIData",
       "description": "",
-      "url": "undefined/objects/apidata"
+      "url": "/travelgatex/reference/objects/apidata"
     }
   ],
   "enumValues": null,

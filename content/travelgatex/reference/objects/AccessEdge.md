@@ -6,7 +6,7 @@
     {
       "typeString": "String!",
       "name": "cursor",
-      "url": "undefined/scalars/string",
+      "url": "/travelgatex/reference/scalars/string",
       "description": "",
       "isDeprecated": false,
       "args": null
@@ -14,7 +14,7 @@
     {
       "typeString": "Access",
       "name": "node",
-      "url": "undefined/objects/access",
+      "url": "/travelgatex/reference/objects/access",
       "description": "",
       "isDeprecated": false,
       "args": null
@@ -24,7 +24,7 @@
     {
       "name": "AccessConnection",
       "description": "",
-      "url": "undefined/objects/accessconnection"
+      "url": "/travelgatex/reference/objects/accessconnection"
     }
   ],
   "enumValues": null,

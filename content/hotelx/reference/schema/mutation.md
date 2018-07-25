@@ -6,20 +6,20 @@
     {
       "typeString": "HotelBookPayload",
       "name": "book",
-      "url": "undefined/objects/hotelbookpayload",
+      "url": "/hotelx/reference/objects/hotelbookpayload",
       "description": "Creates a new hotel booking consisting of an option of 1 or more rooms.",
       "isDeprecated": false,
       "args": [
         {
           "typeString": "HotelBookInput!",
           "name": "input",
-          "url": "undefined/inputobjects/hotelbookinput",
+          "url": "/hotelx/reference/inputobjects/hotelbookinput",
           "description": ""
         },
         {
           "typeString": "HotelSettingsInput",
           "name": "settings",
-          "url": "undefined/inputobjects/hotelsettingsinput",
+          "url": "/hotelx/reference/inputobjects/hotelsettingsinput",
           "description": ""
         }
       ]
@@ -27,20 +27,20 @@
     {
       "typeString": "HotelCancelPayload",
       "name": "cancel",
-      "url": "undefined/objects/hotelcancelpayload",
+      "url": "/hotelx/reference/objects/hotelcancelpayload",
       "description": "Cancels an existing hotel booking consisting of an option of 1 or more rooms.",
       "isDeprecated": false,
       "args": [
         {
           "typeString": "HotelCancelInput!",
           "name": "input",
-          "url": "undefined/inputobjects/hotelcancelinput",
+          "url": "/hotelx/reference/inputobjects/hotelcancelinput",
           "description": ""
         },
         {
           "typeString": "HotelSettingsInput",
           "name": "settings",
-          "url": "undefined/inputobjects/hotelsettingsinput",
+          "url": "/hotelx/reference/inputobjects/hotelsettingsinput",
           "description": ""
         }
       ]
@@ -48,14 +48,14 @@
     {
       "typeString": "String!",
       "name": "loadFile",
-      "url": "undefined/scalars/string",
+      "url": "/hotelx/reference/scalars/string",
       "description": "",
       "isDeprecated": true,
       "args": [
         {
           "typeString": "String!",
           "name": "input",
-          "url": "undefined/scalars/string",
+          "url": "/hotelx/reference/scalars/string",
           "description": ""
         }
       ],

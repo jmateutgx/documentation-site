@@ -6,14 +6,14 @@
     {
       "typeString": "ID!",
       "name": "code",
-      "url": "undefined/scalars/id",
+      "url": "/travelgatex/reference/scalars/id",
       "description": "Profile Code",
       "args": null
     },
     {
       "typeString": "String!",
       "name": "label",
-      "url": "undefined/scalars/string",
+      "url": "/travelgatex/reference/scalars/string",
       "description": "Label of the Profile",
       "args": null
     }

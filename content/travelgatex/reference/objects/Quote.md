@@ -6,20 +6,20 @@
     {
       "typeString": "HotelQuote",
       "name": "hotel",
-      "url": "undefined/objects/hotelquote",
+      "url": "/travelgatex/reference/objects/hotelquote",
       "description": "Returns the total price and cancellation policies of the Option selected in the previous step (Search).",
       "isDeprecated": true,
       "args": [
         {
           "typeString": "HotelCriteriaQuoteInput!",
           "name": "criteria",
-          "url": "undefined/inputobjects/hotelcriteriaquoteinput",
+          "url": "/travelgatex/reference/inputobjects/hotelcriteriaquoteinput",
           "description": ""
         },
         {
           "typeString": "HotelSettingsInput",
           "name": "settings",
-          "url": "undefined/inputobjects/hotelsettingsinput",
+          "url": "/travelgatex/reference/inputobjects/hotelsettingsinput",
           "description": ""
         }
       ],

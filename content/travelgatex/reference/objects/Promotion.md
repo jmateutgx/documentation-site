@@ -6,7 +6,7 @@
     {
       "typeString": "String!",
       "name": "code",
-      "url": "undefined/scalars/string",
+      "url": "/travelgatex/reference/scalars/string",
       "description": "Specifies the promotion code.",
       "isDeprecated": false,
       "args": null
@@ -14,7 +14,7 @@
     {
       "typeString": "String",
       "name": "name",
-      "url": "undefined/scalars/string",
+      "url": "/travelgatex/reference/scalars/string",
       "description": "Specifies the promotion name.",
       "isDeprecated": false,
       "args": null
@@ -22,7 +22,7 @@
     {
       "typeString": "Date",
       "name": "effectiveDate",
-      "url": "undefined/scalars/date",
+      "url": "/travelgatex/reference/scalars/date",
       "description": "Promotion effective date.",
       "isDeprecated": false,
       "args": null
@@ -30,7 +30,7 @@
     {
       "typeString": "Date",
       "name": "expireDate",
-      "url": "undefined/scalars/date",
+      "url": "/travelgatex/reference/scalars/date",
       "description": "Promotion expire date.",
       "isDeprecated": false,
       "args": null

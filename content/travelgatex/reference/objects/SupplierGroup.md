@@ -6,7 +6,7 @@
     {
       "typeString": "String!",
       "name": "groupCode",
-      "url": "undefined/scalars/string",
+      "url": "/travelgatex/reference/scalars/string",
       "description": "group code of the group related to this supplier",
       "isDeprecated": false,
       "args": null
@@ -14,7 +14,7 @@
     {
       "typeString": "Boolean!",
       "name": "isActive",
-      "url": "undefined/scalars/boolean",
+      "url": "/travelgatex/reference/scalars/boolean",
       "description": "Indicates if the supplier is active for its supplier",
       "isDeprecated": false,
       "args": null

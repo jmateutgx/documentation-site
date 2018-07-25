@@ -7,127 +7,127 @@
     {
       "name": "StatsEdge",
       "description": "",
-      "url": "undefined/objects/statsedge"
+      "url": "/stats/reference/objects/statsedge"
     },
     {
       "name": "PageInfo",
       "description": "",
-      "url": "undefined/objects/pageinfo"
+      "url": "/stats/reference/objects/pageinfo"
     },
     {
       "name": "AdviseMessage",
       "description": "List of advise messages.",
-      "url": "undefined/interfaces/advisemessage"
+      "url": "/stats/reference/interfaces/advisemessage"
     },
     {
       "name": "AccessData",
       "description": "",
-      "url": "undefined/objects/accessdata"
+      "url": "/stats/reference/objects/accessdata"
     },
     {
       "name": "Error",
       "description": "Application errors",
-      "url": "undefined/objects/error"
+      "url": "/stats/reference/objects/error"
     },
     {
       "name": "Parameter",
       "description": "Parameters for additional information for the supplier's configuration.",
-      "url": "undefined/objects/parameter"
+      "url": "/stats/reference/objects/parameter"
     },
     {
       "name": "SupplierData",
       "description": "",
-      "url": "undefined/objects/supplierdata"
+      "url": "/stats/reference/objects/supplierdata"
     },
     {
       "name": "Provider",
       "description": "Temporary type to use only during SQL server's lifetime",
-      "url": "undefined/objects/provider"
+      "url": "/stats/reference/objects/provider"
     },
     {
       "name": "AccessEdge",
       "description": "",
-      "url": "undefined/objects/accessedge"
+      "url": "/stats/reference/objects/accessedge"
     },
     {
       "name": "ClientData",
       "description": "",
-      "url": "undefined/objects/clientdata"
+      "url": "/stats/reference/objects/clientdata"
     },
     {
       "name": "OperationData",
       "description": "",
-      "url": "undefined/objects/operationdata"
+      "url": "/stats/reference/objects/operationdata"
     },
     {
       "name": "APIData",
       "description": "",
-      "url": "undefined/objects/apidata"
+      "url": "/stats/reference/objects/apidata"
     },
     {
       "name": "GroupEdge",
       "description": "",
-      "url": "undefined/objects/groupedge"
+      "url": "/stats/reference/objects/groupedge"
     },
     {
       "name": "GroupData",
       "description": "",
-      "url": "undefined/objects/groupdata"
+      "url": "/stats/reference/objects/groupdata"
     },
     {
       "name": "MemberData",
       "description": "",
-      "url": "undefined/objects/memberdata"
+      "url": "/stats/reference/objects/memberdata"
     },
     {
       "name": "MemberEdge",
       "description": "",
-      "url": "undefined/objects/memberedge"
+      "url": "/stats/reference/objects/memberedge"
     },
     {
       "name": "APIEdge",
       "description": "",
-      "url": "undefined/objects/apiedge"
+      "url": "/stats/reference/objects/apiedge"
     },
     {
       "name": "SupplierEdge",
       "description": "",
-      "url": "undefined/objects/supplieredge"
+      "url": "/stats/reference/objects/supplieredge"
     },
     {
       "name": "ClientEdge",
       "description": "",
-      "url": "undefined/objects/clientedge"
+      "url": "/stats/reference/objects/clientedge"
     },
     {
       "name": "RoleEdge",
       "description": "",
-      "url": "undefined/objects/roleedge"
+      "url": "/stats/reference/objects/roleedge"
     },
     {
       "name": "RoleData",
       "description": "",
-      "url": "undefined/objects/roledata"
+      "url": "/stats/reference/objects/roledata"
     },
     {
       "name": "ResourceEdge",
       "description": "",
-      "url": "undefined/objects/resourceedge"
+      "url": "/stats/reference/objects/resourceedge"
     },
     {
       "name": "ResourceData",
       "description": "",
-      "url": "undefined/objects/resourcedata"
+      "url": "/stats/reference/objects/resourcedata"
     },
     {
       "name": "OperationEdge",
       "description": "",
-      "url": "undefined/objects/operationedge"
+      "url": "/stats/reference/objects/operationedge"
     },
     {
       "name": "ExternalMessage",
       "description": "",
-      "url": "undefined/objects/externalmessage"
+      "url": "/stats/reference/objects/externalmessage"
     }
   ],
   "enumValues": null,

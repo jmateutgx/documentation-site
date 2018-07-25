@@ -6,35 +6,35 @@
     {
       "typeString": "String!",
       "name": "accessCode",
-      "url": "undefined/scalars/string",
+      "url": "/travelgatex/reference/scalars/string",
       "description": "Name of the access that have to use in the request.",
       "args": null
     },
     {
       "typeString": "Language",
       "name": "language",
-      "url": "undefined/scalars/language",
+      "url": "/travelgatex/reference/scalars/language",
       "description": "The language code.",
       "args": null
     },
     {
       "typeString": "BookingCriteriaType!",
       "name": "typeSearch",
-      "url": "undefined/enums/bookingcriteriatype",
+      "url": "/travelgatex/reference/enums/bookingcriteriatype",
       "description": "The search type criteria.",
       "args": null
     },
     {
       "typeString": "CriteriaBookingReferencesInput",
       "name": "references",
-      "url": "undefined/inputobjects/criteriabookingreferencesinput",
+      "url": "/travelgatex/reference/inputobjects/criteriabookingreferencesinput",
       "description": "The references criteria.",
       "args": null
     },
     {
       "typeString": "CriteriaBookingDatesInput",
       "name": "dates",
-      "url": "undefined/inputobjects/criteriabookingdatesinput",
+      "url": "/travelgatex/reference/inputobjects/criteriabookingdatesinput",
       "description": "The dates criteria.",
       "args": null
     }

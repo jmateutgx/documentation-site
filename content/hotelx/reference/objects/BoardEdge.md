@@ -6,7 +6,7 @@
     {
       "typeString": "String!",
       "name": "cursor",
-      "url": "undefined/scalars/string",
+      "url": "/hotelx/reference/scalars/string",
       "description": "",
       "isDeprecated": false,
       "args": null
@@ -14,7 +14,7 @@
     {
       "typeString": "Board",
       "name": "node",
-      "url": "undefined/objects/board",
+      "url": "/hotelx/reference/objects/board",
       "description": "",
       "isDeprecated": false,
       "args": null
@@ -24,7 +24,7 @@
     {
       "name": "BoardConnection",
       "description": "BoardList definition",
-      "url": "undefined/objects/boardconnection"
+      "url": "/hotelx/reference/objects/boardconnection"
     }
   ],
   "enumValues": null,

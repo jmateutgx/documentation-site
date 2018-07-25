@@ -6,7 +6,7 @@
     {
       "typeString": "String!",
       "name": "reference",
-      "url": "undefined/scalars/string",
+      "url": "/travelgatex/reference/scalars/string",
       "description": "Extra information about transaction.",
       "isDeprecated": false,
       "args": null
@@ -14,7 +14,7 @@
     {
       "typeString": "Stat!",
       "name": "total",
-      "url": "undefined/objects/stat",
+      "url": "/travelgatex/reference/objects/stat",
       "description": "Total transaction time",
       "isDeprecated": false,
       "args": null
@@ -22,7 +22,7 @@
     {
       "typeString": "Stat!",
       "name": "buildRequest",
-      "url": "undefined/objects/stat",
+      "url": "/travelgatex/reference/objects/stat",
       "description": "Build request time",
       "isDeprecated": false,
       "args": null
@@ -30,7 +30,7 @@
     {
       "typeString": "Stat!",
       "name": "workerCommunication",
-      "url": "undefined/objects/stat",
+      "url": "/travelgatex/reference/objects/stat",
       "description": "Worker connection time",
       "isDeprecated": false,
       "args": null
@@ -38,7 +38,7 @@
     {
       "typeString": "Stat!",
       "name": "parseResponse",
-      "url": "undefined/objects/stat",
+      "url": "/travelgatex/reference/objects/stat",
       "description": "Parse response time",
       "isDeprecated": false,
       "args": null

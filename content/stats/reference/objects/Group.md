@@ -6,7 +6,7 @@
     {
       "typeString": "ID!",
       "name": "code",
-      "url": "undefined/scalars/id",
+      "url": "/stats/reference/scalars/id",
       "description": "",
       "isDeprecated": false,
       "args": null
@@ -14,7 +14,7 @@
     {
       "typeString": "GroupData",
       "name": "groupData",
-      "url": "undefined/objects/groupdata",
+      "url": "/stats/reference/objects/groupdata",
       "description": "",
       "isDeprecated": false,
       "args": null
@@ -22,7 +22,7 @@
     {
       "typeString": "[Error!]",
       "name": "error",
-      "url": "undefined/objects/error",
+      "url": "/stats/reference/objects/error",
       "description": "Errors that abort services",
       "isDeprecated": false,
       "args": null
@@ -30,7 +30,7 @@
     {
       "typeString": "DateTime!",
       "name": "createdAt",
-      "url": "undefined/scalars/datetime",
+      "url": "/stats/reference/scalars/datetime",
       "description": "Date created",
       "isDeprecated": false,
       "args": null
@@ -38,7 +38,7 @@
     {
       "typeString": "DateTime!",
       "name": "updatedAt",
-      "url": "undefined/scalars/datetime",
+      "url": "/stats/reference/scalars/datetime",
       "description": "Date updated",
       "isDeprecated": false,
       "args": null
@@ -48,12 +48,12 @@
     {
       "name": "GroupEdge",
       "description": "",
-      "url": "undefined/objects/groupedge"
+      "url": "/stats/reference/objects/groupedge"
     },
     {
       "name": "GroupData",
       "description": "",
-      "url": "undefined/objects/groupdata"
+      "url": "/stats/reference/objects/groupdata"
     }
   ],
   "enumValues": null,

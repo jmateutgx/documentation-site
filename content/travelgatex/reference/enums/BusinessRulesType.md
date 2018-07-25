@@ -7,17 +7,17 @@
     {
       "name": "BusinessRulesInput",
       "description": "List of business rules to use as filter on the options.",
-      "url": "undefined/inputobjects/businessrulesinput"
+      "url": "/travelgatex/reference/inputobjects/businessrulesinput"
     },
     {
       "name": "DefaultSettingsBusinessRulesInput",
       "description": "Input delta price, indicates the price variation permitted by the client before failing the booking.",
-      "url": "undefined/inputobjects/defaultsettingsbusinessrulesinput"
+      "url": "/travelgatex/reference/inputobjects/defaultsettingsbusinessrulesinput"
     },
     {
       "name": "BusinessRules",
       "description": "List of business rules for filtering options based on your interests.",
-      "url": "undefined/objects/businessrules"
+      "url": "/travelgatex/reference/objects/businessrules"
     }
   ],
   "enumValues": [

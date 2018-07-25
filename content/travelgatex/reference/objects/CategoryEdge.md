@@ -6,7 +6,7 @@
     {
       "typeString": "String!",
       "name": "cursor",
-      "url": "undefined/scalars/string",
+      "url": "/travelgatex/reference/scalars/string",
       "description": "",
       "isDeprecated": false,
       "args": null
@@ -14,7 +14,7 @@
     {
       "typeString": "Category",
       "name": "node",
-      "url": "undefined/objects/category",
+      "url": "/travelgatex/reference/objects/category",
       "description": "",
       "isDeprecated": false,
       "args": null
@@ -24,7 +24,7 @@
     {
       "name": "CategoryConnection",
       "description": "CategoryList definition",
-      "url": "undefined/objects/categoryconnection"
+      "url": "/travelgatex/reference/objects/categoryconnection"
     }
   ],
   "enumValues": null,

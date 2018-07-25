@@ -6,7 +6,7 @@
     {
       "typeString": "URI",
       "name": "search",
-      "url": "undefined/scalars/uri",
+      "url": "/stats/reference/scalars/uri",
       "description": "Specific URL for Availability method.",
       "isDeprecated": false,
       "args": null
@@ -14,7 +14,7 @@
     {
       "typeString": "URI",
       "name": "quote",
-      "url": "undefined/scalars/uri",
+      "url": "/stats/reference/scalars/uri",
       "description": "Specific URL for Reservation method.",
       "isDeprecated": false,
       "args": null
@@ -22,7 +22,7 @@
     {
       "typeString": "URI",
       "name": "book",
-      "url": "undefined/scalars/uri",
+      "url": "/stats/reference/scalars/uri",
       "description": "Specific URL for Valuation method.",
       "isDeprecated": false,
       "args": null
@@ -30,7 +30,7 @@
     {
       "typeString": "URI",
       "name": "generic",
-      "url": "undefined/scalars/uri",
+      "url": "/stats/reference/scalars/uri",
       "description": "Supplier URL used for multiple methods.",
       "isDeprecated": false,
       "args": null
@@ -40,7 +40,7 @@
     {
       "name": "AccessData",
       "description": "",
-      "url": "undefined/objects/accessdata"
+      "url": "/stats/reference/objects/accessdata"
     }
   ],
   "enumValues": null,

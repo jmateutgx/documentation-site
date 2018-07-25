@@ -6,7 +6,7 @@
     {
       "typeString": "String!",
       "name": "cursor",
-      "url": "undefined/scalars/string",
+      "url": "/stats/reference/scalars/string",
       "description": "",
       "isDeprecated": false,
       "args": null
@@ -14,7 +14,7 @@
     {
       "typeString": "Group",
       "name": "node",
-      "url": "undefined/objects/group",
+      "url": "/stats/reference/objects/group",
       "description": "",
       "isDeprecated": false,
       "args": null
@@ -24,7 +24,7 @@
     {
       "name": "GroupConnection",
       "description": "",
-      "url": "undefined/objects/groupconnection"
+      "url": "/stats/reference/objects/groupconnection"
     }
   ],
   "enumValues": null,

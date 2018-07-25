@@ -6,20 +6,20 @@
     {
       "typeString": "BoardConnection!",
       "name": "boards",
-      "url": "undefined/objects/boardconnection",
+      "url": "/hotelx/reference/objects/boardconnection",
       "description": "Query to obtain Boards",
       "isDeprecated": false,
       "args": [
         {
           "typeString": "HotelXBoardQueryInput!",
           "name": "criteria",
-          "url": "undefined/inputobjects/hotelxboardqueryinput",
+          "url": "/hotelx/reference/inputobjects/hotelxboardqueryinput",
           "description": ""
         },
         {
           "typeString": "RelayInput!",
           "name": "relay",
-          "url": "undefined/inputobjects/relayinput",
+          "url": "/hotelx/reference/inputobjects/relayinput",
           "description": ""
         }
       ]
@@ -27,20 +27,20 @@
     {
       "typeString": "CategoryConnection!",
       "name": "categories",
-      "url": "undefined/objects/categoryconnection",
+      "url": "/hotelx/reference/objects/categoryconnection",
       "description": "Query to obtain Categories",
       "isDeprecated": false,
       "args": [
         {
           "typeString": "HotelXCategoryQueryInput!",
           "name": "criteria",
-          "url": "undefined/inputobjects/hotelxcategoryqueryinput",
+          "url": "/hotelx/reference/inputobjects/hotelxcategoryqueryinput",
           "description": ""
         },
         {
           "typeString": "RelayInput!",
           "name": "relay",
-          "url": "undefined/inputobjects/relayinput",
+          "url": "/hotelx/reference/inputobjects/relayinput",
           "description": ""
         }
       ]
@@ -48,32 +48,32 @@
     {
       "typeString": "HotelConnection!",
       "name": "hotels",
-      "url": "undefined/objects/hotelconnection",
+      "url": "/hotelx/reference/objects/hotelconnection",
       "description": "Query to obtain Hotels",
       "isDeprecated": false,
       "args": [
         {
           "typeString": "HotelXHotelListInput!",
           "name": "criteria",
-          "url": "undefined/inputobjects/hotelxhotellistinput",
+          "url": "/hotelx/reference/inputobjects/hotelxhotellistinput",
           "description": ""
         },
         {
           "typeString": "RelayInput!",
           "name": "relay",
-          "url": "undefined/inputobjects/relayinput",
+          "url": "/hotelx/reference/inputobjects/relayinput",
           "description": ""
         },
         {
           "typeString": "String",
           "name": "token",
-          "url": "undefined/scalars/string",
+          "url": "/hotelx/reference/scalars/string",
           "description": ""
         },
         {
           "typeString": "HotelXHotelFilterInput",
           "name": "filter",
-          "url": "undefined/inputobjects/hotelxhotelfilterinput",
+          "url": "/hotelx/reference/inputobjects/hotelxhotelfilterinput",
           "description": ""
         }
       ]
@@ -81,26 +81,26 @@
     {
       "typeString": "RoomConnection!",
       "name": "rooms",
-      "url": "undefined/objects/roomconnection",
+      "url": "/hotelx/reference/objects/roomconnection",
       "description": "Query to obtain rooms",
       "isDeprecated": false,
       "args": [
         {
           "typeString": "HotelXRoomQueryInput!",
           "name": "criteria",
-          "url": "undefined/inputobjects/hotelxroomqueryinput",
+          "url": "/hotelx/reference/inputobjects/hotelxroomqueryinput",
           "description": ""
         },
         {
           "typeString": "RelayInput!",
           "name": "relay",
-          "url": "undefined/inputobjects/relayinput",
+          "url": "/hotelx/reference/inputobjects/relayinput",
           "description": ""
         },
         {
           "typeString": "String",
           "name": "token",
-          "url": "undefined/scalars/string",
+          "url": "/hotelx/reference/scalars/string",
           "description": ""
         }
       ]
@@ -108,26 +108,26 @@
     {
       "typeString": "DestinationConnection!",
       "name": "destinations",
-      "url": "undefined/objects/destinationconnection",
+      "url": "/hotelx/reference/objects/destinationconnection",
       "description": "Query to obtain Destinations",
       "isDeprecated": false,
       "args": [
         {
           "typeString": "HotelXDestinationListInput!",
           "name": "criteria",
-          "url": "undefined/inputobjects/hotelxdestinationlistinput",
+          "url": "/hotelx/reference/inputobjects/hotelxdestinationlistinput",
           "description": ""
         },
         {
           "typeString": "RelayInput!",
           "name": "relay",
-          "url": "undefined/inputobjects/relayinput",
+          "url": "/hotelx/reference/inputobjects/relayinput",
           "description": ""
         },
         {
           "typeString": "String",
           "name": "token",
-          "url": "undefined/scalars/string",
+          "url": "/hotelx/reference/scalars/string",
           "description": ""
         }
       ]
@@ -142,7 +142,7 @@
         {
           "typeString": "HotelXDestinationSearcherInput!",
           "name": "criteria",
-          "url": "undefined/inputobjects/hotelxdestinationsearcherinput",
+          "url": "/hotelx/reference/inputobjects/hotelxdestinationsearcherinput",
           "description": ""
         }
       ]
@@ -150,32 +150,32 @@
     {
       "typeString": "HotelSearch",
       "name": "search",
-      "url": "undefined/objects/hotelsearch",
+      "url": "/hotelx/reference/objects/hotelsearch",
       "description": "Available options of an hotel for a given date and itinerary. It does not filter different classes, times or\nfares. It will always retrieve all results returned by the suppliers. The availability request is very straight\nforward. It only requires the criteria of search (destination, travel dates and the number of pax in each room).\nBut you must preload the other fields in our system by complete the fields absents.",
       "isDeprecated": false,
       "args": [
         {
           "typeString": "String",
           "name": "token",
-          "url": "undefined/scalars/string",
+          "url": "/hotelx/reference/scalars/string",
           "description": ""
         },
         {
           "typeString": "HotelCriteriaSearchInput",
           "name": "criteria",
-          "url": "undefined/inputobjects/hotelcriteriasearchinput",
+          "url": "/hotelx/reference/inputobjects/hotelcriteriasearchinput",
           "description": ""
         },
         {
           "typeString": "HotelSettingsInput",
           "name": "settings",
-          "url": "undefined/inputobjects/hotelsettingsinput",
+          "url": "/hotelx/reference/inputobjects/hotelsettingsinput",
           "description": ""
         },
         {
           "typeString": "FilterInput",
           "name": "filter",
-          "url": "undefined/inputobjects/filterinput",
+          "url": "/hotelx/reference/inputobjects/filterinput",
           "description": ""
         }
       ]
@@ -183,20 +183,20 @@
     {
       "typeString": "HotelQuote",
       "name": "quote",
-      "url": "undefined/objects/hotelquote",
+      "url": "/hotelx/reference/objects/hotelquote",
       "description": "Returns the total price and cancellation policies of the Option selected in the previous step (Search).",
       "isDeprecated": false,
       "args": [
         {
           "typeString": "HotelCriteriaQuoteInput!",
           "name": "criteria",
-          "url": "undefined/inputobjects/hotelcriteriaquoteinput",
+          "url": "/hotelx/reference/inputobjects/hotelcriteriaquoteinput",
           "description": ""
         },
         {
           "typeString": "HotelSettingsInput",
           "name": "settings",
-          "url": "undefined/inputobjects/hotelsettingsinput",
+          "url": "/hotelx/reference/inputobjects/hotelsettingsinput",
           "description": ""
         }
       ]
@@ -204,20 +204,20 @@
     {
       "typeString": "HotelBooking",
       "name": "booking",
-      "url": "undefined/objects/hotelbooking",
+      "url": "/hotelx/reference/objects/hotelbooking",
       "description": "Returns detailed information about books, you can indicated a list of locators or a range date.",
       "isDeprecated": false,
       "args": [
         {
           "typeString": "HotelCriteriaBookingInput!",
           "name": "criteria",
-          "url": "undefined/inputobjects/hotelcriteriabookinginput",
+          "url": "/hotelx/reference/inputobjects/hotelcriteriabookinginput",
           "description": ""
         },
         {
           "typeString": "HotelSettingsInput",
           "name": "settings",
-          "url": "undefined/inputobjects/hotelsettingsinput",
+          "url": "/hotelx/reference/inputobjects/hotelsettingsinput",
           "description": ""
         }
       ]
@@ -225,7 +225,7 @@
     {
       "typeString": "ServiceStatus!",
       "name": "searchStatusService",
-      "url": "undefined/objects/servicestatus",
+      "url": "/hotelx/reference/objects/servicestatus",
       "description": "Returns status of the search service.",
       "isDeprecated": false,
       "args": null
@@ -233,7 +233,7 @@
     {
       "typeString": "ServiceStatus!",
       "name": "quoteStatusService",
-      "url": "undefined/objects/servicestatus",
+      "url": "/hotelx/reference/objects/servicestatus",
       "description": "Returns status of the quote service.",
       "isDeprecated": false,
       "args": null
@@ -241,7 +241,7 @@
     {
       "typeString": "ServiceStatus!",
       "name": "bookStatusService",
-      "url": "undefined/objects/servicestatus",
+      "url": "/hotelx/reference/objects/servicestatus",
       "description": "Returns status of the new booking service.",
       "isDeprecated": false,
       "args": null
@@ -249,7 +249,7 @@
     {
       "typeString": "ServiceStatus!",
       "name": "cancelStatusService",
-      "url": "undefined/objects/servicestatus",
+      "url": "/hotelx/reference/objects/servicestatus",
       "description": "Returns status of the cancellation service.",
       "isDeprecated": false,
       "args": null
@@ -257,7 +257,7 @@
     {
       "typeString": "ServiceStatus!",
       "name": "bookingStatusService",
-      "url": "undefined/objects/servicestatus",
+      "url": "/hotelx/reference/objects/servicestatus",
       "description": "Returns status of the booking service.",
       "isDeprecated": false,
       "args": null
@@ -265,14 +265,14 @@
     {
       "typeString": "Mapping!",
       "name": "mapping",
-      "url": "undefined/objects/mapping",
+      "url": "/hotelx/reference/objects/mapping",
       "description": "Returns map codes of a group. You can get hotel map, room map, and board map.",
       "isDeprecated": false,
       "args": [
         {
           "typeString": "String!",
           "name": "groupCode",
-          "url": "undefined/scalars/string",
+          "url": "/hotelx/reference/scalars/string",
           "description": ""
         }
       ]

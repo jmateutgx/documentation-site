@@ -6,7 +6,7 @@
     {
       "typeString": "ID!",
       "name": "code",
-      "url": "undefined/scalars/id",
+      "url": "/stats/reference/scalars/id",
       "description": "",
       "isDeprecated": false,
       "args": null
@@ -14,7 +14,7 @@
     {
       "typeString": "SupplierData",
       "name": "supplierData",
-      "url": "undefined/objects/supplierdata",
+      "url": "/stats/reference/objects/supplierdata",
       "description": "",
       "isDeprecated": false,
       "args": null
@@ -22,7 +22,7 @@
     {
       "typeString": "[Error!]",
       "name": "error",
-      "url": "undefined/objects/error",
+      "url": "/stats/reference/objects/error",
       "description": "Errors that abort services",
       "isDeprecated": false,
       "args": null
@@ -30,7 +30,7 @@
     {
       "typeString": "DateTime!",
       "name": "createdAt",
-      "url": "undefined/scalars/datetime",
+      "url": "/stats/reference/scalars/datetime",
       "description": "Date created",
       "isDeprecated": false,
       "args": null
@@ -38,7 +38,7 @@
     {
       "typeString": "DateTime!",
       "name": "updatedAt",
-      "url": "undefined/scalars/datetime",
+      "url": "/stats/reference/scalars/datetime",
       "description": "Date updated",
       "isDeprecated": false,
       "args": null
@@ -48,12 +48,12 @@
     {
       "name": "AccessData",
       "description": "",
-      "url": "undefined/objects/accessdata"
+      "url": "/stats/reference/objects/accessdata"
     },
     {
       "name": "SupplierEdge",
       "description": "",
-      "url": "undefined/objects/supplieredge"
+      "url": "/stats/reference/objects/supplieredge"
     }
   ],
   "enumValues": null,

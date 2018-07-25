@@ -6,7 +6,7 @@
     {
       "typeString": "[OperationEdge]",
       "name": "edges",
-      "url": "undefined/objects/operationedge",
+      "url": "/stats/reference/objects/operationedge",
       "description": "",
       "isDeprecated": false,
       "args": null
@@ -14,7 +14,7 @@
     {
       "typeString": "PageInfo!",
       "name": "pageInfo",
-      "url": "undefined/objects/pageinfo",
+      "url": "/stats/reference/objects/pageinfo",
       "description": "",
       "isDeprecated": false,
       "args": null
@@ -24,7 +24,7 @@
     {
       "name": "APIData",
       "description": "",
-      "url": "undefined/objects/apidata"
+      "url": "/stats/reference/objects/apidata"
     }
   ],
   "enumValues": null,

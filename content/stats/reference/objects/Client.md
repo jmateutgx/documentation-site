@@ -6,7 +6,7 @@
     {
       "typeString": "ID!",
       "name": "code",
-      "url": "undefined/scalars/id",
+      "url": "/stats/reference/scalars/id",
       "description": "",
       "isDeprecated": false,
       "args": null
@@ -14,7 +14,7 @@
     {
       "typeString": "ClientData",
       "name": "clientData",
-      "url": "undefined/objects/clientdata",
+      "url": "/stats/reference/objects/clientdata",
       "description": "",
       "isDeprecated": false,
       "args": null
@@ -22,7 +22,7 @@
     {
       "typeString": "[Error!]",
       "name": "error",
-      "url": "undefined/objects/error",
+      "url": "/stats/reference/objects/error",
       "description": "Errors that abort services",
       "isDeprecated": false,
       "args": null
@@ -30,7 +30,7 @@
     {
       "typeString": "DateTime!",
       "name": "createdAt",
-      "url": "undefined/scalars/datetime",
+      "url": "/stats/reference/scalars/datetime",
       "description": "Date created",
       "isDeprecated": false,
       "args": null
@@ -38,7 +38,7 @@
     {
       "typeString": "DateTime!",
       "name": "updatedAt",
-      "url": "undefined/scalars/datetime",
+      "url": "/stats/reference/scalars/datetime",
       "description": "Date updated",
       "isDeprecated": false,
       "args": null
@@ -48,12 +48,12 @@
     {
       "name": "StatsData",
       "description": "",
-      "url": "undefined/objects/statsdata"
+      "url": "/stats/reference/objects/statsdata"
     },
     {
       "name": "ClientEdge",
       "description": "",
-      "url": "undefined/objects/clientedge"
+      "url": "/stats/reference/objects/clientedge"
     }
   ],
   "enumValues": null,

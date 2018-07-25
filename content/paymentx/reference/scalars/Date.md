@@ -7,7 +7,7 @@
     {
       "name": "PaymentXBookingInfo",
       "description": "",
-      "url": "undefined/objects/paymentxbookinginfo"
+      "url": "/paymentx/reference/objects/paymentxbookinginfo"
     }
   ],
   "enumValues": null,

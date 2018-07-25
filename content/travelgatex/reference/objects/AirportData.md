@@ -6,7 +6,7 @@
     {
       "typeString": "ID!",
       "name": "code",
-      "url": "undefined/scalars/id",
+      "url": "/travelgatex/reference/scalars/id",
       "description": "Airport Code (IATA)",
       "isDeprecated": false,
       "args": null
@@ -14,7 +14,7 @@
     {
       "typeString": "String",
       "name": "name",
-      "url": "undefined/scalars/string",
+      "url": "/travelgatex/reference/scalars/string",
       "description": "The airport's name",
       "isDeprecated": false,
       "args": null
@@ -22,7 +22,7 @@
     {
       "typeString": "Location",
       "name": "location",
-      "url": "undefined/objects/location",
+      "url": "/travelgatex/reference/objects/location",
       "description": "The airport's location",
       "isDeprecated": false,
       "args": null
@@ -32,7 +32,7 @@
     {
       "name": "Airport",
       "description": "Airport Type",
-      "url": "undefined/objects/airport"
+      "url": "/travelgatex/reference/objects/airport"
     }
   ],
   "enumValues": null,

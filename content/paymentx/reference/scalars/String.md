@@ -7,57 +7,57 @@
     {
       "name": "ServiceStatus",
       "description": "Indicates the status of the service",
-      "url": "undefined/objects/servicestatus"
+      "url": "/paymentx/reference/objects/servicestatus"
     },
     {
       "name": "PaymentXBookingInfoFilterInput",
       "description": "",
-      "url": "undefined/inputobjects/paymentxbookinginfofilterinput"
+      "url": "/paymentx/reference/inputobjects/paymentxbookinginfofilterinput"
     },
     {
       "name": "StoredCardEdge",
       "description": "",
-      "url": "undefined/objects/storedcardedge"
+      "url": "/paymentx/reference/objects/storedcardedge"
     },
     {
       "name": "PageInfo",
       "description": "",
-      "url": "undefined/objects/pageinfo"
+      "url": "/paymentx/reference/objects/pageinfo"
     },
     {
       "name": "AdviseMessage",
       "description": "List of advise messages.",
-      "url": "undefined/interfaces/advisemessage"
+      "url": "/paymentx/reference/interfaces/advisemessage"
     },
     {
       "name": "PaymentXBookingInfo",
       "description": "",
-      "url": "undefined/objects/paymentxbookinginfo"
+      "url": "/paymentx/reference/objects/paymentxbookinginfo"
     },
     {
       "name": "PaymentCard",
       "description": "Input PaymentCard, if the payment is done by credit card, is it mandatory to specify the payment type and the credit card information",
-      "url": "undefined/objects/paymentcard"
+      "url": "/paymentx/reference/objects/paymentcard"
     },
     {
       "name": "PointOfSaleData",
       "description": "",
-      "url": "undefined/objects/pointofsaledata"
+      "url": "/paymentx/reference/objects/pointofsaledata"
     },
     {
       "name": "Holder",
       "description": "Holder object that contains the occupant's (pax's) name and surname.",
-      "url": "undefined/objects/holder"
+      "url": "/paymentx/reference/objects/holder"
     },
     {
       "name": "ExternalMessage",
       "description": "",
-      "url": "undefined/objects/externalmessage"
+      "url": "/paymentx/reference/objects/externalmessage"
     },
     {
       "name": "PaymentXBookingInfoDeleteInput",
       "description": "",
-      "url": "undefined/inputobjects/paymentxbookinginfodeleteinput"
+      "url": "/paymentx/reference/inputobjects/paymentxbookinginfodeleteinput"
     }
   ],
   "enumValues": null,

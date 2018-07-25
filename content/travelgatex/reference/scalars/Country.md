@@ -7,27 +7,27 @@
     {
       "name": "Location",
       "description": "Indicates the location of the hotel",
-      "url": "undefined/objects/location"
+      "url": "/travelgatex/reference/objects/location"
     },
     {
       "name": "HotelCriteriaSearchInput",
       "description": "Search criteria contains destination, travel dates and the number of pax in each room.\nYou must preload the other fields in our system by complete the fields absents.",
-      "url": "undefined/inputobjects/hotelcriteriasearchinput"
+      "url": "/travelgatex/reference/inputobjects/hotelcriteriasearchinput"
     },
     {
       "name": "CriteriaSearch",
       "description": "Search criteria contains destination, travel dates and the number of pax in each room.",
-      "url": "undefined/objects/criteriasearch"
+      "url": "/travelgatex/reference/objects/criteriasearch"
     },
     {
       "name": "DefaultSettingsInput",
       "description": "",
-      "url": "undefined/inputobjects/defaultsettingsinput"
+      "url": "/travelgatex/reference/inputobjects/defaultsettingsinput"
     },
     {
       "name": "DefaultSettings",
       "description": "",
-      "url": "undefined/objects/defaultsettings"
+      "url": "/travelgatex/reference/objects/defaultsettings"
     }
   ],
   "enumValues": null,

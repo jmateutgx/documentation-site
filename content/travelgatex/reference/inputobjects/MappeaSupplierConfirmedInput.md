@@ -6,14 +6,14 @@
     {
       "typeString": "ID!",
       "name": "code",
-      "url": "undefined/scalars/id",
+      "url": "/travelgatex/reference/scalars/id",
       "description": "",
       "args": null
     },
     {
       "typeString": "ID!",
       "name": "supplier",
-      "url": "undefined/scalars/id",
+      "url": "/travelgatex/reference/scalars/id",
       "description": "",
       "args": null
     }

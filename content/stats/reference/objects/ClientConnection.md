@@ -6,7 +6,7 @@
     {
       "typeString": "[ClientEdge]",
       "name": "edges",
-      "url": "undefined/objects/clientedge",
+      "url": "/stats/reference/objects/clientedge",
       "description": "",
       "isDeprecated": false,
       "args": null
@@ -14,7 +14,7 @@
     {
       "typeString": "PageInfo!",
       "name": "pageInfo",
-      "url": "undefined/objects/pageinfo",
+      "url": "/stats/reference/objects/pageinfo",
       "description": "",
       "isDeprecated": false,
       "args": null
@@ -24,7 +24,7 @@
     {
       "name": "GroupData",
       "description": "",
-      "url": "undefined/objects/groupdata"
+      "url": "/stats/reference/objects/groupdata"
     }
   ],
   "enumValues": null,

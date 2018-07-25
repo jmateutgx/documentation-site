@@ -6,7 +6,7 @@
     {
       "typeString": "String!",
       "name": "fileName",
-      "url": "undefined/scalars/string",
+      "url": "/travelgatex/reference/scalars/string",
       "description": "",
       "isDeprecated": false,
       "args": null
@@ -14,7 +14,7 @@
     {
       "typeString": "Int!",
       "name": "fileId",
-      "url": "undefined/scalars/int",
+      "url": "/travelgatex/reference/scalars/int",
       "description": "",
       "isDeprecated": false,
       "args": null
@@ -22,7 +22,7 @@
     {
       "typeString": "String!",
       "name": "uploadTime",
-      "url": "undefined/scalars/string",
+      "url": "/travelgatex/reference/scalars/string",
       "description": "",
       "isDeprecated": false,
       "args": null
@@ -32,7 +32,7 @@
     {
       "name": "GetUploadedFilesData",
       "description": "",
-      "url": "undefined/objects/getuploadedfilesdata"
+      "url": "/travelgatex/reference/objects/getuploadedfilesdata"
     }
   ],
   "enumValues": null,

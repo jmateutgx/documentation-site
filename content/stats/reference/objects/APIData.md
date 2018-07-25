@@ -6,7 +6,7 @@
     {
       "typeString": "ID!",
       "name": "code",
-      "url": "undefined/scalars/id",
+      "url": "/stats/reference/scalars/id",
       "description": "API Code",
       "isDeprecated": false,
       "args": null
@@ -14,7 +14,7 @@
     {
       "typeString": "ID!",
       "name": "id",
-      "url": "undefined/scalars/id",
+      "url": "/stats/reference/scalars/id",
       "description": "API ID",
       "isDeprecated": false,
       "args": null
@@ -22,7 +22,7 @@
     {
       "typeString": "Boolean!",
       "name": "isEditable",
-      "url": "undefined/scalars/boolean",
+      "url": "/stats/reference/scalars/boolean",
       "description": "Is API Editable or not.",
       "isDeprecated": false,
       "args": null
@@ -30,7 +30,7 @@
     {
       "typeString": "String",
       "name": "label",
-      "url": "undefined/scalars/string",
+      "url": "/stats/reference/scalars/string",
       "description": "API label",
       "isDeprecated": false,
       "args": null
@@ -38,44 +38,44 @@
     {
       "typeString": "GroupConnection",
       "name": "groups",
-      "url": "undefined/objects/groupconnection",
+      "url": "/stats/reference/objects/groupconnection",
       "description": "which groups are asigned this API?",
       "isDeprecated": false,
       "args": [
         {
           "typeString": "[ID!]",
           "name": "codes",
-          "url": "undefined/scalars/id",
+          "url": "/stats/reference/scalars/id",
           "description": ""
         },
         {
           "typeString": "GroupType",
           "name": "type",
-          "url": "undefined/enums/grouptype",
+          "url": "/stats/reference/enums/grouptype",
           "description": ""
         },
         {
           "typeString": "Int",
           "name": "first",
-          "url": "undefined/scalars/int",
+          "url": "/stats/reference/scalars/int",
           "description": ""
         },
         {
           "typeString": "Int",
           "name": "last",
-          "url": "undefined/scalars/int",
+          "url": "/stats/reference/scalars/int",
           "description": ""
         },
         {
           "typeString": "String",
           "name": "before",
-          "url": "undefined/scalars/string",
+          "url": "/stats/reference/scalars/string",
           "description": ""
         },
         {
           "typeString": "String",
           "name": "after",
-          "url": "undefined/scalars/string",
+          "url": "/stats/reference/scalars/string",
           "description": ""
         }
       ]
@@ -83,38 +83,38 @@
     {
       "typeString": "ResourceConnection",
       "name": "resources",
-      "url": "undefined/objects/resourceconnection",
+      "url": "/stats/reference/objects/resourceconnection",
       "description": "which resources are asigned this API?",
       "isDeprecated": false,
       "args": [
         {
           "typeString": "[ID!]",
           "name": "codes",
-          "url": "undefined/scalars/id",
+          "url": "/stats/reference/scalars/id",
           "description": ""
         },
         {
           "typeString": "Int",
           "name": "first",
-          "url": "undefined/scalars/int",
+          "url": "/stats/reference/scalars/int",
           "description": ""
         },
         {
           "typeString": "Int",
           "name": "last",
-          "url": "undefined/scalars/int",
+          "url": "/stats/reference/scalars/int",
           "description": ""
         },
         {
           "typeString": "String",
           "name": "before",
-          "url": "undefined/scalars/string",
+          "url": "/stats/reference/scalars/string",
           "description": ""
         },
         {
           "typeString": "String",
           "name": "after",
-          "url": "undefined/scalars/string",
+          "url": "/stats/reference/scalars/string",
           "description": ""
         }
       ]
@@ -122,44 +122,44 @@
     {
       "typeString": "OperationConnection",
       "name": "operations",
-      "url": "undefined/objects/operationconnection",
+      "url": "/stats/reference/objects/operationconnection",
       "description": "which operations are asigned this API?",
       "isDeprecated": false,
       "args": [
         {
           "typeString": "[ID!]",
           "name": "codes",
-          "url": "undefined/scalars/id",
+          "url": "/stats/reference/scalars/id",
           "description": ""
         },
         {
           "typeString": "OperationType",
           "name": "type",
-          "url": "undefined/enums/operationtype",
+          "url": "/stats/reference/enums/operationtype",
           "description": ""
         },
         {
           "typeString": "Int",
           "name": "first",
-          "url": "undefined/scalars/int",
+          "url": "/stats/reference/scalars/int",
           "description": ""
         },
         {
           "typeString": "Int",
           "name": "last",
-          "url": "undefined/scalars/int",
+          "url": "/stats/reference/scalars/int",
           "description": ""
         },
         {
           "typeString": "String",
           "name": "before",
-          "url": "undefined/scalars/string",
+          "url": "/stats/reference/scalars/string",
           "description": ""
         },
         {
           "typeString": "String",
           "name": "after",
-          "url": "undefined/scalars/string",
+          "url": "/stats/reference/scalars/string",
           "description": ""
         }
       ]
@@ -169,7 +169,7 @@
     {
       "name": "API",
       "description": "",
-      "url": "undefined/objects/api"
+      "url": "/stats/reference/objects/api"
     }
   ],
   "enumValues": null,

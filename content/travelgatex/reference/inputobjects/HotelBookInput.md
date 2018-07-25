@@ -6,56 +6,56 @@
     {
       "typeString": "String!",
       "name": "optionRefId",
-      "url": "undefined/scalars/string",
+      "url": "/travelgatex/reference/scalars/string",
       "description": "Option ID",
       "args": null
     },
     {
       "typeString": "Language",
       "name": "language",
-      "url": "undefined/scalars/language",
+      "url": "/travelgatex/reference/scalars/language",
       "description": "Language to be used in request",
       "args": null
     },
     {
       "typeString": "String!",
       "name": "clientReference",
-      "url": "undefined/scalars/string",
+      "url": "/travelgatex/reference/scalars/string",
       "description": "Booking ID in client's system.",
       "args": null
     },
     {
       "typeString": "DeltaPriceInput",
       "name": "deltaPrice",
-      "url": "undefined/inputobjects/deltapriceinput",
+      "url": "/travelgatex/reference/inputobjects/deltapriceinput",
       "description": "Indicates price variation permitted by the client.",
       "args": null
     },
     {
       "typeString": "PaymentCardInput",
       "name": "paymentCard",
-      "url": "undefined/inputobjects/paymentcardinput",
+      "url": "/travelgatex/reference/inputobjects/paymentcardinput",
       "description": "If the payment is done by credit card, it's mandatory to specify the payment type and the credit card information.",
       "args": null
     },
     {
       "typeString": "String",
       "name": "remarks",
-      "url": "undefined/scalars/string",
+      "url": "/travelgatex/reference/scalars/string",
       "description": "Any customer comments for the supplier to consider.",
       "args": null
     },
     {
       "typeString": "HolderInput!",
       "name": "holder",
-      "url": "undefined/inputobjects/holderinput",
+      "url": "/travelgatex/reference/inputobjects/holderinput",
       "description": "Holder's basic information.",
       "args": null
     },
     {
       "typeString": "[BookRoomInput!]!",
       "name": "rooms",
-      "url": "undefined/inputobjects/bookroominput",
+      "url": "/travelgatex/reference/inputobjects/bookroominput",
       "description": "Rooms within this option.",
       "args": null
     }

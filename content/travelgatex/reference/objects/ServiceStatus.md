@@ -6,7 +6,7 @@
     {
       "typeString": "String",
       "name": "code",
-      "url": "undefined/scalars/string",
+      "url": "/travelgatex/reference/scalars/string",
       "description": "Status code",
       "isDeprecated": false,
       "args": null
@@ -14,7 +14,7 @@
     {
       "typeString": "String",
       "name": "type",
-      "url": "undefined/scalars/string",
+      "url": "/travelgatex/reference/scalars/string",
       "description": "Status type",
       "isDeprecated": false,
       "args": null
@@ -22,7 +22,7 @@
     {
       "typeString": "String",
       "name": "description",
-      "url": "undefined/scalars/string",
+      "url": "/travelgatex/reference/scalars/string",
       "description": "Status description",
       "isDeprecated": false,
       "args": null
@@ -32,12 +32,12 @@
     {
       "name": "HotelXQuery",
       "description": "",
-      "url": "undefined/objects/hotelxquery"
+      "url": "/travelgatex/reference/objects/hotelxquery"
     },
     {
       "name": "PaymentXQuery",
       "description": "",
-      "url": "undefined/objects/paymentxquery"
+      "url": "/travelgatex/reference/objects/paymentxquery"
     }
   ],
   "enumValues": null,

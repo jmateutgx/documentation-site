@@ -6,7 +6,7 @@
     {
       "typeString": "ID!",
       "name": "code",
-      "url": "undefined/scalars/id",
+      "url": "/stats/reference/scalars/id",
       "description": "",
       "isDeprecated": false,
       "args": null
@@ -14,7 +14,7 @@
     {
       "typeString": "OperationData",
       "name": "operationData",
-      "url": "undefined/objects/operationdata",
+      "url": "/stats/reference/objects/operationdata",
       "description": "",
       "isDeprecated": false,
       "args": null
@@ -22,7 +22,7 @@
     {
       "typeString": "[Error!]",
       "name": "error",
-      "url": "undefined/objects/error",
+      "url": "/stats/reference/objects/error",
       "description": "Errors that abort services",
       "isDeprecated": false,
       "args": null
@@ -30,7 +30,7 @@
     {
       "typeString": "DateTime!",
       "name": "createdAt",
-      "url": "undefined/scalars/datetime",
+      "url": "/stats/reference/scalars/datetime",
       "description": "Date created",
       "isDeprecated": false,
       "args": null
@@ -38,7 +38,7 @@
     {
       "typeString": "DateTime!",
       "name": "updatedAt",
-      "url": "undefined/scalars/datetime",
+      "url": "/stats/reference/scalars/datetime",
       "description": "Date updated",
       "isDeprecated": false,
       "args": null
@@ -48,12 +48,12 @@
     {
       "name": "OperationDetailed",
       "description": "Stats information per operation",
-      "url": "undefined/objects/operationdetailed"
+      "url": "/stats/reference/objects/operationdetailed"
     },
     {
       "name": "OperationEdge",
       "description": "",
-      "url": "undefined/objects/operationedge"
+      "url": "/stats/reference/objects/operationedge"
     }
   ],
   "enumValues": null,

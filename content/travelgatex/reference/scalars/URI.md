@@ -7,27 +7,27 @@
     {
       "name": "Urls",
       "description": "Url's",
-      "url": "undefined/objects/urls"
+      "url": "/travelgatex/reference/objects/urls"
     },
     {
       "name": "Contact",
       "description": "Contact Data.",
-      "url": "undefined/objects/contact"
+      "url": "/travelgatex/reference/objects/contact"
     },
     {
       "name": "Media",
       "description": "Contains media information.",
-      "url": "undefined/objects/media"
+      "url": "/travelgatex/reference/objects/media"
     },
     {
       "name": "UrlsInput",
       "description": "URLs Input",
-      "url": "undefined/inputobjects/urlsinput"
+      "url": "/travelgatex/reference/inputobjects/urlsinput"
     },
     {
       "name": "StatsAssert",
       "description": "Assert of an specific error",
-      "url": "undefined/objects/statsassert"
+      "url": "/travelgatex/reference/objects/statsassert"
     }
   ],
   "enumValues": null,

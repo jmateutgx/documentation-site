@@ -6,21 +6,21 @@
     {
       "typeString": "[ID!]",
       "name": "suppliers",
-      "url": "undefined/scalars/id",
+      "url": "/travelgatex/reference/scalars/id",
       "description": "",
       "args": null
     },
     {
       "typeString": "[ID!]",
       "name": "clients",
-      "url": "undefined/scalars/id",
+      "url": "/travelgatex/reference/scalars/id",
       "description": "",
       "args": null
     },
     {
       "typeString": "[ID!]",
       "name": "access",
-      "url": "undefined/scalars/id",
+      "url": "/travelgatex/reference/scalars/id",
       "description": "",
       "args": null
     }
@@ -29,12 +29,12 @@
     {
       "name": "CreateProfileInput",
       "description": "",
-      "url": "undefined/inputobjects/createprofileinput"
+      "url": "/travelgatex/reference/inputobjects/createprofileinput"
     },
     {
       "name": "UpdateEntitiesInput",
       "description": "",
-      "url": "undefined/inputobjects/updateentitiesinput"
+      "url": "/travelgatex/reference/inputobjects/updateentitiesinput"
     }
   ],
   "enumValues": null,

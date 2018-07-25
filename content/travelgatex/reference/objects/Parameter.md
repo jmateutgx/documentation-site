@@ -6,7 +6,7 @@
     {
       "typeString": "ID!",
       "name": "key",
-      "url": "undefined/scalars/id",
+      "url": "/travelgatex/reference/scalars/id",
       "description": "Contains the keyword/Id to identify a parameter.\nThis information is mandatory.",
       "isDeprecated": false,
       "args": null
@@ -14,7 +14,7 @@
     {
       "typeString": "String!",
       "name": "value",
-      "url": "undefined/scalars/string",
+      "url": "/travelgatex/reference/scalars/string",
       "description": "Contains the parameter values.\nThis information is mandatory.",
       "isDeprecated": false,
       "args": null
@@ -24,7 +24,7 @@
     {
       "name": "AccessData",
       "description": "",
-      "url": "undefined/objects/accessdata"
+      "url": "/travelgatex/reference/objects/accessdata"
     }
   ],
   "enumValues": null,

@@ -7,722 +7,722 @@
     {
       "name": "AccessEdge",
       "description": "",
-      "url": "undefined/objects/accessedge"
+      "url": "/travelgatex/reference/objects/accessedge"
     },
     {
       "name": "AccessData",
       "description": "",
-      "url": "undefined/objects/accessdata"
+      "url": "/travelgatex/reference/objects/accessdata"
     },
     {
       "name": "SupplierData",
       "description": "",
-      "url": "undefined/objects/supplierdata"
+      "url": "/travelgatex/reference/objects/supplierdata"
     },
     {
       "name": "Provider",
       "description": "Temporary type to use only during SQL server's lifetime",
-      "url": "undefined/objects/provider"
+      "url": "/travelgatex/reference/objects/provider"
     },
     {
       "name": "Error",
       "description": "Application errors",
-      "url": "undefined/objects/error"
+      "url": "/travelgatex/reference/objects/error"
     },
     {
       "name": "Parameter",
       "description": "Parameters for additional information for the supplier's configuration.",
-      "url": "undefined/objects/parameter"
+      "url": "/travelgatex/reference/objects/parameter"
     },
     {
       "name": "PageInfo",
       "description": "",
-      "url": "undefined/objects/pageinfo"
+      "url": "/travelgatex/reference/objects/pageinfo"
     },
     {
       "name": "SupplierEdge",
       "description": "",
-      "url": "undefined/objects/supplieredge"
+      "url": "/travelgatex/reference/objects/supplieredge"
     },
     {
       "name": "ClientEdge",
       "description": "",
-      "url": "undefined/objects/clientedge"
+      "url": "/travelgatex/reference/objects/clientedge"
     },
     {
       "name": "ClientData",
       "description": "",
-      "url": "undefined/objects/clientdata"
+      "url": "/travelgatex/reference/objects/clientdata"
     },
     {
       "name": "ServiceApiFilter",
       "description": "",
-      "url": "undefined/inputobjects/serviceapifilter"
+      "url": "/travelgatex/reference/inputobjects/serviceapifilter"
     },
     {
       "name": "ServiceApi",
       "description": "Information related to a Service API",
-      "url": "undefined/objects/serviceapi"
+      "url": "/travelgatex/reference/objects/serviceapi"
     },
     {
       "name": "ServiceOperation",
       "description": "Information related to an API operation",
-      "url": "undefined/objects/serviceoperation"
+      "url": "/travelgatex/reference/objects/serviceoperation"
     },
     {
       "name": "PointOfSaleEdge",
       "description": "",
-      "url": "undefined/objects/pointofsaleedge"
+      "url": "/travelgatex/reference/objects/pointofsaleedge"
     },
     {
       "name": "PointOfSaleData",
       "description": "",
-      "url": "undefined/objects/pointofsaledata"
+      "url": "/travelgatex/reference/objects/pointofsaledata"
     },
     {
       "name": "AdviseMessage",
       "description": "List of advise messages.",
-      "url": "undefined/interfaces/advisemessage"
+      "url": "/travelgatex/reference/interfaces/advisemessage"
     },
     {
       "name": "ExternalMessage",
       "description": "",
-      "url": "undefined/objects/externalmessage"
+      "url": "/travelgatex/reference/objects/externalmessage"
     },
     {
       "name": "ProfileEdge",
       "description": "",
-      "url": "undefined/objects/profileedge"
+      "url": "/travelgatex/reference/objects/profileedge"
     },
     {
       "name": "ProfileData",
       "description": "Profile data",
-      "url": "undefined/objects/profiledata"
+      "url": "/travelgatex/reference/objects/profiledata"
     },
     {
       "name": "EntityEdge",
       "description": "",
-      "url": "undefined/objects/entityedge"
+      "url": "/travelgatex/reference/objects/entityedge"
     },
     {
       "name": "OrganizationEdge",
       "description": "",
-      "url": "undefined/objects/organizationedge"
+      "url": "/travelgatex/reference/objects/organizationedge"
     },
     {
       "name": "OrganizationData",
       "description": "",
-      "url": "undefined/objects/organizationdata"
+      "url": "/travelgatex/reference/objects/organizationdata"
     },
     {
       "name": "GroupCommonData",
       "description": "",
-      "url": "undefined/interfaces/groupcommondata"
+      "url": "/travelgatex/reference/interfaces/groupcommondata"
     },
     {
       "name": "GroupEdge",
       "description": "",
-      "url": "undefined/objects/groupedge"
+      "url": "/travelgatex/reference/objects/groupedge"
     },
     {
       "name": "GroupData",
       "description": "",
-      "url": "undefined/objects/groupdata"
+      "url": "/travelgatex/reference/objects/groupdata"
     },
     {
       "name": "MemberData",
       "description": "",
-      "url": "undefined/objects/memberdata"
+      "url": "/travelgatex/reference/objects/memberdata"
     },
     {
       "name": "RoleEdge",
       "description": "",
-      "url": "undefined/objects/roleedge"
+      "url": "/travelgatex/reference/objects/roleedge"
     },
     {
       "name": "RoleData",
       "description": "",
-      "url": "undefined/objects/roledata"
+      "url": "/travelgatex/reference/objects/roledata"
     },
     {
       "name": "ResourceEdge",
       "description": "",
-      "url": "undefined/objects/resourceedge"
+      "url": "/travelgatex/reference/objects/resourceedge"
     },
     {
       "name": "ResourceData",
       "description": "",
-      "url": "undefined/objects/resourcedata"
+      "url": "/travelgatex/reference/objects/resourcedata"
     },
     {
       "name": "APIEdge",
       "description": "",
-      "url": "undefined/objects/apiedge"
+      "url": "/travelgatex/reference/objects/apiedge"
     },
     {
       "name": "APIData",
       "description": "",
-      "url": "undefined/objects/apidata"
+      "url": "/travelgatex/reference/objects/apidata"
     },
     {
       "name": "OperationEdge",
       "description": "",
-      "url": "undefined/objects/operationedge"
+      "url": "/travelgatex/reference/objects/operationedge"
     },
     {
       "name": "OperationData",
       "description": "",
-      "url": "undefined/objects/operationdata"
+      "url": "/travelgatex/reference/objects/operationdata"
     },
     {
       "name": "MemberEdge",
       "description": "",
-      "url": "undefined/objects/memberedge"
+      "url": "/travelgatex/reference/objects/memberedge"
     },
     {
       "name": "ProductEdge",
       "description": "",
-      "url": "undefined/objects/productedge"
+      "url": "/travelgatex/reference/objects/productedge"
     },
     {
       "name": "ProductData",
       "description": "",
-      "url": "undefined/objects/productdata"
+      "url": "/travelgatex/reference/objects/productdata"
     },
     {
       "name": "RelayInput",
       "description": "",
-      "url": "undefined/inputobjects/relayinput"
+      "url": "/travelgatex/reference/inputobjects/relayinput"
     },
     {
       "name": "BoardEdge",
       "description": "BoardList Edge definition",
-      "url": "undefined/objects/boardedge"
+      "url": "/travelgatex/reference/objects/boardedge"
     },
     {
       "name": "BoardData",
       "description": "Board data",
-      "url": "undefined/objects/boarddata"
+      "url": "/travelgatex/reference/objects/boarddata"
     },
     {
       "name": "Text",
       "description": "",
-      "url": "undefined/interfaces/text"
+      "url": "/travelgatex/reference/interfaces/text"
     },
     {
       "name": "CategoryEdge",
       "description": "CategoryList Edge definition",
-      "url": "undefined/objects/categoryedge"
+      "url": "/travelgatex/reference/objects/categoryedge"
     },
     {
       "name": "CategoryData",
       "description": "Category data",
-      "url": "undefined/objects/categorydata"
+      "url": "/travelgatex/reference/objects/categorydata"
     },
     {
       "name": "HotelConnection",
       "description": "HotelList definition",
-      "url": "undefined/objects/hotelconnection"
+      "url": "/travelgatex/reference/objects/hotelconnection"
     },
     {
       "name": "HotelEdge",
       "description": "HotelList Edge definition",
-      "url": "undefined/objects/hoteledge"
+      "url": "/travelgatex/reference/objects/hoteledge"
     },
     {
       "name": "HotelData",
       "description": "Hotel data",
-      "url": "undefined/objects/hoteldata"
+      "url": "/travelgatex/reference/objects/hoteldata"
     },
     {
       "name": "Property",
       "description": "Indicates Property type",
-      "url": "undefined/objects/property"
+      "url": "/travelgatex/reference/objects/property"
     },
     {
       "name": "Location",
       "description": "Indicates the location of the hotel",
-      "url": "undefined/objects/location"
+      "url": "/travelgatex/reference/objects/location"
     },
     {
       "name": "DestinationData",
       "description": "Information about destinantion",
-      "url": "undefined/objects/destinationdata"
+      "url": "/travelgatex/reference/objects/destinationdata"
     },
     {
       "name": "AirportData",
       "description": "Information about the airport",
-      "url": "undefined/objects/airportdata"
+      "url": "/travelgatex/reference/objects/airportdata"
     },
     {
       "name": "Contact",
       "description": "Contact Data.",
-      "url": "undefined/objects/contact"
+      "url": "/travelgatex/reference/objects/contact"
     },
     {
       "name": "Amenity",
       "description": "An Amenity is defined as something intended to make life more pleasant or comfortable for people. Examples include: swimming pools, shopping centers, etc.",
-      "url": "undefined/objects/amenity"
+      "url": "/travelgatex/reference/objects/amenity"
     },
     {
       "name": "Media",
       "description": "Contains media information.",
-      "url": "undefined/objects/media"
+      "url": "/travelgatex/reference/objects/media"
     },
     {
       "name": "RoomConnection",
       "description": "RoomList definition",
-      "url": "undefined/objects/roomconnection"
+      "url": "/travelgatex/reference/objects/roomconnection"
     },
     {
       "name": "RoomEdge",
       "description": "RoomList Edge definition",
-      "url": "undefined/objects/roomedge"
+      "url": "/travelgatex/reference/objects/roomedge"
     },
     {
       "name": "RoomData",
       "description": "Room data",
-      "url": "undefined/objects/roomdata"
+      "url": "/travelgatex/reference/objects/roomdata"
     },
     {
       "name": "DestinationConnection",
       "description": "DestinationList definition",
-      "url": "undefined/objects/destinationconnection"
+      "url": "/travelgatex/reference/objects/destinationconnection"
     },
     {
       "name": "DestinationEdge",
       "description": "DestinationList Edge definition",
-      "url": "undefined/objects/destinationedge"
+      "url": "/travelgatex/reference/objects/destinationedge"
     },
     {
       "name": "HotelXDestinationSearcherInput",
       "description": "",
-      "url": "undefined/inputobjects/hotelxdestinationsearcherinput"
+      "url": "/travelgatex/reference/inputobjects/hotelxdestinationsearcherinput"
     },
     {
       "name": "HotelCriteriaSearchInput",
       "description": "Search criteria contains destination, travel dates and the number of pax in each room.\nYou must preload the other fields in our system by complete the fields absents.",
-      "url": "undefined/inputobjects/hotelcriteriasearchinput"
+      "url": "/travelgatex/reference/inputobjects/hotelcriteriasearchinput"
     },
     {
       "name": "HotelSettingsInput",
       "description": "Settings that you can edit for this avail. Values are loaded by default in our Back Office.",
-      "url": "undefined/inputobjects/hotelsettingsinput"
+      "url": "/travelgatex/reference/inputobjects/hotelsettingsinput"
     },
     {
       "name": "HotelXSupplierInput",
       "description": "Supplier object. Contains its own settings, code and access.",
-      "url": "undefined/inputobjects/hotelxsupplierinput"
+      "url": "/travelgatex/reference/inputobjects/hotelxsupplierinput"
     },
     {
       "name": "ConfigurationInput",
       "description": "The information and credentials required to access the supplier’s system.",
-      "url": "undefined/inputobjects/configurationinput"
+      "url": "/travelgatex/reference/inputobjects/configurationinput"
     },
     {
       "name": "ParameterInput",
       "description": "Parameters Input.",
-      "url": "undefined/inputobjects/parameterinput"
+      "url": "/travelgatex/reference/inputobjects/parameterinput"
     },
     {
       "name": "PluginsInput",
       "description": "Plugin to execute.",
-      "url": "undefined/inputobjects/pluginsinput"
+      "url": "/travelgatex/reference/inputobjects/pluginsinput"
     },
     {
       "name": "HotelSearch",
       "description": "Results from Avail Hotel; contains all the available options for a given date and itinerary",
-      "url": "undefined/objects/hotelsearch"
+      "url": "/travelgatex/reference/objects/hotelsearch"
     },
     {
       "name": "StatsRequest",
       "description": "Contains internal information.",
-      "url": "undefined/objects/statsrequest"
+      "url": "/travelgatex/reference/objects/statsrequest"
     },
     {
       "name": "StatPlugin",
       "description": "",
-      "url": "undefined/objects/statplugin"
+      "url": "/travelgatex/reference/objects/statplugin"
     },
     {
       "name": "StatAccess",
       "description": "",
-      "url": "undefined/objects/stataccess"
+      "url": "/travelgatex/reference/objects/stataccess"
     },
     {
       "name": "StatTransaction",
       "description": "",
-      "url": "undefined/objects/stattransaction"
+      "url": "/travelgatex/reference/objects/stattransaction"
     },
     {
       "name": "Transactions",
       "description": "Supplier transaction",
-      "url": "undefined/objects/transactions"
+      "url": "/travelgatex/reference/objects/transactions"
     },
     {
       "name": "Warning",
       "description": "Application warnings",
-      "url": "undefined/objects/warning"
+      "url": "/travelgatex/reference/objects/warning"
     },
     {
       "name": "CriteriaSearch",
       "description": "Search criteria contains destination, travel dates and the number of pax in each room.",
-      "url": "undefined/objects/criteriasearch"
+      "url": "/travelgatex/reference/objects/criteriasearch"
     },
     {
       "name": "HotelOptionSearch",
       "description": "An option includes hotel information, meal plan, total price, conditions and room description",
-      "url": "undefined/objects/hoteloptionsearch"
+      "url": "/travelgatex/reference/objects/hoteloptionsearch"
     },
     {
       "name": "BookableOptionSearch",
       "description": "",
-      "url": "undefined/interfaces/bookableoptionsearch"
+      "url": "/travelgatex/reference/interfaces/bookableoptionsearch"
     },
     {
       "name": "Room",
       "description": "Contains the room information of the option returned.",
-      "url": "undefined/objects/room"
+      "url": "/travelgatex/reference/objects/room"
     },
     {
       "name": "Markup",
       "description": "Informs markup applied over supplier price.",
-      "url": "undefined/objects/markup"
+      "url": "/travelgatex/reference/objects/markup"
     },
     {
       "name": "Rule",
       "description": "",
-      "url": "undefined/objects/rule"
+      "url": "/travelgatex/reference/objects/rule"
     },
     {
       "name": "Bed",
       "description": "Contains information about a bed.",
-      "url": "undefined/objects/bed"
+      "url": "/travelgatex/reference/objects/bed"
     },
     {
       "name": "RatePlan",
       "description": "Information about the rate of the option returned.",
-      "url": "undefined/objects/rateplan"
+      "url": "/travelgatex/reference/objects/rateplan"
     },
     {
       "name": "Promotion",
       "description": "Information about room promotions(offers).",
-      "url": "undefined/objects/promotion"
+      "url": "/travelgatex/reference/objects/promotion"
     },
     {
       "name": "Supplement",
       "description": "Supplement that it can be or its already added to the option returned. Contains all the information about the supplement.",
-      "url": "undefined/objects/supplement"
+      "url": "/travelgatex/reference/objects/supplement"
     },
     {
       "name": "Resort",
       "description": "Contains information about the Resort.",
-      "url": "undefined/objects/resort"
+      "url": "/travelgatex/reference/objects/resort"
     },
     {
       "name": "Surcharge",
       "description": "Surcharge that it can be or it is already added to the option returned. Contains all the information about the surcharge.",
-      "url": "undefined/objects/surcharge"
+      "url": "/travelgatex/reference/objects/surcharge"
     },
     {
       "name": "AddOn",
       "description": "Additional information about the option",
-      "url": "undefined/objects/addon"
+      "url": "/travelgatex/reference/objects/addon"
     },
     {
       "name": "HotelCriteriaQuoteInput",
       "description": "The quote criteria contains the option reference id, block and language.",
-      "url": "undefined/inputobjects/hotelcriteriaquoteinput"
+      "url": "/travelgatex/reference/inputobjects/hotelcriteriaquoteinput"
     },
     {
       "name": "HotelOptionQuote",
       "description": "Contains information about quote(s)",
-      "url": "undefined/objects/hoteloptionquote"
+      "url": "/travelgatex/reference/objects/hoteloptionquote"
     },
     {
       "name": "HotelCriteriaBookingInput",
       "description": "Criteria of book contains basic information to find a book or books.",
-      "url": "undefined/inputobjects/hotelcriteriabookinginput"
+      "url": "/travelgatex/reference/inputobjects/hotelcriteriabookinginput"
     },
     {
       "name": "CriteriaBookingReferencesInput",
       "description": "Criteria by references",
-      "url": "undefined/inputobjects/criteriabookingreferencesinput"
+      "url": "/travelgatex/reference/inputobjects/criteriabookingreferencesinput"
     },
     {
       "name": "BookReferenceInput",
       "description": "Reference object that contains the client reference and/or supplier reference.",
-      "url": "undefined/inputobjects/bookreferenceinput"
+      "url": "/travelgatex/reference/inputobjects/bookreferenceinput"
     },
     {
       "name": "HotelBookingDetail",
       "description": "Contains information about booking",
-      "url": "undefined/objects/hotelbookingdetail"
+      "url": "/travelgatex/reference/objects/hotelbookingdetail"
     },
     {
       "name": "Reference",
       "description": "Contains reference codes.",
-      "url": "undefined/objects/reference"
+      "url": "/travelgatex/reference/objects/reference"
     },
     {
       "name": "Holder",
       "description": "Holder object that contains the occupant's (pax's) name and surname.",
-      "url": "undefined/objects/holder"
+      "url": "/travelgatex/reference/objects/holder"
     },
     {
       "name": "BookingHotel",
       "description": "",
-      "url": "undefined/objects/bookinghotel"
+      "url": "/travelgatex/reference/objects/bookinghotel"
     },
     {
       "name": "BookingRoom",
       "description": "",
-      "url": "undefined/objects/bookingroom"
+      "url": "/travelgatex/reference/objects/bookingroom"
     },
     {
       "name": "ServiceStatus",
       "description": "Indicates the status of the service",
-      "url": "undefined/objects/servicestatus"
+      "url": "/travelgatex/reference/objects/servicestatus"
     },
     {
       "name": "MappingContext",
       "description": "Returns the differents group contexts",
-      "url": "undefined/objects/mappingcontext"
+      "url": "/travelgatex/reference/objects/mappingcontext"
     },
     {
       "name": "MappingEntity",
       "description": "Mapping about client codes with the equivalence per supplier.",
-      "url": "undefined/objects/mappingentity"
+      "url": "/travelgatex/reference/objects/mappingentity"
     },
     {
       "name": "Map",
       "description": "Map codes.",
-      "url": "undefined/objects/map"
+      "url": "/travelgatex/reference/objects/map"
     },
     {
       "name": "File",
       "description": "",
-      "url": "undefined/objects/file"
+      "url": "/travelgatex/reference/objects/file"
     },
     {
       "name": "MappeaGetMappeaStatsInput",
       "description": "# GetMappeaStats",
-      "url": "undefined/inputobjects/mappeagetmappeastatsinput"
+      "url": "/travelgatex/reference/inputobjects/mappeagetmappeastatsinput"
     },
     {
       "name": "GetMappeaStatsData",
       "description": "",
-      "url": "undefined/objects/getmappeastatsdata"
+      "url": "/travelgatex/reference/objects/getmappeastatsdata"
     },
     {
       "name": "PaymentXBookingInfoFilterInput",
       "description": "",
-      "url": "undefined/inputobjects/paymentxbookinginfofilterinput"
+      "url": "/travelgatex/reference/inputobjects/paymentxbookinginfofilterinput"
     },
     {
       "name": "PaymentXBookingInfoCriteriaInput",
       "description": "",
-      "url": "undefined/inputobjects/paymentxbookinginfocriteriainput"
+      "url": "/travelgatex/reference/inputobjects/paymentxbookinginfocriteriainput"
     },
     {
       "name": "HolderInput",
       "description": "Holder object that contains the occupant's (pax's) name and surname.",
-      "url": "undefined/inputobjects/holderinput"
+      "url": "/travelgatex/reference/inputobjects/holderinput"
     },
     {
       "name": "StoredCardEdge",
       "description": "",
-      "url": "undefined/objects/storedcardedge"
+      "url": "/travelgatex/reference/objects/storedcardedge"
     },
     {
       "name": "PaymentXBookingInfo",
       "description": "",
-      "url": "undefined/objects/paymentxbookinginfo"
+      "url": "/travelgatex/reference/objects/paymentxbookinginfo"
     },
     {
       "name": "PaymentCard",
       "description": "Input PaymentCard, if the payment is done by credit card, is it mandatory to specify the payment type and the credit card information",
-      "url": "undefined/objects/paymentcard"
+      "url": "/travelgatex/reference/objects/paymentcard"
     },
     {
       "name": "StatsEdge",
       "description": "",
-      "url": "undefined/objects/statsedge"
+      "url": "/travelgatex/reference/objects/statsedge"
     },
     {
       "name": "AccessInput",
       "description": "Access input",
-      "url": "undefined/inputobjects/accessinput"
+      "url": "/travelgatex/reference/inputobjects/accessinput"
     },
     {
       "name": "CreateClientInput",
       "description": "",
-      "url": "undefined/inputobjects/createclientinput"
+      "url": "/travelgatex/reference/inputobjects/createclientinput"
     },
     {
       "name": "UpdateClientInput",
       "description": "",
-      "url": "undefined/inputobjects/updateclientinput"
+      "url": "/travelgatex/reference/inputobjects/updateclientinput"
     },
     {
       "name": "CreateProfileInput",
       "description": "",
-      "url": "undefined/inputobjects/createprofileinput"
+      "url": "/travelgatex/reference/inputobjects/createprofileinput"
     },
     {
       "name": "UpdateProfileInput",
       "description": "",
-      "url": "undefined/inputobjects/updateprofileinput"
+      "url": "/travelgatex/reference/inputobjects/updateprofileinput"
     },
     {
       "name": "CreateOrganizationInput",
       "description": "",
-      "url": "undefined/inputobjects/createorganizationinput"
+      "url": "/travelgatex/reference/inputobjects/createorganizationinput"
     },
     {
       "name": "CreateMemberInput",
       "description": "",
-      "url": "undefined/inputobjects/creatememberinput"
+      "url": "/travelgatex/reference/inputobjects/creatememberinput"
     },
     {
       "name": "CreateGroupInput",
       "description": "",
-      "url": "undefined/inputobjects/creategroupinput"
+      "url": "/travelgatex/reference/inputobjects/creategroupinput"
     },
     {
       "name": "UpdateMemberInput",
       "description": "",
-      "url": "undefined/inputobjects/updatememberinput"
+      "url": "/travelgatex/reference/inputobjects/updatememberinput"
     },
     {
       "name": "UpdateGroupInput",
       "description": "",
-      "url": "undefined/inputobjects/updategroupinput"
+      "url": "/travelgatex/reference/inputobjects/updategroupinput"
     },
     {
       "name": "HotelXMutation",
       "description": "",
-      "url": "undefined/objects/hotelxmutation"
+      "url": "/travelgatex/reference/objects/hotelxmutation"
     },
     {
       "name": "HotelBookInput",
       "description": "Criteria of book.",
-      "url": "undefined/inputobjects/hotelbookinput"
+      "url": "/travelgatex/reference/inputobjects/hotelbookinput"
     },
     {
       "name": "PaymentCardInput",
       "description": "Input PaymentCard, if the payment is done by credit card, is it mandatory to specify the payment type and the credit card information",
-      "url": "undefined/inputobjects/paymentcardinput"
+      "url": "/travelgatex/reference/inputobjects/paymentcardinput"
     },
     {
       "name": "BookPaxInput",
       "description": "Input BookPax contains basic information abaout pax suach as name, surname and age.",
-      "url": "undefined/inputobjects/bookpaxinput"
+      "url": "/travelgatex/reference/inputobjects/bookpaxinput"
     },
     {
       "name": "HotelCancelInput",
       "description": "Cancellation Criteria.",
-      "url": "undefined/inputobjects/hotelcancelinput"
+      "url": "/travelgatex/reference/inputobjects/hotelcancelinput"
     },
     {
       "name": "HotelCancelDetail",
       "description": "Contains information about cancel",
-      "url": "undefined/objects/hotelcanceldetail"
+      "url": "/travelgatex/reference/objects/hotelcanceldetail"
     },
     {
       "name": "MappeaUploadFileInput",
       "description": "## UploadFile",
-      "url": "undefined/inputobjects/mappeauploadfileinput"
+      "url": "/travelgatex/reference/inputobjects/mappeauploadfileinput"
     },
     {
       "name": "UploadFileData",
       "description": "",
-      "url": "undefined/objects/uploadfiledata"
+      "url": "/travelgatex/reference/objects/uploadfiledata"
     },
     {
       "name": "PaymentXBookingInfoInput",
       "description": "",
-      "url": "undefined/inputobjects/paymentxbookinginfoinput"
+      "url": "/travelgatex/reference/inputobjects/paymentxbookinginfoinput"
     },
     {
       "name": "PointOfSaleInput",
       "description": "",
-      "url": "undefined/inputobjects/pointofsaleinput"
+      "url": "/travelgatex/reference/inputobjects/pointofsaleinput"
     },
     {
       "name": "PaymentXBookingInfoDeleteInput",
       "description": "",
-      "url": "undefined/inputobjects/paymentxbookinginfodeleteinput"
+      "url": "/travelgatex/reference/inputobjects/paymentxbookinginfodeleteinput"
     },
     {
       "name": "SupplierGroup",
       "description": "group related to a supplier",
-      "url": "undefined/objects/suppliergroup"
+      "url": "/travelgatex/reference/objects/suppliergroup"
     },
     {
       "name": "AccessConfigurationInput",
       "description": "The information required to access the supplier's system.",
-      "url": "undefined/inputobjects/accessconfigurationinput"
+      "url": "/travelgatex/reference/inputobjects/accessconfigurationinput"
     },
     {
       "name": "AccessConnectUserInput",
       "description": "Connect user input for data access management API",
-      "url": "undefined/inputobjects/accessconnectuserinput"
+      "url": "/travelgatex/reference/inputobjects/accessconnectuserinput"
     },
     {
       "name": "ConnectUserGroupInput",
       "description": "group related to a connect user",
-      "url": "undefined/inputobjects/connectusergroupinput"
+      "url": "/travelgatex/reference/inputobjects/connectusergroupinput"
     },
     {
       "name": "AccessSupplierInput",
       "description": "Supplier input for data access management API",
-      "url": "undefined/inputobjects/accesssupplierinput"
+      "url": "/travelgatex/reference/inputobjects/accesssupplierinput"
     },
     {
       "name": "SupplierGroupInput",
       "description": "group related to a supplier",
-      "url": "undefined/inputobjects/suppliergroupinput"
+      "url": "/travelgatex/reference/inputobjects/suppliergroupinput"
     },
     {
       "name": "DefaultSettingsInput",
       "description": "",
-      "url": "undefined/inputobjects/defaultsettingsinput"
+      "url": "/travelgatex/reference/inputobjects/defaultsettingsinput"
     },
     {
       "name": "IdAccessConfigurationInput",
       "description": "",
-      "url": "undefined/inputobjects/idaccessconfigurationinput"
+      "url": "/travelgatex/reference/inputobjects/idaccessconfigurationinput"
     },
     {
       "name": "ConnectUser",
       "description": "Data related to a connected user and its groups",
-      "url": "undefined/objects/connectuser"
+      "url": "/travelgatex/reference/objects/connectuser"
     },
     {
       "name": "ConnectUserGroup",
       "description": "group related to a connect user",
-      "url": "undefined/objects/connectusergroup"
+      "url": "/travelgatex/reference/objects/connectusergroup"
     },
     {
       "name": "DefaultSettings",
       "description": "",
-      "url": "undefined/objects/defaultsettings"
+      "url": "/travelgatex/reference/objects/defaultsettings"
     },
     {
       "name": "MappeaAddOrganizationInput",
       "description": "# AddOrganization",
-      "url": "undefined/inputobjects/mappeaaddorganizationinput"
+      "url": "/travelgatex/reference/inputobjects/mappeaaddorganizationinput"
     },
     {
       "name": "MappeaEditOrganizationInput",
       "description": "# EditOrganization",
-      "url": "undefined/inputobjects/mappeaeditorganizationinput"
+      "url": "/travelgatex/reference/inputobjects/mappeaeditorganizationinput"
     },
     {
       "name": "fake__options",
       "description": "",
-      "url": "undefined/inputobjects/fake__options"
+      "url": "/travelgatex/reference/inputobjects/fake__options"
     }
   ],
   "enumValues": null,

@@ -6,14 +6,14 @@
     {
       "typeString": "StoredCard!",
       "name": "storeCard",
-      "url": "undefined/objects/storedcard",
+      "url": "/paymentx/reference/objects/storedcard",
       "description": "Store Card",
       "isDeprecated": false,
       "args": [
         {
           "typeString": "PaymentXStoreCardInput!",
           "name": "input",
-          "url": "undefined/inputobjects/paymentxstorecardinput",
+          "url": "/paymentx/reference/inputobjects/paymentxstorecardinput",
           "description": ""
         }
       ]
@@ -21,14 +21,14 @@
     {
       "typeString": "StoredCard!",
       "name": "deleteCard",
-      "url": "undefined/objects/storedcard",
+      "url": "/paymentx/reference/objects/storedcard",
       "description": "Delete Card",
       "isDeprecated": false,
       "args": [
         {
           "typeString": "PaymentXBookingInfoDeleteInput!",
           "name": "input",
-          "url": "undefined/inputobjects/paymentxbookinginfodeleteinput",
+          "url": "/paymentx/reference/inputobjects/paymentxbookinginfodeleteinput",
           "description": ""
         }
       ]

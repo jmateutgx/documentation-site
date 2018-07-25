@@ -6,14 +6,14 @@
     {
       "typeString": "Int",
       "name": "optionsQuota",
-      "url": "undefined/scalars/int",
+      "url": "/travelgatex/reference/scalars/int",
       "description": "Options quota per search. Maximum numbers of options to be returned by the search query.",
       "args": null
     },
     {
       "typeString": "BusinessRulesType",
       "name": "businessRulesType",
-      "url": "undefined/enums/businessrulestype",
+      "url": "/travelgatex/reference/enums/businessrulestype",
       "description": "Different business rules to filter the returned options.",
       "args": null
     }
@@ -22,12 +22,12 @@
     {
       "name": "HotelSettingsInput",
       "description": "Settings that you can edit for this avail. Values are loaded by default in our Back Office.",
-      "url": "undefined/inputobjects/hotelsettingsinput"
+      "url": "/travelgatex/reference/inputobjects/hotelsettingsinput"
     },
     {
       "name": "SettingsBaseInput",
       "description": "Contains the time out and business rules of a supplier or an access.",
-      "url": "undefined/inputobjects/settingsbaseinput"
+      "url": "/travelgatex/reference/inputobjects/settingsbaseinput"
     }
   ],
   "enumValues": null,

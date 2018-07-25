@@ -6,7 +6,7 @@
     {
       "typeString": "Int!",
       "name": "id",
-      "url": "undefined/scalars/int",
+      "url": "/travelgatex/reference/scalars/int",
       "description": "Unique ID room in this option.",
       "isDeprecated": false,
       "args": null
@@ -14,7 +14,7 @@
     {
       "typeString": "[Pax!]!",
       "name": "paxes",
-      "url": "undefined/objects/pax",
+      "url": "/travelgatex/reference/objects/pax",
       "description": "List of pax of this occupancy.",
       "isDeprecated": false,
       "args": null

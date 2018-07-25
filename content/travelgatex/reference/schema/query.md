@@ -6,7 +6,7 @@
     {
       "typeString": "AdminQuery",
       "name": "admin",
-      "url": "undefined/objects/adminquery",
+      "url": "/travelgatex/reference/objects/adminquery",
       "description": "The admin query root of TravelgateX's for implementing GraphQL query.",
       "isDeprecated": false,
       "args": null
@@ -14,7 +14,7 @@
     {
       "typeString": "HotelXQuery",
       "name": "hotelX",
-      "url": "undefined/objects/hotelxquery",
+      "url": "/travelgatex/reference/objects/hotelxquery",
       "description": "The hotelX product query root for implementing GraphQL query.",
       "isDeprecated": false,
       "args": null
@@ -22,7 +22,7 @@
     {
       "typeString": "MappeaQuery",
       "name": "mappea",
-      "url": "undefined/objects/mappeaquery",
+      "url": "/travelgatex/reference/objects/mappeaquery",
       "description": "The Mappea product query root for implementing GraphQL query.",
       "isDeprecated": false,
       "args": null
@@ -30,7 +30,7 @@
     {
       "typeString": "PaymentXQuery",
       "name": "paymentX",
-      "url": "undefined/objects/paymentxquery",
+      "url": "/travelgatex/reference/objects/paymentxquery",
       "description": "The PaymentX product query root for implementing GraphQL query.",
       "isDeprecated": false,
       "args": null
@@ -38,7 +38,7 @@
     {
       "typeString": "StatsQuery",
       "name": "stats",
-      "url": "undefined/objects/statsquery",
+      "url": "/travelgatex/reference/objects/statsquery",
       "description": "The Stats product query root for implementing GraphQL query.",
       "isDeprecated": false,
       "args": null

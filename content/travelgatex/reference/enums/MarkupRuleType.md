@@ -7,7 +7,7 @@
     {
       "name": "Rule",
       "description": "",
-      "url": "undefined/objects/rule"
+      "url": "/travelgatex/reference/objects/rule"
     }
   ],
   "enumValues": [

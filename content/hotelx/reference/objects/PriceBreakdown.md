@@ -6,7 +6,7 @@
     {
       "typeString": "Date!",
       "name": "effectiveDate",
-      "url": "undefined/scalars/date",
+      "url": "/hotelx/reference/scalars/date",
       "description": "Start date in which the price becomes effective.",
       "isDeprecated": false,
       "args": null
@@ -14,7 +14,7 @@
     {
       "typeString": "Date!",
       "name": "expireDate",
-      "url": "undefined/scalars/date",
+      "url": "/hotelx/reference/scalars/date",
       "description": "Expire date of price.",
       "isDeprecated": false,
       "args": null
@@ -22,7 +22,7 @@
     {
       "typeString": "Price!",
       "name": "price",
-      "url": "undefined/objects/price",
+      "url": "/hotelx/reference/objects/price",
       "description": "Specifies the daily price.",
       "isDeprecated": false,
       "args": null

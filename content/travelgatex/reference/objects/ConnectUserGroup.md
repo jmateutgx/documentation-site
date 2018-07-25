@@ -6,7 +6,7 @@
     {
       "typeString": "String!",
       "name": "groupCode",
-      "url": "undefined/scalars/string",
+      "url": "/travelgatex/reference/scalars/string",
       "description": "Group code of the group related to this connected user",
       "isDeprecated": false,
       "args": null
@@ -14,7 +14,7 @@
     {
       "typeString": "Boolean!",
       "name": "isActive",
-      "url": "undefined/scalars/boolean",
+      "url": "/travelgatex/reference/scalars/boolean",
       "description": "Indicates if the connect user is active for its connected user",
       "isDeprecated": false,
       "args": null

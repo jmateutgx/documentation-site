@@ -6,7 +6,7 @@
     {
       "typeString": "[RoleEdge]",
       "name": "edges",
-      "url": "undefined/objects/roleedge",
+      "url": "/travelgatex/reference/objects/roleedge",
       "description": "",
       "isDeprecated": false,
       "args": null
@@ -14,7 +14,7 @@
     {
       "typeString": "PageInfo!",
       "name": "pageInfo",
-      "url": "undefined/objects/pageinfo",
+      "url": "/travelgatex/reference/objects/pageinfo",
       "description": "",
       "isDeprecated": false,
       "args": null
@@ -24,22 +24,22 @@
     {
       "name": "AdminQuery",
       "description": "The admin query root of TravelgateX's GraphQL interface.",
-      "url": "undefined/objects/adminquery"
+      "url": "/travelgatex/reference/objects/adminquery"
     },
     {
       "name": "GroupData",
       "description": "",
-      "url": "undefined/objects/groupdata"
+      "url": "/travelgatex/reference/objects/groupdata"
     },
     {
       "name": "MemberData",
       "description": "",
-      "url": "undefined/objects/memberdata"
+      "url": "/travelgatex/reference/objects/memberdata"
     },
     {
       "name": "ResourceData",
       "description": "",
-      "url": "undefined/objects/resourcedata"
+      "url": "/travelgatex/reference/objects/resourcedata"
     }
   ],
   "enumValues": null,

@@ -7,12 +7,12 @@
     {
       "name": "HotelBookingDetail",
       "description": "Contains information about booking",
-      "url": "undefined/objects/hotelbookingdetail"
+      "url": "/hotelx/reference/objects/hotelbookingdetail"
     },
     {
       "name": "HotelCancelDetail",
       "description": "Contains information about cancel",
-      "url": "undefined/objects/hotelcanceldetail"
+      "url": "/hotelx/reference/objects/hotelcanceldetail"
     }
   ],
   "enumValues": [

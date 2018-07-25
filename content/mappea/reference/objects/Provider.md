@@ -6,7 +6,7 @@
     {
       "typeString": "ID!",
       "name": "code",
-      "url": "undefined/scalars/id",
+      "url": "/mappea/reference/scalars/id",
       "description": "",
       "isDeprecated": false,
       "args": null
@@ -14,7 +14,7 @@
     {
       "typeString": "String!",
       "name": "name",
-      "url": "undefined/scalars/string",
+      "url": "/mappea/reference/scalars/string",
       "description": "",
       "isDeprecated": false,
       "args": null
@@ -22,7 +22,7 @@
     {
       "typeString": "Boolean",
       "name": "isActive",
-      "url": "undefined/scalars/boolean",
+      "url": "/mappea/reference/scalars/boolean",
       "description": "",
       "isDeprecated": false,
       "args": null
@@ -30,7 +30,7 @@
     {
       "typeString": "Boolean",
       "name": "isPublic",
-      "url": "undefined/scalars/boolean",
+      "url": "/mappea/reference/scalars/boolean",
       "description": "",
       "isDeprecated": false,
       "args": null
@@ -40,7 +40,7 @@
     {
       "name": "SupplierData",
       "description": "",
-      "url": "undefined/objects/supplierdata"
+      "url": "/mappea/reference/objects/supplierdata"
     }
   ],
   "enumValues": null,

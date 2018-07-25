@@ -7,17 +7,17 @@
     {
       "name": "OrganizationData",
       "description": "",
-      "url": "undefined/objects/organizationdata"
+      "url": "/travelgatex/reference/objects/organizationdata"
     },
     {
       "name": "GroupCommonData",
       "description": "",
-      "url": "undefined/interfaces/groupcommondata"
+      "url": "/travelgatex/reference/interfaces/groupcommondata"
     },
     {
       "name": "GroupData",
       "description": "",
-      "url": "undefined/objects/groupdata"
+      "url": "/travelgatex/reference/objects/groupdata"
     }
   ],
   "enumValues": [

@@ -6,28 +6,28 @@
     {
       "typeString": "URI",
       "name": "search",
-      "url": "undefined/scalars/uri",
+      "url": "/travelgatex/reference/scalars/uri",
       "description": "Specific URL for Availability method.",
       "args": null
     },
     {
       "typeString": "URI",
       "name": "quote",
-      "url": "undefined/scalars/uri",
+      "url": "/travelgatex/reference/scalars/uri",
       "description": "Specific URL for Reservation method.",
       "args": null
     },
     {
       "typeString": "URI",
       "name": "book",
-      "url": "undefined/scalars/uri",
+      "url": "/travelgatex/reference/scalars/uri",
       "description": "Specific URL for Valuation method.",
       "args": null
     },
     {
       "typeString": "URI",
       "name": "generic",
-      "url": "undefined/scalars/uri",
+      "url": "/travelgatex/reference/scalars/uri",
       "description": "Supplier URL used for multiple methods.",
       "args": null
     }
@@ -36,12 +36,12 @@
     {
       "name": "ConfigurationInput",
       "description": "The information and credentials required to access the supplier’s system.",
-      "url": "undefined/inputobjects/configurationinput"
+      "url": "/travelgatex/reference/inputobjects/configurationinput"
     },
     {
       "name": "AccessInput",
       "description": "Access input",
-      "url": "undefined/inputobjects/accessinput"
+      "url": "/travelgatex/reference/inputobjects/accessinput"
     }
   ],
   "enumValues": null,

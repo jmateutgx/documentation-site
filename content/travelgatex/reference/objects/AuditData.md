@@ -6,7 +6,7 @@
     {
       "typeString": "[Transactions!]!",
       "name": "transactions",
-      "url": "undefined/objects/transactions",
+      "url": "/travelgatex/reference/objects/transactions",
       "description": "List of transactions data",
       "isDeprecated": false,
       "args": null
@@ -14,7 +14,7 @@
     {
       "typeString": "DateTime!",
       "name": "timeStamp",
-      "url": "undefined/scalars/datetime",
+      "url": "/travelgatex/reference/scalars/datetime",
       "description": "TimeStamp",
       "isDeprecated": false,
       "args": null
@@ -22,7 +22,7 @@
     {
       "typeString": "Float!",
       "name": "processTime",
-      "url": "undefined/scalars/float",
+      "url": "/travelgatex/reference/scalars/float",
       "description": "Process time in milliseconds (ms)",
       "isDeprecated": false,
       "args": null
@@ -32,32 +32,32 @@
     {
       "name": "HotelSearch",
       "description": "Results from Avail Hotel; contains all the available options for a given date and itinerary",
-      "url": "undefined/objects/hotelsearch"
+      "url": "/travelgatex/reference/objects/hotelsearch"
     },
     {
       "name": "Response",
       "description": "",
-      "url": "undefined/interfaces/response"
+      "url": "/travelgatex/reference/interfaces/response"
     },
     {
       "name": "HotelQuote",
       "description": "",
-      "url": "undefined/objects/hotelquote"
+      "url": "/travelgatex/reference/objects/hotelquote"
     },
     {
       "name": "HotelBooking",
       "description": "",
-      "url": "undefined/objects/hotelbooking"
+      "url": "/travelgatex/reference/objects/hotelbooking"
     },
     {
       "name": "HotelBookPayload",
       "description": "",
-      "url": "undefined/objects/hotelbookpayload"
+      "url": "/travelgatex/reference/objects/hotelbookpayload"
     },
     {
       "name": "HotelCancelPayload",
       "description": "",
-      "url": "undefined/objects/hotelcancelpayload"
+      "url": "/travelgatex/reference/objects/hotelcancelpayload"
     }
   ],
   "enumValues": null,

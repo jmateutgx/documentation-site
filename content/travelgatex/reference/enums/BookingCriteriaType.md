@@ -7,7 +7,7 @@
     {
       "name": "HotelCriteriaBookingInput",
       "description": "Criteria of book contains basic information to find a book or books.",
-      "url": "undefined/inputobjects/hotelcriteriabookinginput"
+      "url": "/travelgatex/reference/inputobjects/hotelcriteriabookinginput"
     }
   ],
   "enumValues": [

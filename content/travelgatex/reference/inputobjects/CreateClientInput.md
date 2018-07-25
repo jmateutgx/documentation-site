@@ -6,21 +6,21 @@
     {
       "typeString": "String!",
       "name": "name",
-      "url": "undefined/scalars/string",
+      "url": "/travelgatex/reference/scalars/string",
       "description": "Client complete name",
       "args": null
     },
     {
       "typeString": "Boolean!",
       "name": "isActive",
-      "url": "undefined/scalars/boolean",
+      "url": "/travelgatex/reference/scalars/boolean",
       "description": "Indicates whether a Client is active or inactive",
       "args": null
     },
     {
       "typeString": "String!",
       "name": "group",
-      "url": "undefined/scalars/string",
+      "url": "/travelgatex/reference/scalars/string",
       "description": "Group where the client will be assigned at first",
       "args": null
     }

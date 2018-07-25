@@ -7,7 +7,7 @@
     {
       "name": "AdviseMessage",
       "description": "List of advise messages.",
-      "url": "undefined/interfaces/advisemessage"
+      "url": "/travelgatex/reference/interfaces/advisemessage"
     }
   ],
   "enumValues": [

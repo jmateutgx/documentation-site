@@ -6,7 +6,7 @@
     {
       "typeString": "[AccessEdge]",
       "name": "edges",
-      "url": "undefined/objects/accessedge",
+      "url": "/stats/reference/objects/accessedge",
       "description": "",
       "isDeprecated": false,
       "args": null
@@ -14,7 +14,7 @@
     {
       "typeString": "PageInfo!",
       "name": "pageInfo",
-      "url": "undefined/objects/pageinfo",
+      "url": "/stats/reference/objects/pageinfo",
       "description": "",
       "isDeprecated": false,
       "args": null
@@ -24,12 +24,12 @@
     {
       "name": "SupplierData",
       "description": "",
-      "url": "undefined/objects/supplierdata"
+      "url": "/stats/reference/objects/supplierdata"
     },
     {
       "name": "GroupData",
       "description": "",
-      "url": "undefined/objects/groupdata"
+      "url": "/stats/reference/objects/groupdata"
     }
   ],
   "enumValues": null,

@@ -6,7 +6,7 @@
     {
       "typeString": "GetUploadedFilesData",
       "name": "data",
-      "url": "undefined/objects/getuploadedfilesdata",
+      "url": "/mappea/reference/objects/getuploadedfilesdata",
       "description": "",
       "isDeprecated": false,
       "args": null
@@ -14,7 +14,7 @@
     {
       "typeString": "Error",
       "name": "error",
-      "url": "undefined/objects/error",
+      "url": "/mappea/reference/objects/error",
       "description": "",
       "isDeprecated": false,
       "args": null
@@ -22,7 +22,7 @@
     {
       "typeString": "[Warning]",
       "name": "warnings",
-      "url": "undefined/objects/warning",
+      "url": "/mappea/reference/objects/warning",
       "description": "",
       "isDeprecated": false,
       "args": null
@@ -32,7 +32,7 @@
     {
       "name": "MappeaQuery",
       "description": "",
-      "url": "undefined/objects/mappeaquery"
+      "url": "/mappea/reference/objects/mappeaquery"
     }
   ],
   "enumValues": null,

@@ -6,7 +6,7 @@
     {
       "typeString": "String!",
       "name": "cursor",
-      "url": "undefined/scalars/string",
+      "url": "/hotelx/reference/scalars/string",
       "description": "",
       "isDeprecated": false,
       "args": null
@@ -14,7 +14,7 @@
     {
       "typeString": "RoomStatic",
       "name": "node",
-      "url": "undefined/objects/roomstatic",
+      "url": "/hotelx/reference/objects/roomstatic",
       "description": "",
       "isDeprecated": false,
       "args": null
@@ -24,7 +24,7 @@
     {
       "name": "RoomConnection",
       "description": "RoomList definition",
-      "url": "undefined/objects/roomconnection"
+      "url": "/hotelx/reference/objects/roomconnection"
     }
   ],
   "enumValues": null,

@@ -6,7 +6,7 @@
     {
       "typeString": "Currency!",
       "name": "currency",
-      "url": "undefined/scalars/currency",
+      "url": "/hotelx/reference/scalars/currency",
       "description": "Provide information about the currency of origin",
       "isDeprecated": false,
       "args": null
@@ -14,7 +14,7 @@
     {
       "typeString": "Float!",
       "name": "rate",
-      "url": "undefined/scalars/float",
+      "url": "/hotelx/reference/scalars/float",
       "description": "Provides information about the rate applied over results",
       "isDeprecated": false,
       "args": null
@@ -24,12 +24,12 @@
     {
       "name": "Price",
       "description": "Price indicates the value of the room/option.\nSupplements and/or surcharges can be included into the price, and will be verified with nodes Supplements/Surcharges.",
-      "url": "undefined/objects/price"
+      "url": "/hotelx/reference/objects/price"
     },
     {
       "name": "Markup",
       "description": "Informs markup applied over supplier price.",
-      "url": "undefined/objects/markup"
+      "url": "/hotelx/reference/objects/markup"
     }
   ],
   "enumValues": null,

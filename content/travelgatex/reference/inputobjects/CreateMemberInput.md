@@ -6,42 +6,42 @@
     {
       "typeString": "ID",
       "name": "member",
-      "url": "undefined/scalars/id",
+      "url": "/travelgatex/reference/scalars/id",
       "description": "",
       "args": null
     },
     {
       "typeString": "String",
       "name": "info",
-      "url": "undefined/scalars/string",
+      "url": "/travelgatex/reference/scalars/string",
       "description": "",
       "args": null
     },
     {
       "typeString": "MemberType!",
       "name": "type",
-      "url": "undefined/enums/membertype",
+      "url": "/travelgatex/reference/enums/membertype",
       "description": "",
       "args": null
     },
     {
       "typeString": "ID!",
       "name": "group",
-      "url": "undefined/scalars/id",
+      "url": "/travelgatex/reference/scalars/id",
       "description": "",
       "args": null
     },
     {
       "typeString": "ID!",
       "name": "role",
-      "url": "undefined/scalars/id",
+      "url": "/travelgatex/reference/scalars/id",
       "description": "",
       "args": null
     },
     {
       "typeString": "[ID!]!",
       "name": "resources",
-      "url": "undefined/scalars/id",
+      "url": "/travelgatex/reference/scalars/id",
       "description": "",
       "args": null
     }

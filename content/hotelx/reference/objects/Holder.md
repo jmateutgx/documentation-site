@@ -6,7 +6,7 @@
     {
       "typeString": "String!",
       "name": "name",
-      "url": "undefined/scalars/string",
+      "url": "/hotelx/reference/scalars/string",
       "description": "Holder's name",
       "isDeprecated": false,
       "args": null
@@ -14,7 +14,7 @@
     {
       "typeString": "String!",
       "name": "surname",
-      "url": "undefined/scalars/string",
+      "url": "/hotelx/reference/scalars/string",
       "description": "Holder's surname",
       "isDeprecated": false,
       "args": null
@@ -24,7 +24,7 @@
     {
       "name": "HotelBookingDetail",
       "description": "Contains information about booking",
-      "url": "undefined/objects/hotelbookingdetail"
+      "url": "/hotelx/reference/objects/hotelbookingdetail"
     }
   ],
   "enumValues": null,

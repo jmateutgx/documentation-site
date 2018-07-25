@@ -7,7 +7,7 @@
     {
       "name": "Rule",
       "description": "",
-      "url": "undefined/objects/rule"
+      "url": "/hotelx/reference/objects/rule"
     }
   ],
   "enumValues": [

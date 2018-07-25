@@ -6,7 +6,7 @@
     {
       "typeString": "String!",
       "name": "cursor",
-      "url": "undefined/scalars/string",
+      "url": "/travelgatex/reference/scalars/string",
       "description": "",
       "isDeprecated": false,
       "args": null
@@ -14,7 +14,7 @@
     {
       "typeString": "Profile",
       "name": "node",
-      "url": "undefined/objects/profile",
+      "url": "/travelgatex/reference/objects/profile",
       "description": "",
       "isDeprecated": false,
       "args": null
@@ -24,7 +24,7 @@
     {
       "name": "ProfileConnection",
       "description": "",
-      "url": "undefined/objects/profileconnection"
+      "url": "/travelgatex/reference/objects/profileconnection"
     }
   ],
   "enumValues": null,

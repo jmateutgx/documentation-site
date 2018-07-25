@@ -6,7 +6,7 @@
     {
       "typeString": "ID!",
       "name": "code",
-      "url": "undefined/scalars/id",
+      "url": "/paymentx/reference/scalars/id",
       "description": "",
       "isDeprecated": false,
       "args": null
@@ -14,7 +14,7 @@
     {
       "typeString": "PointOfSaleData",
       "name": "pointOfSaleData",
-      "url": "undefined/objects/pointofsaledata",
+      "url": "/paymentx/reference/objects/pointofsaledata",
       "description": "",
       "isDeprecated": false,
       "args": null
@@ -22,7 +22,7 @@
     {
       "typeString": "DateTime!",
       "name": "createdAt",
-      "url": "undefined/scalars/datetime",
+      "url": "/paymentx/reference/scalars/datetime",
       "description": "Create date",
       "isDeprecated": false,
       "args": null
@@ -30,7 +30,7 @@
     {
       "typeString": "DateTime!",
       "name": "updatedAt",
-      "url": "undefined/scalars/datetime",
+      "url": "/paymentx/reference/scalars/datetime",
       "description": "Update date",
       "isDeprecated": false,
       "args": null
@@ -38,14 +38,14 @@
     {
       "typeString": "[AdviseMessage!]",
       "name": "adviseMessage",
-      "url": "undefined/interfaces/advisemessage",
+      "url": "/paymentx/reference/interfaces/advisemessage",
       "description": "List of advise messages.",
       "isDeprecated": false,
       "args": [
         {
           "typeString": "[AdviseMessageLevel]",
           "name": "level",
-          "url": "undefined/enums/advisemessagelevel",
+          "url": "/paymentx/reference/enums/advisemessagelevel",
           "description": ""
         }
       ]
@@ -55,7 +55,7 @@
     {
       "name": "PaymentXBookingInfo",
       "description": "",
-      "url": "undefined/objects/paymentxbookinginfo"
+      "url": "/paymentx/reference/objects/paymentxbookinginfo"
     }
   ],
   "enumValues": null,

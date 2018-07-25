@@ -6,7 +6,7 @@
     {
       "typeString": "ID!",
       "name": "code",
-      "url": "undefined/scalars/id",
+      "url": "/travelgatex/reference/scalars/id",
       "description": "",
       "isDeprecated": false,
       "args": null
@@ -14,7 +14,7 @@
     {
       "typeString": "PointOfSaleData",
       "name": "pointOfSaleData",
-      "url": "undefined/objects/pointofsaledata",
+      "url": "/travelgatex/reference/objects/pointofsaledata",
       "description": "",
       "isDeprecated": false,
       "args": null
@@ -22,7 +22,7 @@
     {
       "typeString": "DateTime!",
       "name": "createdAt",
-      "url": "undefined/scalars/datetime",
+      "url": "/travelgatex/reference/scalars/datetime",
       "description": "Create date",
       "isDeprecated": false,
       "args": null
@@ -30,7 +30,7 @@
     {
       "typeString": "DateTime!",
       "name": "updatedAt",
-      "url": "undefined/scalars/datetime",
+      "url": "/travelgatex/reference/scalars/datetime",
       "description": "Update date",
       "isDeprecated": false,
       "args": null
@@ -38,14 +38,14 @@
     {
       "typeString": "[AdviseMessage!]",
       "name": "adviseMessage",
-      "url": "undefined/interfaces/advisemessage",
+      "url": "/travelgatex/reference/interfaces/advisemessage",
       "description": "List of advise messages.",
       "isDeprecated": false,
       "args": [
         {
           "typeString": "[AdviseMessageLevel]",
           "name": "level",
-          "url": "undefined/enums/advisemessagelevel",
+          "url": "/travelgatex/reference/enums/advisemessagelevel",
           "description": ""
         }
       ]
@@ -55,12 +55,12 @@
     {
       "name": "PointOfSaleEdge",
       "description": "",
-      "url": "undefined/objects/pointofsaleedge"
+      "url": "/travelgatex/reference/objects/pointofsaleedge"
     },
     {
       "name": "PaymentXBookingInfo",
       "description": "",
-      "url": "undefined/objects/paymentxbookinginfo"
+      "url": "/travelgatex/reference/objects/paymentxbookinginfo"
     }
   ],
   "enumValues": null,

@@ -6,7 +6,7 @@
     {
       "typeString": "String!",
       "name": "code",
-      "url": "undefined/scalars/string",
+      "url": "/travelgatex/reference/scalars/string",
       "description": "Client code",
       "isDeprecated": false,
       "args": null
@@ -14,14 +14,14 @@
     {
       "typeString": "[Map!]",
       "name": "contexts",
-      "url": "undefined/objects/map",
+      "url": "/travelgatex/reference/objects/map",
       "description": "You can filter by output context.",
       "isDeprecated": false,
       "args": [
         {
           "typeString": "[String!]",
           "name": "codes",
-          "url": "undefined/scalars/string",
+          "url": "/travelgatex/reference/scalars/string",
           "description": ""
         }
       ]

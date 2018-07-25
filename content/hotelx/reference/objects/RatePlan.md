@@ -6,7 +6,7 @@
     {
       "typeString": "String!",
       "name": "code",
-      "url": "undefined/scalars/string",
+      "url": "/hotelx/reference/scalars/string",
       "description": "Specifies the rate code.",
       "isDeprecated": false,
       "args": null
@@ -14,7 +14,7 @@
     {
       "typeString": "String",
       "name": "name",
-      "url": "undefined/scalars/string",
+      "url": "/hotelx/reference/scalars/string",
       "description": "Specifies the rate name.",
       "isDeprecated": false,
       "args": null
@@ -22,7 +22,7 @@
     {
       "typeString": "Date",
       "name": "effectiveDate",
-      "url": "undefined/scalars/date",
+      "url": "/hotelx/reference/scalars/date",
       "description": "Start date in which the rate becomes effective.",
       "isDeprecated": false,
       "args": null
@@ -30,7 +30,7 @@
     {
       "typeString": "Date",
       "name": "expireDate",
-      "url": "undefined/scalars/date",
+      "url": "/hotelx/reference/scalars/date",
       "description": "Expire date of the rate.",
       "isDeprecated": false,
       "args": null

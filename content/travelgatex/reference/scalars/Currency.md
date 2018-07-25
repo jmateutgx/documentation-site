@@ -7,52 +7,52 @@
     {
       "name": "HotelCriteriaSearchInput",
       "description": "Search criteria contains destination, travel dates and the number of pax in each room.\nYou must preload the other fields in our system by complete the fields absents.",
-      "url": "undefined/inputobjects/hotelcriteriasearchinput"
+      "url": "/travelgatex/reference/inputobjects/hotelcriteriasearchinput"
     },
     {
       "name": "CriteriaSearch",
       "description": "Search criteria contains destination, travel dates and the number of pax in each room.",
-      "url": "undefined/objects/criteriasearch"
+      "url": "/travelgatex/reference/objects/criteriasearch"
     },
     {
       "name": "Price",
       "description": "Price indicates the value of the room/option.\nSupplements and/or surcharges can be included into the price, and will be verified with nodes Supplements/Surcharges.",
-      "url": "undefined/objects/price"
+      "url": "/travelgatex/reference/objects/price"
     },
     {
       "name": "Priceable",
       "description": "",
-      "url": "undefined/interfaces/priceable"
+      "url": "/travelgatex/reference/interfaces/priceable"
     },
     {
       "name": "Exchange",
       "description": "Provides information about the currency of original, and its rate applied over the results returned by the Supplier.",
-      "url": "undefined/objects/exchange"
+      "url": "/travelgatex/reference/objects/exchange"
     },
     {
       "name": "Markup",
       "description": "Informs markup applied over supplier price.",
-      "url": "undefined/objects/markup"
+      "url": "/travelgatex/reference/objects/markup"
     },
     {
       "name": "CancelPenalty",
       "description": "Contains information for cancellation penalities..",
-      "url": "undefined/objects/cancelpenalty"
+      "url": "/travelgatex/reference/objects/cancelpenalty"
     },
     {
       "name": "CriteriaBookingReferencesInput",
       "description": "Criteria by references",
-      "url": "undefined/inputobjects/criteriabookingreferencesinput"
+      "url": "/travelgatex/reference/inputobjects/criteriabookingreferencesinput"
     },
     {
       "name": "DefaultSettingsInput",
       "description": "",
-      "url": "undefined/inputobjects/defaultsettingsinput"
+      "url": "/travelgatex/reference/inputobjects/defaultsettingsinput"
     },
     {
       "name": "DefaultSettings",
       "description": "",
-      "url": "undefined/objects/defaultsettings"
+      "url": "/travelgatex/reference/objects/defaultsettings"
     }
   ],
   "enumValues": null,

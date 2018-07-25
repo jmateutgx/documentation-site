@@ -6,14 +6,14 @@
     {
       "typeString": "PluginStepType!",
       "name": "step",
-      "url": "undefined/enums/pluginsteptype",
+      "url": "/travelgatex/reference/enums/pluginsteptype",
       "description": "Indicates where the plugin will be executed.",
       "args": null
     },
     {
       "typeString": "[PluginsInput!]",
       "name": "pluginsType",
-      "url": "undefined/inputobjects/pluginsinput",
+      "url": "/travelgatex/reference/inputobjects/pluginsinput",
       "description": "Indicates the plugin that will be executed.",
       "args": null
     }

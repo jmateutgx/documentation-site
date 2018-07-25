@@ -6,7 +6,7 @@
     {
       "typeString": "String!",
       "name": "cursor",
-      "url": "undefined/scalars/string",
+      "url": "/paymentx/reference/scalars/string",
       "description": "",
       "isDeprecated": false,
       "args": null
@@ -14,7 +14,7 @@
     {
       "typeString": "StoredCard",
       "name": "node",
-      "url": "undefined/objects/storedcard",
+      "url": "/paymentx/reference/objects/storedcard",
       "description": "",
       "isDeprecated": false,
       "args": null
@@ -24,7 +24,7 @@
     {
       "name": "StoredCardConnection",
       "description": "",
-      "url": "undefined/objects/storedcardconnection"
+      "url": "/paymentx/reference/objects/storedcardconnection"
     }
   ],
   "enumValues": null,

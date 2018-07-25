@@ -6,21 +6,21 @@
     {
       "typeString": "ID!",
       "name": "code",
-      "url": "undefined/scalars/id",
+      "url": "/travelgatex/reference/scalars/id",
       "description": "ID identifier of a Client",
       "args": null
     },
     {
       "typeString": "String",
       "name": "name",
-      "url": "undefined/scalars/string",
+      "url": "/travelgatex/reference/scalars/string",
       "description": "Client complete name",
       "args": null
     },
     {
       "typeString": "Boolean",
       "name": "isActive",
-      "url": "undefined/scalars/boolean",
+      "url": "/travelgatex/reference/scalars/boolean",
       "description": "Indicates whether a Client is active or inactive",
       "args": null
     }

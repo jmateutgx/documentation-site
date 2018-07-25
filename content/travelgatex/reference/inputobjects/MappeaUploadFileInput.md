@@ -6,28 +6,28 @@
     {
       "typeString": "String!",
       "name": "requestId",
-      "url": "undefined/scalars/string",
+      "url": "/travelgatex/reference/scalars/string",
       "description": "",
       "args": null
     },
     {
       "typeString": "String",
       "name": "fileName",
-      "url": "undefined/scalars/string",
+      "url": "/travelgatex/reference/scalars/string",
       "description": "",
       "args": null
     },
     {
       "typeString": "String!",
       "name": "delimiter",
-      "url": "undefined/scalars/string",
+      "url": "/travelgatex/reference/scalars/string",
       "description": "",
       "args": null
     },
     {
       "typeString": "String!",
       "name": "fileContent",
-      "url": "undefined/scalars/string",
+      "url": "/travelgatex/reference/scalars/string",
       "description": "",
       "args": null
     }

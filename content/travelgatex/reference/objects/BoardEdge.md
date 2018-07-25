@@ -6,7 +6,7 @@
     {
       "typeString": "String!",
       "name": "cursor",
-      "url": "undefined/scalars/string",
+      "url": "/travelgatex/reference/scalars/string",
       "description": "",
       "isDeprecated": false,
       "args": null
@@ -14,7 +14,7 @@
     {
       "typeString": "Board",
       "name": "node",
-      "url": "undefined/objects/board",
+      "url": "/travelgatex/reference/objects/board",
       "description": "",
       "isDeprecated": false,
       "args": null
@@ -24,7 +24,7 @@
     {
       "name": "BoardConnection",
       "description": "BoardList definition",
-      "url": "undefined/objects/boardconnection"
+      "url": "/travelgatex/reference/objects/boardconnection"
     }
   ],
   "enumValues": null,

@@ -6,7 +6,7 @@
     {
       "typeString": "Price!",
       "name": "price",
-      "url": "undefined/objects/price",
+      "url": "/travelgatex/reference/objects/price",
       "description": "Total price for all days.",
       "isDeprecated": false,
       "args": null
@@ -14,7 +14,7 @@
     {
       "typeString": "[PriceBreakdown!]",
       "name": "breakdown",
-      "url": "undefined/objects/pricebreakdown",
+      "url": "/travelgatex/reference/objects/pricebreakdown",
       "description": "Daily break downs price.",
       "isDeprecated": false,
       "args": null
@@ -24,7 +24,7 @@
     {
       "name": "Room",
       "description": "Contains the room information of the option returned.",
-      "url": "undefined/objects/room"
+      "url": "/travelgatex/reference/objects/room"
     }
   ],
   "enumValues": null,

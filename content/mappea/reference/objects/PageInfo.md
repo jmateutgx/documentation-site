@@ -6,7 +6,7 @@
     {
       "typeString": "Boolean!",
       "name": "hasNextPage",
-      "url": "undefined/scalars/boolean",
+      "url": "/mappea/reference/scalars/boolean",
       "description": "",
       "isDeprecated": false,
       "args": null
@@ -14,7 +14,7 @@
     {
       "typeString": "Boolean!",
       "name": "hasPreviousPage",
-      "url": "undefined/scalars/boolean",
+      "url": "/mappea/reference/scalars/boolean",
       "description": "",
       "isDeprecated": false,
       "args": null
@@ -22,7 +22,7 @@
     {
       "typeString": "String!",
       "name": "startCursor",
-      "url": "undefined/scalars/string",
+      "url": "/mappea/reference/scalars/string",
       "description": "",
       "isDeprecated": false,
       "args": null
@@ -30,7 +30,7 @@
     {
       "typeString": "String!",
       "name": "endCursor",
-      "url": "undefined/scalars/string",
+      "url": "/mappea/reference/scalars/string",
       "description": "",
       "isDeprecated": false,
       "args": null
@@ -40,7 +40,7 @@
     {
       "name": "AccessConnection",
       "description": "",
-      "url": "undefined/objects/accessconnection"
+      "url": "/mappea/reference/objects/accessconnection"
     }
   ],
   "enumValues": null,

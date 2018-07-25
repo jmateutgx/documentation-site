@@ -7,32 +7,32 @@
     {
       "name": "Ratios",
       "description": "Ratios details",
-      "url": "undefined/objects/ratios"
+      "url": "/stats/reference/objects/ratios"
     },
     {
       "name": "OperationDetailed",
       "description": "Stats information per operation",
-      "url": "undefined/objects/operationdetailed"
+      "url": "/stats/reference/objects/operationdetailed"
     },
     {
       "name": "SupplierData",
       "description": "",
-      "url": "undefined/objects/supplierdata"
+      "url": "/stats/reference/objects/supplierdata"
     },
     {
       "name": "StatsInfo",
       "description": "Details of an specific error",
-      "url": "undefined/objects/statsinfo"
+      "url": "/stats/reference/objects/statsinfo"
     },
     {
       "name": "GroupData",
       "description": "",
-      "url": "undefined/objects/groupdata"
+      "url": "/stats/reference/objects/groupdata"
     },
     {
       "name": "StatsAssert",
       "description": "Assert of an specific error",
-      "url": "undefined/objects/statsassert"
+      "url": "/stats/reference/objects/statsassert"
     }
   ],
   "enumValues": null,

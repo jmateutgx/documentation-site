@@ -6,7 +6,7 @@
     {
       "typeString": "Int!",
       "name": "month",
-      "url": "undefined/scalars/int",
+      "url": "/paymentx/reference/scalars/int",
       "description": "Month MM",
       "isDeprecated": false,
       "args": null
@@ -14,7 +14,7 @@
     {
       "typeString": "Int!",
       "name": "year",
-      "url": "undefined/scalars/int",
+      "url": "/paymentx/reference/scalars/int",
       "description": "Year yy",
       "isDeprecated": false,
       "args": null
@@ -24,7 +24,7 @@
     {
       "name": "PaymentCard",
       "description": "Input PaymentCard, if the payment is done by credit card, is it mandatory to specify the payment type and the credit card information",
-      "url": "undefined/objects/paymentcard"
+      "url": "/paymentx/reference/objects/paymentcard"
     }
   ],
   "enumValues": null,

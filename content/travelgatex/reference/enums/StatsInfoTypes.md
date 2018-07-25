@@ -7,7 +7,7 @@
     {
       "name": "StatsInfo",
       "description": "Details of an specific error",
-      "url": "undefined/objects/statsinfo"
+      "url": "/travelgatex/reference/objects/statsinfo"
     }
   ],
   "enumValues": [

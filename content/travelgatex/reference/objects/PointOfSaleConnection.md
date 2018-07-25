@@ -6,7 +6,7 @@
     {
       "typeString": "[PointOfSaleEdge]",
       "name": "edges",
-      "url": "undefined/objects/pointofsaleedge",
+      "url": "/travelgatex/reference/objects/pointofsaleedge",
       "description": "",
       "isDeprecated": false,
       "args": null
@@ -14,7 +14,7 @@
     {
       "typeString": "PageInfo!",
       "name": "pageInfo",
-      "url": "undefined/objects/pageinfo",
+      "url": "/travelgatex/reference/objects/pageinfo",
       "description": "",
       "isDeprecated": false,
       "args": null
@@ -24,7 +24,7 @@
     {
       "name": "AdminQuery",
       "description": "The admin query root of TravelgateX's GraphQL interface.",
-      "url": "undefined/objects/adminquery"
+      "url": "/travelgatex/reference/objects/adminquery"
     }
   ],
   "enumValues": null,

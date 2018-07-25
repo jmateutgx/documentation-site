@@ -6,7 +6,7 @@
     {
       "typeString": "String!",
       "name": "cursor",
-      "url": "undefined/scalars/string",
+      "url": "/stats/reference/scalars/string",
       "description": "",
       "isDeprecated": false,
       "args": null
@@ -14,7 +14,7 @@
     {
       "typeString": "API",
       "name": "node",
-      "url": "undefined/objects/api",
+      "url": "/stats/reference/objects/api",
       "description": "",
       "isDeprecated": false,
       "args": null
@@ -24,7 +24,7 @@
     {
       "name": "APIConnection",
       "description": "",
-      "url": "undefined/objects/apiconnection"
+      "url": "/stats/reference/objects/apiconnection"
     }
   ],
   "enumValues": null,

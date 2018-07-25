@@ -6,7 +6,7 @@
     {
       "typeString": "DateTime!",
       "name": "startTime",
-      "url": "undefined/scalars/datetime",
+      "url": "/travelgatex/reference/scalars/datetime",
       "description": "Start time of the request",
       "isDeprecated": false,
       "args": null
@@ -14,7 +14,7 @@
     {
       "typeString": "Int!",
       "name": "execTime",
-      "url": "undefined/scalars/int",
+      "url": "/travelgatex/reference/scalars/int",
       "description": "Execution time of the request",
       "isDeprecated": false,
       "args": null
@@ -22,7 +22,7 @@
     {
       "typeString": "URI!",
       "name": "url",
-      "url": "undefined/scalars/uri",
+      "url": "/travelgatex/reference/scalars/uri",
       "description": "Endpoint to download the full XML of the request with its response",
       "isDeprecated": false,
       "args": null

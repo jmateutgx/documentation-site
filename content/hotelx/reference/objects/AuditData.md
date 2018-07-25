@@ -6,7 +6,7 @@
     {
       "typeString": "[Transactions!]!",
       "name": "transactions",
-      "url": "undefined/objects/transactions",
+      "url": "/hotelx/reference/objects/transactions",
       "description": "List of transactions data",
       "isDeprecated": false,
       "args": null
@@ -14,7 +14,7 @@
     {
       "typeString": "DateTime!",
       "name": "timeStamp",
-      "url": "undefined/scalars/datetime",
+      "url": "/hotelx/reference/scalars/datetime",
       "description": "TimeStamp",
       "isDeprecated": false,
       "args": null
@@ -22,7 +22,7 @@
     {
       "typeString": "Float!",
       "name": "processTime",
-      "url": "undefined/scalars/float",
+      "url": "/hotelx/reference/scalars/float",
       "description": "Process time in milliseconds (ms)",
       "isDeprecated": false,
       "args": null
@@ -32,27 +32,27 @@
     {
       "name": "HotelSearch",
       "description": "Results from Avail Hotel; contains all the available options for a given date and itinerary",
-      "url": "undefined/objects/hotelsearch"
+      "url": "/hotelx/reference/objects/hotelsearch"
     },
     {
       "name": "HotelQuote",
       "description": "",
-      "url": "undefined/objects/hotelquote"
+      "url": "/hotelx/reference/objects/hotelquote"
     },
     {
       "name": "HotelBooking",
       "description": "",
-      "url": "undefined/objects/hotelbooking"
+      "url": "/hotelx/reference/objects/hotelbooking"
     },
     {
       "name": "HotelBookPayload",
       "description": "",
-      "url": "undefined/objects/hotelbookpayload"
+      "url": "/hotelx/reference/objects/hotelbookpayload"
     },
     {
       "name": "HotelCancelPayload",
       "description": "",
-      "url": "undefined/objects/hotelcancelpayload"
+      "url": "/hotelx/reference/objects/hotelcancelpayload"
     }
   ],
   "enumValues": null,

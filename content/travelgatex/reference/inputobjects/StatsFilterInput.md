@@ -6,56 +6,56 @@
     {
       "typeString": "[ID!]",
       "name": "groups",
-      "url": "undefined/scalars/id",
+      "url": "/travelgatex/reference/scalars/id",
       "description": "Groups codes list",
       "args": null
     },
     {
       "typeString": "[ID!]",
       "name": "accesses",
-      "url": "undefined/scalars/id",
+      "url": "/travelgatex/reference/scalars/id",
       "description": "List of accesses",
       "args": null
     },
     {
       "typeString": "[ID!]",
       "name": "suppliers",
-      "url": "undefined/scalars/id",
+      "url": "/travelgatex/reference/scalars/id",
       "description": "List of suppliers",
       "args": null
     },
     {
       "typeString": "[ServiceApiType!]",
       "name": "serviceApis",
-      "url": "undefined/enums/serviceapitype",
+      "url": "/travelgatex/reference/enums/serviceapitype",
       "description": "List of services apis",
       "args": null
     },
     {
       "typeString": "[ServiceOperationType!]",
       "name": "operation",
-      "url": "undefined/enums/serviceoperationtype",
+      "url": "/travelgatex/reference/enums/serviceoperationtype",
       "description": "List of services operations",
       "args": null
     },
     {
       "typeString": "[ID!]",
       "name": "serviceOperations",
-      "url": "undefined/scalars/id",
+      "url": "/travelgatex/reference/scalars/id",
       "description": "",
       "args": null
     },
     {
       "typeString": "DateTime!",
       "name": "from",
-      "url": "undefined/scalars/datetime",
+      "url": "/travelgatex/reference/scalars/datetime",
       "description": "From date of search",
       "args": null
     },
     {
       "typeString": "DateTime!",
       "name": "to",
-      "url": "undefined/scalars/datetime",
+      "url": "/travelgatex/reference/scalars/datetime",
       "description": "To date of search",
       "args": null
     }

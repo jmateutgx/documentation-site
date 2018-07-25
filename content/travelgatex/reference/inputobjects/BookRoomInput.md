@@ -6,14 +6,14 @@
     {
       "typeString": "Int!",
       "name": "occupancyRefId",
-      "url": "undefined/scalars/int",
+      "url": "/travelgatex/reference/scalars/int",
       "description": "The room's reference in the booking",
       "args": null
     },
     {
       "typeString": "[BookPaxInput!]!",
       "name": "paxes",
-      "url": "undefined/inputobjects/bookpaxinput",
+      "url": "/travelgatex/reference/inputobjects/bookpaxinput",
       "description": "The list or lists of paxes of the room",
       "args": null
     }

@@ -6,7 +6,7 @@
     {
       "typeString": "String",
       "name": "supplierMapped",
-      "url": "undefined/scalars/string",
+      "url": "/mappea/reference/scalars/string",
       "description": "",
       "isDeprecated": false,
       "args": null
@@ -14,7 +14,7 @@
     {
       "typeString": "String",
       "name": "startTime",
-      "url": "undefined/scalars/string",
+      "url": "/mappea/reference/scalars/string",
       "description": "",
       "isDeprecated": false,
       "args": null
@@ -22,7 +22,7 @@
     {
       "typeString": "String",
       "name": "endTime",
-      "url": "undefined/scalars/string",
+      "url": "/mappea/reference/scalars/string",
       "description": "",
       "isDeprecated": false,
       "args": null
@@ -30,7 +30,7 @@
     {
       "typeString": "Int",
       "name": "organizationHotels",
-      "url": "undefined/scalars/int",
+      "url": "/mappea/reference/scalars/int",
       "description": "",
       "isDeprecated": false,
       "args": null
@@ -38,7 +38,7 @@
     {
       "typeString": "Int",
       "name": "contextHotels",
-      "url": "undefined/scalars/int",
+      "url": "/mappea/reference/scalars/int",
       "description": "",
       "isDeprecated": false,
       "args": null
@@ -46,7 +46,7 @@
     {
       "typeString": "Int",
       "name": "suggestedHotels",
-      "url": "undefined/scalars/int",
+      "url": "/mappea/reference/scalars/int",
       "description": "",
       "isDeprecated": false,
       "args": null
@@ -56,7 +56,7 @@
     {
       "name": "GetMappeaStatsResponse",
       "description": "",
-      "url": "undefined/objects/getmappeastatsresponse"
+      "url": "/mappea/reference/objects/getmappeastatsresponse"
     }
   ],
   "enumValues": null,

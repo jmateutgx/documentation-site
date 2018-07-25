@@ -6,7 +6,7 @@
     {
       "typeString": "String",
       "name": "code",
-      "url": "undefined/scalars/string",
+      "url": "/stats/reference/scalars/string",
       "description": "External Code",
       "isDeprecated": false,
       "args": null
@@ -14,7 +14,7 @@
     {
       "typeString": "String!",
       "name": "message",
-      "url": "undefined/scalars/string",
+      "url": "/stats/reference/scalars/string",
       "description": "External Message",
       "isDeprecated": false,
       "args": null
@@ -24,7 +24,7 @@
     {
       "name": "AdviseMessage",
       "description": "List of advise messages.",
-      "url": "undefined/interfaces/advisemessage"
+      "url": "/stats/reference/interfaces/advisemessage"
     }
   ],
   "enumValues": null,

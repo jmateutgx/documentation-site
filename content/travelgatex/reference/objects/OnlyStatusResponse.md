@@ -6,7 +6,7 @@
     {
       "typeString": "Error",
       "name": "error",
-      "url": "undefined/objects/error",
+      "url": "/travelgatex/reference/objects/error",
       "description": "",
       "isDeprecated": false,
       "args": null
@@ -14,7 +14,7 @@
     {
       "typeString": "[Warning]",
       "name": "warnings",
-      "url": "undefined/objects/warning",
+      "url": "/travelgatex/reference/objects/warning",
       "description": "",
       "isDeprecated": false,
       "args": null
@@ -24,7 +24,7 @@
     {
       "name": "MappeaMutation",
       "description": "",
-      "url": "undefined/objects/mappeamutation"
+      "url": "/travelgatex/reference/objects/mappeamutation"
     }
   ],
   "enumValues": null,

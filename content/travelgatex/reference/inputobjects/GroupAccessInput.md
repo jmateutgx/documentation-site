@@ -6,14 +6,14 @@
     {
       "typeString": "[String!]",
       "name": "groupCodes",
-      "url": "undefined/scalars/string",
+      "url": "/travelgatex/reference/scalars/string",
       "description": "groups identifiers in which the access will be associated",
       "args": null
     },
     {
       "typeString": "[AccessConfigurationInput!]!",
       "name": "accesses",
-      "url": "undefined/inputobjects/accessconfigurationinput",
+      "url": "/travelgatex/reference/inputobjects/accessconfigurationinput",
       "description": "access related data",
       "args": null
     }

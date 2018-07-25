@@ -6,7 +6,7 @@
     {
       "typeString": "[StoredCardEdge]",
       "name": "edges",
-      "url": "undefined/objects/storedcardedge",
+      "url": "/paymentx/reference/objects/storedcardedge",
       "description": "",
       "isDeprecated": false,
       "args": null
@@ -14,7 +14,7 @@
     {
       "typeString": "PageInfo!",
       "name": "pageInfo",
-      "url": "undefined/objects/pageinfo",
+      "url": "/paymentx/reference/objects/pageinfo",
       "description": "",
       "isDeprecated": false,
       "args": null
@@ -24,7 +24,7 @@
     {
       "name": "PaymentXQuery",
       "description": "",
-      "url": "undefined/objects/paymentxquery"
+      "url": "/paymentx/reference/objects/paymentxquery"
     }
   ],
   "enumValues": null,

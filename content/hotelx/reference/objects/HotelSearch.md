@@ -6,7 +6,7 @@
     {
       "typeString": "String",
       "name": "context",
-      "url": "undefined/scalars/string",
+      "url": "/hotelx/reference/scalars/string",
       "description": "Indicates the context of the response.",
       "isDeprecated": false,
       "args": null
@@ -14,14 +14,14 @@
     {
       "typeString": "StatsRequest",
       "name": "stats",
-      "url": "undefined/objects/statsrequest",
+      "url": "/hotelx/reference/objects/statsrequest",
       "description": "Application stats in string format",
       "isDeprecated": false,
       "args": [
         {
           "typeString": "String!",
           "name": "token",
-          "url": "undefined/scalars/string",
+          "url": "/hotelx/reference/scalars/string",
           "description": ""
         }
       ]
@@ -29,7 +29,7 @@
     {
       "typeString": "AuditData",
       "name": "auditData",
-      "url": "undefined/objects/auditdata",
+      "url": "/hotelx/reference/objects/auditdata",
       "description": "Data sent and received in the supplier's native format.",
       "isDeprecated": false,
       "args": null
@@ -37,7 +37,7 @@
     {
       "typeString": "CriteriaSearch",
       "name": "requestCriteria",
-      "url": "undefined/objects/criteriasearch",
+      "url": "/hotelx/reference/objects/criteriasearch",
       "description": "Request Criteria",
       "isDeprecated": false,
       "args": null
@@ -45,7 +45,7 @@
     {
       "typeString": "[HotelOptionSearch!]",
       "name": "options",
-      "url": "undefined/objects/hoteloptionsearch",
+      "url": "/hotelx/reference/objects/hoteloptionsearch",
       "description": "List of options returned according to the request.",
       "isDeprecated": false,
       "args": null
@@ -53,7 +53,7 @@
     {
       "typeString": "[Error!]",
       "name": "errors",
-      "url": "undefined/objects/error",
+      "url": "/hotelx/reference/objects/error",
       "description": "Errors that abort services",
       "isDeprecated": false,
       "args": null
@@ -61,7 +61,7 @@
     {
       "typeString": "[Warning!]",
       "name": "warnings",
-      "url": "undefined/objects/warning",
+      "url": "/hotelx/reference/objects/warning",
       "description": "Potentially harmful situations or errors that won't force the service to abort",
       "isDeprecated": false,
       "args": null
@@ -71,7 +71,7 @@
     {
       "name": "HotelXQuery",
       "description": "",
-      "url": "undefined/objects/hotelxquery"
+      "url": "/hotelx/reference/objects/hotelxquery"
     }
   ],
   "enumValues": null,

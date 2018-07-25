@@ -7,167 +7,167 @@
     {
       "name": "Access",
       "description": "An Access is a set of credentials and configuration in order to access the system of a Supplier.",
-      "url": "undefined/objects/access"
+      "url": "/travelgatex/reference/objects/access"
     },
     {
       "name": "Node",
       "description": "",
-      "url": "undefined/interfaces/node"
+      "url": "/travelgatex/reference/interfaces/node"
     },
     {
       "name": "Supplier",
       "description": "A Supplier is a Partner who is connected to TravelgateX on the supply side in order to sell their product to connected Buyers",
-      "url": "undefined/objects/supplier"
+      "url": "/travelgatex/reference/objects/supplier"
     },
     {
       "name": "Client",
       "description": "Client identifies who is making the request and holds the configuration assigned to it.",
-      "url": "undefined/objects/client"
+      "url": "/travelgatex/reference/objects/client"
     },
     {
       "name": "PointOfSale",
       "description": "",
-      "url": "undefined/objects/pointofsale"
+      "url": "/travelgatex/reference/objects/pointofsale"
     },
     {
       "name": "Profile",
       "description": "",
-      "url": "undefined/objects/profile"
+      "url": "/travelgatex/reference/objects/profile"
     },
     {
       "name": "Entity",
       "description": "",
-      "url": "undefined/objects/entity"
+      "url": "/travelgatex/reference/objects/entity"
     },
     {
       "name": "Organization",
       "description": "Organization node is the root node in the hierarachy, the folders are the children of the organization and the products are the children of the folders.",
-      "url": "undefined/objects/organization"
+      "url": "/travelgatex/reference/objects/organization"
     },
     {
       "name": "Group",
       "description": "Groups are organized hierarchically.",
-      "url": "undefined/objects/group"
+      "url": "/travelgatex/reference/objects/group"
     },
     {
       "name": "Member",
       "description": "You grant access to members which can be either:\nUsers: A developer, administrator or any other person from your Organization who interacts with the TravelgateX Platform. An email address can be used as the identity of a User.\nService Accounts: An application (Client) instead of an individual User. If you prefer, you can create as many Service Accounts as needed to represent different logical components of your application.",
-      "url": "undefined/objects/member"
+      "url": "/travelgatex/reference/objects/member"
     },
     {
       "name": "Role",
       "description": "Permissions determine what operations are allowed on a resource",
-      "url": "undefined/objects/role"
+      "url": "/travelgatex/reference/objects/role"
     },
     {
       "name": "Resource",
       "description": "Resources are those used in APIs and Products.",
-      "url": "undefined/objects/resource"
+      "url": "/travelgatex/reference/objects/resource"
     },
     {
       "name": "API",
       "description": "",
-      "url": "undefined/objects/api"
+      "url": "/travelgatex/reference/objects/api"
     },
     {
       "name": "Operation",
       "description": "",
-      "url": "undefined/objects/operation"
+      "url": "/travelgatex/reference/objects/operation"
     },
     {
       "name": "Product",
       "description": "An APIs collection.",
-      "url": "undefined/objects/product"
+      "url": "/travelgatex/reference/objects/product"
     },
     {
       "name": "Board",
       "description": "Board type.",
-      "url": "undefined/objects/board"
+      "url": "/travelgatex/reference/objects/board"
     },
     {
       "name": "Category",
       "description": "Category Type",
-      "url": "undefined/objects/category"
+      "url": "/travelgatex/reference/objects/category"
     },
     {
       "name": "HotelXHotelFilterInput",
       "description": "By default: Logical AND on all given filters.",
-      "url": "undefined/inputobjects/hotelxhotelfilterinput"
+      "url": "/travelgatex/reference/inputobjects/hotelxhotelfilterinput"
     },
     {
       "name": "Hotel",
       "description": "Hotel Type",
-      "url": "undefined/objects/hotel"
+      "url": "/travelgatex/reference/objects/hotel"
     },
     {
       "name": "Airport",
       "description": "Airport Type",
-      "url": "undefined/objects/airport"
+      "url": "/travelgatex/reference/objects/airport"
     },
     {
       "name": "Media",
       "description": "Contains media information.",
-      "url": "undefined/objects/media"
+      "url": "/travelgatex/reference/objects/media"
     },
     {
       "name": "RoomStatic",
       "description": "Room Type",
-      "url": "undefined/objects/roomstatic"
+      "url": "/travelgatex/reference/objects/roomstatic"
     },
     {
       "name": "Destination",
       "description": "Destination Type",
-      "url": "undefined/objects/destination"
+      "url": "/travelgatex/reference/objects/destination"
     },
     {
       "name": "Stat",
       "description": "",
-      "url": "undefined/objects/stat"
+      "url": "/travelgatex/reference/objects/stat"
     },
     {
       "name": "AuditData",
       "description": "Data sent and received in the supplier’s native format.",
-      "url": "undefined/objects/auditdata"
+      "url": "/travelgatex/reference/objects/auditdata"
     },
     {
       "name": "Transactions",
       "description": "Supplier transaction",
-      "url": "undefined/objects/transactions"
+      "url": "/travelgatex/reference/objects/transactions"
     },
     {
       "name": "PaymentXBookingInfoFilterInput",
       "description": "",
-      "url": "undefined/inputobjects/paymentxbookinginfofilterinput"
+      "url": "/travelgatex/reference/inputobjects/paymentxbookinginfofilterinput"
     },
     {
       "name": "StoredCard",
       "description": "",
-      "url": "undefined/objects/storedcard"
+      "url": "/travelgatex/reference/objects/storedcard"
     },
     {
       "name": "StatsFilterInput",
       "description": "Filters needed to do a search.\nUsers (List of users), Suppliers (List of suppliers), ServiceApis (List of service apis), From (Start date of search - YYYY-MM-DD HH:mm:ss), To (End date of search - YYYY-MM-DD HH:mm:ss)",
-      "url": "undefined/inputobjects/statsfilterinput"
+      "url": "/travelgatex/reference/inputobjects/statsfilterinput"
     },
     {
       "name": "Stats",
       "description": "The service used to access the stats of every connection that uses the HUB",
-      "url": "undefined/objects/stats"
+      "url": "/travelgatex/reference/objects/stats"
     },
     {
       "name": "StatsData",
       "description": "",
-      "url": "undefined/objects/statsdata"
+      "url": "/travelgatex/reference/objects/statsdata"
     },
     {
       "name": "StatsAssert",
       "description": "Assert of an specific error",
-      "url": "undefined/objects/statsassert"
+      "url": "/travelgatex/reference/objects/statsassert"
     },
     {
       "name": "Context",
       "description": "Context type. Currently, only Code is necessary.",
-      "url": "undefined/objects/context"
+      "url": "/travelgatex/reference/objects/context"
     }
   ],
   "enumValues": null,

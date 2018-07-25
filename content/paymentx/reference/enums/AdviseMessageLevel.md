@@ -7,7 +7,7 @@
     {
       "name": "AdviseMessage",
       "description": "List of advise messages.",
-      "url": "undefined/interfaces/advisemessage"
+      "url": "/paymentx/reference/interfaces/advisemessage"
     }
   ],
   "enumValues": [

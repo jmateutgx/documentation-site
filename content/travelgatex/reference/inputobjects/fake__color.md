@@ -6,21 +6,21 @@
     {
       "typeString": "Int",
       "name": "red255",
-      "url": "undefined/scalars/int",
+      "url": "/travelgatex/reference/scalars/int",
       "description": "",
       "args": null
     },
     {
       "typeString": "Int",
       "name": "green255",
-      "url": "undefined/scalars/int",
+      "url": "/travelgatex/reference/scalars/int",
       "description": "",
       "args": null
     },
     {
       "typeString": "Int",
       "name": "blue255",
-      "url": "undefined/scalars/int",
+      "url": "/travelgatex/reference/scalars/int",
       "description": "",
       "args": null
     }
@@ -29,7 +29,7 @@
     {
       "name": "fake__options",
       "description": "",
-      "url": "undefined/inputobjects/fake__options"
+      "url": "/travelgatex/reference/inputobjects/fake__options"
     }
   ],
   "enumValues": null,

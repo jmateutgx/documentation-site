@@ -7,27 +7,27 @@
     {
       "name": "CriteriaSearch",
       "description": "Search criteria contains destination, travel dates and the number of pax in each room.",
-      "url": "undefined/objects/criteriasearch"
+      "url": "/hotelx/reference/objects/criteriasearch"
     },
     {
       "name": "Price",
       "description": "Price indicates the value of the room/option.\nSupplements and/or surcharges can be included into the price, and will be verified with nodes Supplements/Surcharges.",
-      "url": "undefined/objects/price"
+      "url": "/hotelx/reference/objects/price"
     },
     {
       "name": "Exchange",
       "description": "Provides information about the currency of original, and its rate applied over the results returned by the Supplier.",
-      "url": "undefined/objects/exchange"
+      "url": "/hotelx/reference/objects/exchange"
     },
     {
       "name": "Markup",
       "description": "Informs markup applied over supplier price.",
-      "url": "undefined/objects/markup"
+      "url": "/hotelx/reference/objects/markup"
     },
     {
       "name": "CancelPenalty",
       "description": "Contains information for cancellation penalities..",
-      "url": "undefined/objects/cancelpenalty"
+      "url": "/hotelx/reference/objects/cancelpenalty"
     }
   ],
   "enumValues": null,

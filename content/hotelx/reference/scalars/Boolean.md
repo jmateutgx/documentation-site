@@ -7,52 +7,52 @@
     {
       "name": "PageInfo",
       "description": "",
-      "url": "undefined/objects/pageinfo"
+      "url": "/hotelx/reference/objects/pageinfo"
     },
     {
       "name": "HotelData",
       "description": "Hotel data",
-      "url": "undefined/objects/hoteldata"
+      "url": "/hotelx/reference/objects/hoteldata"
     },
     {
       "name": "DestinationData",
       "description": "Information about destinantion",
-      "url": "undefined/objects/destinationdata"
+      "url": "/hotelx/reference/objects/destinationdata"
     },
     {
       "name": "Room",
       "description": "Contains the room information of the option returned.",
-      "url": "undefined/objects/room"
+      "url": "/hotelx/reference/objects/room"
     },
     {
       "name": "Price",
       "description": "Price indicates the value of the room/option.\nSupplements and/or surcharges can be included into the price, and will be verified with nodes Supplements/Surcharges.",
-      "url": "undefined/objects/price"
+      "url": "/hotelx/reference/objects/price"
     },
     {
       "name": "Supplement",
       "description": "Supplement that it can be or its already added to the option returned. Contains all the information about the supplement.",
-      "url": "undefined/objects/supplement"
+      "url": "/hotelx/reference/objects/supplement"
     },
     {
       "name": "Surcharge",
       "description": "Surcharge that it can be or it is already added to the option returned. Contains all the information about the surcharge.",
-      "url": "undefined/objects/surcharge"
+      "url": "/hotelx/reference/objects/surcharge"
     },
     {
       "name": "CancelPolicy",
       "description": "Information about a policy cancellation.",
-      "url": "undefined/objects/cancelpolicy"
+      "url": "/hotelx/reference/objects/cancelpolicy"
     },
     {
       "name": "Bed",
       "description": "Contains information about a bed.",
-      "url": "undefined/objects/bed"
+      "url": "/hotelx/reference/objects/bed"
     },
     {
       "name": "Markup",
       "description": "Informs markup applied over supplier price.",
-      "url": "undefined/objects/markup"
+      "url": "/hotelx/reference/objects/markup"
     }
   ],
   "enumValues": null,

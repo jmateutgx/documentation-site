@@ -6,7 +6,7 @@
     {
       "typeString": "PaymentXBookingInfo!",
       "name": "bookingInfo",
-      "url": "undefined/objects/paymentxbookinginfo",
+      "url": "/travelgatex/reference/objects/paymentxbookinginfo",
       "description": "",
       "isDeprecated": false,
       "args": null
@@ -14,7 +14,7 @@
     {
       "typeString": "PaymentCard!",
       "name": "card",
-      "url": "undefined/objects/paymentcard",
+      "url": "/travelgatex/reference/objects/paymentcard",
       "description": "",
       "isDeprecated": false,
       "args": null
@@ -24,7 +24,7 @@
     {
       "name": "StoredCard",
       "description": "",
-      "url": "undefined/objects/storedcard"
+      "url": "/travelgatex/reference/objects/storedcard"
     }
   ],
   "enumValues": null,

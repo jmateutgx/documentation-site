@@ -6,7 +6,7 @@
     {
       "typeString": "String!",
       "name": "cursor",
-      "url": "undefined/scalars/string",
+      "url": "/hotelx/reference/scalars/string",
       "description": "",
       "isDeprecated": false,
       "args": null
@@ -14,7 +14,7 @@
     {
       "typeString": "Destination",
       "name": "node",
-      "url": "undefined/objects/destination",
+      "url": "/hotelx/reference/objects/destination",
       "description": "",
       "isDeprecated": false,
       "args": null
@@ -24,7 +24,7 @@
     {
       "name": "DestinationConnection",
       "description": "DestinationList definition",
-      "url": "undefined/objects/destinationconnection"
+      "url": "/hotelx/reference/objects/destinationconnection"
     }
   ],
   "enumValues": null,

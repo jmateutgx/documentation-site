@@ -6,7 +6,7 @@
     {
       "typeString": "GetUploadedFilesResponse!",
       "name": "getUploadedFiles",
-      "url": "undefined/objects/getuploadedfilesresponse",
+      "url": "/mappea/reference/objects/getuploadedfilesresponse",
       "description": "",
       "isDeprecated": false,
       "args": null
@@ -14,14 +14,14 @@
     {
       "typeString": "GetMappeaStatsResponse!",
       "name": "getMappeaStats",
-      "url": "undefined/objects/getmappeastatsresponse",
+      "url": "/mappea/reference/objects/getmappeastatsresponse",
       "description": "",
       "isDeprecated": false,
       "args": [
         {
           "typeString": "MappeaGetMappeaStatsInput!",
           "name": "input",
-          "url": "undefined/inputobjects/mappeagetmappeastatsinput",
+          "url": "/mappea/reference/inputobjects/mappeagetmappeastatsinput",
           "description": ""
         }
       ]

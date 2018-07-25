@@ -7,7 +7,7 @@
     {
       "name": "CriteriaBookingDatesInput",
       "description": "Criteria by dates",
-      "url": "undefined/inputobjects/criteriabookingdatesinput"
+      "url": "/travelgatex/reference/inputobjects/criteriabookingdatesinput"
     }
   ],
   "enumValues": [

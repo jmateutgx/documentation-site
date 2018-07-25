@@ -6,14 +6,14 @@
     {
       "typeString": "String!",
       "name": "organizationName",
-      "url": "undefined/scalars/string",
+      "url": "/mappea/reference/scalars/string",
       "description": "",
       "args": null
     },
     {
       "typeString": "String",
       "name": "supplierMapped",
-      "url": "undefined/scalars/string",
+      "url": "/mappea/reference/scalars/string",
       "description": "",
       "args": null
     }

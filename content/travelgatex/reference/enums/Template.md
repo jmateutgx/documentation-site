@@ -7,7 +7,7 @@
     {
       "name": "CreateGroupInput",
       "description": "",
-      "url": "undefined/inputobjects/creategroupinput"
+      "url": "/travelgatex/reference/inputobjects/creategroupinput"
     }
   ],
   "enumValues": [

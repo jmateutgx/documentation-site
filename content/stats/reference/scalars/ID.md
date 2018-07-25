@@ -7,117 +7,117 @@
     {
       "name": "Stats",
       "description": "The service used to access the stats of every connection that uses the HUB",
-      "url": "undefined/objects/stats"
+      "url": "/stats/reference/objects/stats"
     },
     {
       "name": "AdviseMessage",
       "description": "List of advise messages.",
-      "url": "undefined/interfaces/advisemessage"
+      "url": "/stats/reference/interfaces/advisemessage"
     },
     {
       "name": "Access",
       "description": "An Access is a set of credentials and configuration in order to access the system of a Supplier.",
-      "url": "undefined/objects/access"
+      "url": "/stats/reference/objects/access"
     },
     {
       "name": "Client",
       "description": "Client identifies who is making the request and holds the configuration assigned to it.",
-      "url": "undefined/objects/client"
+      "url": "/stats/reference/objects/client"
     },
     {
       "name": "AccessData",
       "description": "",
-      "url": "undefined/objects/accessdata"
+      "url": "/stats/reference/objects/accessdata"
     },
     {
       "name": "Supplier",
       "description": "A Supplier is a Partner who is connected to TravelgateX on the supply side in order to sell their product to connected Buyers",
-      "url": "undefined/objects/supplier"
+      "url": "/stats/reference/objects/supplier"
     },
     {
       "name": "Parameter",
       "description": "Parameters for additional information for the supplier's configuration.",
-      "url": "undefined/objects/parameter"
+      "url": "/stats/reference/objects/parameter"
     },
     {
       "name": "SupplierData",
       "description": "",
-      "url": "undefined/objects/supplierdata"
+      "url": "/stats/reference/objects/supplierdata"
     },
     {
       "name": "Provider",
       "description": "Temporary type to use only during SQL server's lifetime",
-      "url": "undefined/objects/provider"
+      "url": "/stats/reference/objects/provider"
     },
     {
       "name": "ClientData",
       "description": "",
-      "url": "undefined/objects/clientdata"
+      "url": "/stats/reference/objects/clientdata"
     },
     {
       "name": "Operation",
       "description": "",
-      "url": "undefined/objects/operation"
+      "url": "/stats/reference/objects/operation"
     },
     {
       "name": "StatsInfo",
       "description": "Details of an specific error",
-      "url": "undefined/objects/statsinfo"
+      "url": "/stats/reference/objects/statsinfo"
     },
     {
       "name": "OperationData",
       "description": "",
-      "url": "undefined/objects/operationdata"
+      "url": "/stats/reference/objects/operationdata"
     },
     {
       "name": "API",
       "description": "",
-      "url": "undefined/objects/api"
+      "url": "/stats/reference/objects/api"
     },
     {
       "name": "APIData",
       "description": "",
-      "url": "undefined/objects/apidata"
+      "url": "/stats/reference/objects/apidata"
     },
     {
       "name": "Group",
       "description": "Groups are organized hierarchically.",
-      "url": "undefined/objects/group"
+      "url": "/stats/reference/objects/group"
     },
     {
       "name": "GroupData",
       "description": "",
-      "url": "undefined/objects/groupdata"
+      "url": "/stats/reference/objects/groupdata"
     },
     {
       "name": "Member",
       "description": "You grant access to members which can be either:\nUsers: A developer, administrator or any other person from your Organization who interacts with the TravelgateX Platform. An email address can be used as the identity of a User.\nService Accounts: An application (Client) instead of an individual User. If you prefer, you can create as many Service Accounts as needed to represent different logical components of your application.",
-      "url": "undefined/objects/member"
+      "url": "/stats/reference/objects/member"
     },
     {
       "name": "MemberData",
       "description": "",
-      "url": "undefined/objects/memberdata"
+      "url": "/stats/reference/objects/memberdata"
     },
     {
       "name": "Role",
       "description": "Permissions determine what operations are allowed on a resource",
-      "url": "undefined/objects/role"
+      "url": "/stats/reference/objects/role"
     },
     {
       "name": "RoleData",
       "description": "",
-      "url": "undefined/objects/roledata"
+      "url": "/stats/reference/objects/roledata"
     },
     {
       "name": "Resource",
       "description": "Resources are those used in APIs and Products.",
-      "url": "undefined/objects/resource"
+      "url": "/stats/reference/objects/resource"
     },
     {
       "name": "ResourceData",
       "description": "",
-      "url": "undefined/objects/resourcedata"
+      "url": "/stats/reference/objects/resourcedata"
     }
   ],
   "enumValues": null,

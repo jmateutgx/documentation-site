@@ -6,7 +6,7 @@
     {
       "typeString": "String",
       "name": "organization",
-      "url": "undefined/scalars/string",
+      "url": "/paymentx/reference/scalars/string",
       "description": "Responsible organization of the booked property. @deprecated(reason: \"deprecated from 2018-08-03. Please use PaymentXBookingInfoCriteriaInput\")",
       "isDeprecated": true,
       "args": null,
@@ -22,7 +22,7 @@
     {
       "typeString": "ID",
       "name": "pointOfSaleCode",
-      "url": "undefined/scalars/id",
+      "url": "/paymentx/reference/scalars/id",
       "description": "Indicates the code of the booked property. @deprecated(reason: \"deprecated from 2018-08-03. Please use PaymentXBookingInfoCriteriaInput\")",
       "isDeprecated": true,
       "args": null,
@@ -38,7 +38,7 @@
     {
       "typeString": "String",
       "name": "bookingReference",
-      "url": "undefined/scalars/string",
+      "url": "/paymentx/reference/scalars/string",
       "description": "Indicates the referece of the booking. @deprecated(reason: \"deprecated from 2018-08-03. Please use PaymentXBookingInfoCriteriaInput\")",
       "isDeprecated": true,
       "args": null,
@@ -54,98 +54,98 @@
     {
       "typeString": "[PaymentXBookingInfoFilterInput!]",
       "name": "AND",
-      "url": "undefined/inputobjects/paymentxbookinginfofilterinput",
+      "url": "/paymentx/reference/inputobjects/paymentxbookinginfofilterinput",
       "description": "Logical AND on all given filters.",
       "args": null
     },
     {
       "typeString": "[PaymentXBookingInfoFilterInput!]",
       "name": "OR",
-      "url": "undefined/inputobjects/paymentxbookinginfofilterinput",
+      "url": "/paymentx/reference/inputobjects/paymentxbookinginfofilterinput",
       "description": "Logical OR on all given filters.",
       "args": null
     },
     {
       "typeString": "[DateTime!]",
       "name": "checkIn_in",
-      "url": "undefined/scalars/datetime",
+      "url": "/paymentx/reference/scalars/datetime",
       "description": "All values that are contained in given list.",
       "args": null
     },
     {
       "typeString": "[DateTime!]",
       "name": "checkIn_not_in",
-      "url": "undefined/scalars/datetime",
+      "url": "/paymentx/reference/scalars/datetime",
       "description": "All values that are not contained in given list.",
       "args": null
     },
     {
       "typeString": "DateTime",
       "name": "checkIn_lt",
-      "url": "undefined/scalars/datetime",
+      "url": "/paymentx/reference/scalars/datetime",
       "description": "All values less than the given value.",
       "args": null
     },
     {
       "typeString": "DateTime",
       "name": "checkIn_lte",
-      "url": "undefined/scalars/datetime",
+      "url": "/paymentx/reference/scalars/datetime",
       "description": "All values less than or equal the given value.",
       "args": null
     },
     {
       "typeString": "DateTime",
       "name": "checkIn_gt",
-      "url": "undefined/scalars/datetime",
+      "url": "/paymentx/reference/scalars/datetime",
       "description": "All values greater than the given value.",
       "args": null
     },
     {
       "typeString": "DateTime",
       "name": "checkIn_gte",
-      "url": "undefined/scalars/datetime",
+      "url": "/paymentx/reference/scalars/datetime",
       "description": "All values greater than or equal the given value.",
       "args": null
     },
     {
       "typeString": "[DateTime!]",
       "name": "checkOut_in",
-      "url": "undefined/scalars/datetime",
+      "url": "/paymentx/reference/scalars/datetime",
       "description": "All values that are contained in given list.",
       "args": null
     },
     {
       "typeString": "[DateTime!]",
       "name": "checkOut_not_in",
-      "url": "undefined/scalars/datetime",
+      "url": "/paymentx/reference/scalars/datetime",
       "description": "All values that are not contained in given list.",
       "args": null
     },
     {
       "typeString": "DateTime",
       "name": "checkOut_lt",
-      "url": "undefined/scalars/datetime",
+      "url": "/paymentx/reference/scalars/datetime",
       "description": "All values less than the given value.",
       "args": null
     },
     {
       "typeString": "DateTime",
       "name": "checkOut_lte",
-      "url": "undefined/scalars/datetime",
+      "url": "/paymentx/reference/scalars/datetime",
       "description": "All values less than or equal the given value.",
       "args": null
     },
     {
       "typeString": "DateTime",
       "name": "checkOut_gt",
-      "url": "undefined/scalars/datetime",
+      "url": "/paymentx/reference/scalars/datetime",
       "description": "All values greater than the given value.",
       "args": null
     },
     {
       "typeString": "DateTime",
       "name": "checkOut_gte",
-      "url": "undefined/scalars/datetime",
+      "url": "/paymentx/reference/scalars/datetime",
       "description": "All values greater than or equal the given value.",
       "args": null
     }

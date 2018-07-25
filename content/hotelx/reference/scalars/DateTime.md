@@ -7,52 +7,52 @@
     {
       "name": "Board",
       "description": "Board type.",
-      "url": "undefined/objects/board"
+      "url": "/hotelx/reference/objects/board"
     },
     {
       "name": "Category",
       "description": "Category Type",
-      "url": "undefined/objects/category"
+      "url": "/hotelx/reference/objects/category"
     },
     {
       "name": "Hotel",
       "description": "Hotel Type",
-      "url": "undefined/objects/hotel"
+      "url": "/hotelx/reference/objects/hotel"
     },
     {
       "name": "Media",
       "description": "Contains media information.",
-      "url": "undefined/objects/media"
+      "url": "/hotelx/reference/objects/media"
     },
     {
       "name": "Airport",
       "description": "Airport Type",
-      "url": "undefined/objects/airport"
+      "url": "/hotelx/reference/objects/airport"
     },
     {
       "name": "RoomStatic",
       "description": "Room Type",
-      "url": "undefined/objects/roomstatic"
+      "url": "/hotelx/reference/objects/roomstatic"
     },
     {
       "name": "Destination",
       "description": "Destination Type",
-      "url": "undefined/objects/destination"
+      "url": "/hotelx/reference/objects/destination"
     },
     {
       "name": "AuditData",
       "description": "Data sent and received in the supplier’s native format.",
-      "url": "undefined/objects/auditdata"
+      "url": "/hotelx/reference/objects/auditdata"
     },
     {
       "name": "Stat",
       "description": "",
-      "url": "undefined/objects/stat"
+      "url": "/hotelx/reference/objects/stat"
     },
     {
       "name": "Transactions",
       "description": "Supplier transaction",
-      "url": "undefined/objects/transactions"
+      "url": "/hotelx/reference/objects/transactions"
     }
   ],
   "enumValues": null,

@@ -6,7 +6,7 @@
     {
       "typeString": "[EntityEdge]",
       "name": "edges",
-      "url": "undefined/objects/entityedge",
+      "url": "/travelgatex/reference/objects/entityedge",
       "description": "",
       "isDeprecated": false,
       "args": null
@@ -14,7 +14,7 @@
     {
       "typeString": "PageInfo!",
       "name": "pageInfo",
-      "url": "undefined/objects/pageinfo",
+      "url": "/travelgatex/reference/objects/pageinfo",
       "description": "",
       "isDeprecated": false,
       "args": null
@@ -24,7 +24,7 @@
     {
       "name": "ProfileData",
       "description": "Profile data",
-      "url": "undefined/objects/profiledata"
+      "url": "/travelgatex/reference/objects/profiledata"
     }
   ],
   "enumValues": null,

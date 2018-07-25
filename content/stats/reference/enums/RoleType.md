@@ -7,7 +7,7 @@
     {
       "name": "RoleData",
       "description": "",
-      "url": "undefined/objects/roledata"
+      "url": "/stats/reference/objects/roledata"
     }
   ],
   "enumValues": [

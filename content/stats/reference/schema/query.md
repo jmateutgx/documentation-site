@@ -6,38 +6,38 @@
     {
       "typeString": "StatsConnection!",
       "name": "report",
-      "url": "undefined/objects/statsconnection",
+      "url": "/stats/reference/objects/statsconnection",
       "description": "The report query, represents all of the entry points into our object graph",
       "isDeprecated": false,
       "args": [
         {
           "typeString": "StatsFilterInput!",
           "name": "filter",
-          "url": "undefined/inputobjects/statsfilterinput",
+          "url": "/stats/reference/inputobjects/statsfilterinput",
           "description": ""
         },
         {
           "typeString": "Int",
           "name": "first",
-          "url": "undefined/scalars/int",
+          "url": "/stats/reference/scalars/int",
           "description": ""
         },
         {
           "typeString": "Int",
           "name": "last",
-          "url": "undefined/scalars/int",
+          "url": "/stats/reference/scalars/int",
           "description": ""
         },
         {
           "typeString": "String",
           "name": "before",
-          "url": "undefined/scalars/string",
+          "url": "/stats/reference/scalars/string",
           "description": ""
         },
         {
           "typeString": "String",
           "name": "after",
-          "url": "undefined/scalars/string",
+          "url": "/stats/reference/scalars/string",
           "description": ""
         }
       ]

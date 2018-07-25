@@ -6,14 +6,14 @@
     {
       "typeString": "OnlyStatusResponse!",
       "name": "confirmUpload",
-      "url": "undefined/objects/onlystatusresponse",
+      "url": "/travelgatex/reference/objects/onlystatusresponse",
       "description": "",
       "isDeprecated": false,
       "args": [
         {
           "typeString": "MappeaConfirmUploadInput!",
           "name": "input",
-          "url": "undefined/inputobjects/mappeaconfirmuploadinput",
+          "url": "/travelgatex/reference/inputobjects/mappeaconfirmuploadinput",
           "description": ""
         }
       ]
@@ -21,14 +21,14 @@
     {
       "typeString": "UploadFileResponse!",
       "name": "uploadFile",
-      "url": "undefined/objects/uploadfileresponse",
+      "url": "/travelgatex/reference/objects/uploadfileresponse",
       "description": "",
       "isDeprecated": false,
       "args": [
         {
           "typeString": "MappeaUploadFileInput!",
           "name": "input",
-          "url": "undefined/inputobjects/mappeauploadfileinput",
+          "url": "/travelgatex/reference/inputobjects/mappeauploadfileinput",
           "description": ""
         }
       ]
@@ -36,14 +36,14 @@
     {
       "typeString": "OnlyStatusResponse!",
       "name": "mapSupplier",
-      "url": "undefined/objects/onlystatusresponse",
+      "url": "/travelgatex/reference/objects/onlystatusresponse",
       "description": "",
       "isDeprecated": false,
       "args": [
         {
           "typeString": "MappeaMapSupplierInput!",
           "name": "input",
-          "url": "undefined/inputobjects/mappeamapsupplierinput",
+          "url": "/travelgatex/reference/inputobjects/mappeamapsupplierinput",
           "description": ""
         }
       ]
@@ -53,7 +53,7 @@
     {
       "name": "Mutation",
       "description": "The root query for implementing GraphQL mutations. Mutations are operations that change or update data on the server",
-      "url": "undefined/schema/mutation"
+      "url": "/travelgatex/reference/schema/mutation"
     }
   ],
   "enumValues": null,

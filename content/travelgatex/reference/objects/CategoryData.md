@@ -6,7 +6,7 @@
     {
       "typeString": "ID!",
       "name": "code",
-      "url": "undefined/scalars/id",
+      "url": "/travelgatex/reference/scalars/id",
       "description": "Internal code for checking availability",
       "isDeprecated": false,
       "args": null
@@ -14,7 +14,7 @@
     {
       "typeString": "String!",
       "name": "categoryCode",
-      "url": "undefined/scalars/string",
+      "url": "/travelgatex/reference/scalars/string",
       "description": "Code of the hotel based on the Supplier selected",
       "isDeprecated": false,
       "args": null
@@ -22,14 +22,14 @@
     {
       "typeString": "[Text!]",
       "name": "texts",
-      "url": "undefined/interfaces/text",
+      "url": "/travelgatex/reference/interfaces/text",
       "description": "Label",
       "isDeprecated": false,
       "args": [
         {
           "typeString": "[Language!]",
           "name": "languages",
-          "url": "undefined/scalars/language",
+          "url": "/travelgatex/reference/scalars/language",
           "description": ""
         }
       ]
@@ -39,7 +39,7 @@
     {
       "name": "Category",
       "description": "Category Type",
-      "url": "undefined/objects/category"
+      "url": "/travelgatex/reference/objects/category"
     }
   ],
   "enumValues": null,

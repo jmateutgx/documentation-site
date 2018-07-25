@@ -6,7 +6,7 @@
     {
       "typeString": "ID!",
       "name": "code",
-      "url": "undefined/scalars/id",
+      "url": "/travelgatex/reference/scalars/id",
       "description": "Destination ID",
       "isDeprecated": false,
       "args": null
@@ -14,7 +14,7 @@
     {
       "typeString": "DestinationData",
       "name": "destinationData",
-      "url": "undefined/objects/destinationdata",
+      "url": "/travelgatex/reference/objects/destinationdata",
       "description": "Destination data",
       "isDeprecated": false,
       "args": null
@@ -22,7 +22,7 @@
     {
       "typeString": "[AdviseMessage!]",
       "name": "error",
-      "url": "undefined/interfaces/advisemessage",
+      "url": "/travelgatex/reference/interfaces/advisemessage",
       "description": "Errors that abort services",
       "isDeprecated": false,
       "args": null
@@ -30,7 +30,7 @@
     {
       "typeString": "DateTime!",
       "name": "createdAt",
-      "url": "undefined/scalars/datetime",
+      "url": "/travelgatex/reference/scalars/datetime",
       "description": "Date created",
       "isDeprecated": false,
       "args": null
@@ -38,7 +38,7 @@
     {
       "typeString": "DateTime!",
       "name": "updatedAt",
-      "url": "undefined/scalars/datetime",
+      "url": "/travelgatex/reference/scalars/datetime",
       "description": "Date updated",
       "isDeprecated": false,
       "args": null
@@ -48,7 +48,7 @@
     {
       "name": "DestinationEdge",
       "description": "DestinationList Edge definition",
-      "url": "undefined/objects/destinationedge"
+      "url": "/travelgatex/reference/objects/destinationedge"
     }
   ],
   "enumValues": null,

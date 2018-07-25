@@ -7,7 +7,7 @@
     {
       "name": "DestinationData",
       "description": "Information about destinantion",
-      "url": "undefined/objects/destinationdata"
+      "url": "/hotelx/reference/objects/destinationdata"
     }
   ],
   "enumValues": [

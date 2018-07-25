@@ -6,35 +6,35 @@
     {
       "typeString": "String!",
       "name": "cardType",
-      "url": "undefined/scalars/string",
+      "url": "/travelgatex/reference/scalars/string",
       "description": "Indicates the card type.",
       "args": null
     },
     {
       "typeString": "HolderInput!",
       "name": "holder",
-      "url": "undefined/inputobjects/holderinput",
+      "url": "/travelgatex/reference/inputobjects/holderinput",
       "description": "Contains owner's name",
       "args": null
     },
     {
       "typeString": "String!",
       "name": "number",
-      "url": "undefined/scalars/string",
+      "url": "/travelgatex/reference/scalars/string",
       "description": "Contains credit card number",
       "args": null
     },
     {
       "typeString": "String!",
       "name": "CVC",
-      "url": "undefined/scalars/string",
+      "url": "/travelgatex/reference/scalars/string",
       "description": "Contains credit card CVC",
       "args": null
     },
     {
       "typeString": "ExpireDateInput!",
       "name": "expire",
-      "url": "undefined/inputobjects/expiredateinput",
+      "url": "/travelgatex/reference/inputobjects/expiredateinput",
       "description": "Contains credit card expiration date",
       "args": null
     }
@@ -43,12 +43,12 @@
     {
       "name": "HotelBookInput",
       "description": "Criteria of book.",
-      "url": "undefined/inputobjects/hotelbookinput"
+      "url": "/travelgatex/reference/inputobjects/hotelbookinput"
     },
     {
       "name": "PaymentXStoreCardInput",
       "description": "",
-      "url": "undefined/inputobjects/paymentxstorecardinput"
+      "url": "/travelgatex/reference/inputobjects/paymentxstorecardinput"
     }
   ],
   "enumValues": null,

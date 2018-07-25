@@ -6,7 +6,7 @@
     {
       "typeString": "String!",
       "name": "cursor",
-      "url": "undefined/scalars/string",
+      "url": "/travelgatex/reference/scalars/string",
       "description": "",
       "isDeprecated": false,
       "args": null
@@ -14,7 +14,7 @@
     {
       "typeString": "Role",
       "name": "node",
-      "url": "undefined/objects/role",
+      "url": "/travelgatex/reference/objects/role",
       "description": "",
       "isDeprecated": false,
       "args": null
@@ -24,7 +24,7 @@
     {
       "name": "RoleConnection",
       "description": "",
-      "url": "undefined/objects/roleconnection"
+      "url": "/travelgatex/reference/objects/roleconnection"
     }
   ],
   "enumValues": null,

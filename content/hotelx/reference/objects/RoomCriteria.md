@@ -6,7 +6,7 @@
     {
       "typeString": "[Pax!]!",
       "name": "paxes",
-      "url": "undefined/objects/pax",
+      "url": "/hotelx/reference/objects/pax",
       "description": "Array of pax ages. The number of items in the array will indicate the pax occupancy.",
       "isDeprecated": false,
       "args": null

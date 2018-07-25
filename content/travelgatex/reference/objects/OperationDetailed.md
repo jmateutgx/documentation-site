@@ -6,7 +6,7 @@
     {
       "typeString": "Operation!",
       "name": "operation",
-      "url": "undefined/objects/operation",
+      "url": "/travelgatex/reference/objects/operation",
       "description": "Operation information",
       "isDeprecated": false,
       "args": null
@@ -14,7 +14,7 @@
     {
       "typeString": "Int!",
       "name": "totalHits",
-      "url": "undefined/scalars/int",
+      "url": "/travelgatex/reference/scalars/int",
       "description": "Total hits.",
       "isDeprecated": false,
       "args": null
@@ -22,20 +22,20 @@
     {
       "typeString": "[StatsInfo!]",
       "name": "detailedHits",
-      "url": "undefined/objects/statsinfo",
+      "url": "/travelgatex/reference/objects/statsinfo",
       "description": "Hits grouped depending on their status",
       "isDeprecated": false,
       "args": [
         {
           "typeString": "[StatsInfoTypes!]",
           "name": "type",
-          "url": "undefined/enums/statsinfotypes",
+          "url": "/travelgatex/reference/enums/statsinfotypes",
           "description": ""
         },
         {
           "typeString": "[Int!]",
           "name": "code",
-          "url": "undefined/scalars/int",
+          "url": "/travelgatex/reference/scalars/int",
           "description": ""
         }
       ]
@@ -43,7 +43,7 @@
     {
       "typeString": "Boolean!",
       "name": "cache",
-      "url": "undefined/scalars/boolean",
+      "url": "/travelgatex/reference/scalars/boolean",
       "description": "Responsible for the execution of the this stats. If TRUE then cache, else client",
       "isDeprecated": false,
       "args": null

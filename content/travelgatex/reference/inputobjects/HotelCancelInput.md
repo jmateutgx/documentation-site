@@ -6,28 +6,28 @@
     {
       "typeString": "String!",
       "name": "accessCode",
-      "url": "undefined/scalars/string",
+      "url": "/travelgatex/reference/scalars/string",
       "description": "The name of the access to use in the request.",
       "args": null
     },
     {
       "typeString": "Language",
       "name": "language",
-      "url": "undefined/scalars/language",
+      "url": "/travelgatex/reference/scalars/language",
       "description": "The language code.",
       "args": null
     },
     {
       "typeString": "String!",
       "name": "hotelCode",
-      "url": "undefined/scalars/string",
+      "url": "/travelgatex/reference/scalars/string",
       "description": "The hotel code.",
       "args": null
     },
     {
       "typeString": "BookReferenceInput!",
       "name": "reference",
-      "url": "undefined/inputobjects/bookreferenceinput",
+      "url": "/travelgatex/reference/inputobjects/bookreferenceinput",
       "description": "Contains the client reference and/or supplier reference.\nOne of them is mandatory.",
       "args": null
     }

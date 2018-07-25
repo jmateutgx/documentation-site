@@ -6,7 +6,7 @@
     {
       "typeString": "String!",
       "name": "cursor",
-      "url": "undefined/scalars/string",
+      "url": "/travelgatex/reference/scalars/string",
       "description": "",
       "isDeprecated": false,
       "args": null
@@ -14,7 +14,7 @@
     {
       "typeString": "Stats",
       "name": "node",
-      "url": "undefined/objects/stats",
+      "url": "/travelgatex/reference/objects/stats",
       "description": "",
       "isDeprecated": false,
       "args": null
@@ -24,7 +24,7 @@
     {
       "name": "StatsConnection",
       "description": "",
-      "url": "undefined/objects/statsconnection"
+      "url": "/travelgatex/reference/objects/statsconnection"
     }
   ],
   "enumValues": null,

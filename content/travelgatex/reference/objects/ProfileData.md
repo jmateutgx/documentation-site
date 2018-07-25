@@ -6,7 +6,7 @@
     {
       "typeString": "ID!",
       "name": "code",
-      "url": "undefined/scalars/id",
+      "url": "/travelgatex/reference/scalars/id",
       "description": "Profile Identifier",
       "isDeprecated": false,
       "args": null
@@ -14,7 +14,7 @@
     {
       "typeString": "String",
       "name": "label",
-      "url": "undefined/scalars/string",
+      "url": "/travelgatex/reference/scalars/string",
       "description": "Profile label",
       "isDeprecated": false,
       "args": null
@@ -22,7 +22,7 @@
     {
       "typeString": "EntityConnection",
       "name": "entities",
-      "url": "undefined/objects/entityconnection",
+      "url": "/travelgatex/reference/objects/entityconnection",
       "description": "Profile Entities (suppliers/clients)",
       "isDeprecated": false,
       "args": null
@@ -32,7 +32,7 @@
     {
       "name": "Profile",
       "description": "",
-      "url": "undefined/objects/profile"
+      "url": "/travelgatex/reference/objects/profile"
     }
   ],
   "enumValues": null,

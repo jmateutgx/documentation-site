@@ -6,63 +6,63 @@
     {
       "typeString": "Date!",
       "name": "checkIn",
-      "url": "undefined/scalars/date",
+      "url": "/travelgatex/reference/scalars/date",
       "description": "Check-in date for booking\nFormat: YYYY-MM-DD",
       "args": null
     },
     {
       "typeString": "Date!",
       "name": "checkOut",
-      "url": "undefined/scalars/date",
+      "url": "/travelgatex/reference/scalars/date",
       "description": "Check-out, booking date\nFormat: YYYY-MM-DD",
       "args": null
     },
     {
       "typeString": "[String!]",
       "name": "hotels",
-      "url": "undefined/scalars/string",
+      "url": "/travelgatex/reference/scalars/string",
       "description": "Hotel Codes.",
       "args": null
     },
     {
       "typeString": "[String!]",
       "name": "destinations",
-      "url": "undefined/scalars/string",
+      "url": "/travelgatex/reference/scalars/string",
       "description": "Destination codes.",
       "args": null
     },
     {
       "typeString": "[RoomInput!]!",
       "name": "occupancies",
-      "url": "undefined/inputobjects/roominput",
+      "url": "/travelgatex/reference/inputobjects/roominput",
       "description": "For multi-room bookings, this array will contain multiple elements (rooms).\nFor each room you have to specify its own occupancy.",
       "args": null
     },
     {
       "typeString": "Language",
       "name": "language",
-      "url": "undefined/scalars/language",
+      "url": "/travelgatex/reference/scalars/language",
       "description": "Language to be used in request",
       "args": null
     },
     {
       "typeString": "Currency",
       "name": "currency",
-      "url": "undefined/scalars/currency",
+      "url": "/travelgatex/reference/scalars/currency",
       "description": "Currency requested if supported by supplier",
       "args": null
     },
     {
       "typeString": "Country",
       "name": "nationality",
-      "url": "undefined/scalars/country",
+      "url": "/travelgatex/reference/scalars/country",
       "description": "Nationality of the guest (use ISO3166_1_alfa_2)",
       "args": null
     },
     {
       "typeString": "String",
       "name": "market",
-      "url": "undefined/scalars/string",
+      "url": "/travelgatex/reference/scalars/string",
       "description": "Targeted zone, country or point-ofsale-to be used in request.",
       "args": null
     }

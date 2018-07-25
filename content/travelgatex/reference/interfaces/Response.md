@@ -6,14 +6,14 @@
     {
       "typeString": "StatsRequest",
       "name": "stats",
-      "url": "undefined/objects/statsrequest",
+      "url": "/travelgatex/reference/objects/statsrequest",
       "description": "Application stats",
       "isDeprecated": false,
       "args": [
         {
           "typeString": "String!",
           "name": "token",
-          "url": "undefined/scalars/string",
+          "url": "/travelgatex/reference/scalars/string",
           "description": ""
         }
       ]
@@ -21,7 +21,7 @@
     {
       "typeString": "AuditData",
       "name": "auditData",
-      "url": "undefined/objects/auditdata",
+      "url": "/travelgatex/reference/objects/auditdata",
       "description": "Data sent and received in the supplier’s original format.",
       "isDeprecated": false,
       "args": null
@@ -29,7 +29,7 @@
     {
       "typeString": "[Error!]",
       "name": "errors",
-      "url": "undefined/objects/error",
+      "url": "/travelgatex/reference/objects/error",
       "description": "Errors that lead the service to stop",
       "isDeprecated": false,
       "args": null
@@ -37,7 +37,7 @@
     {
       "typeString": "[Warning!]",
       "name": "warnings",
-      "url": "undefined/objects/warning",
+      "url": "/travelgatex/reference/objects/warning",
       "description": "Potentially harmful situations or errors that do not stop the service",
       "isDeprecated": false,
       "args": null

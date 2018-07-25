@@ -6,7 +6,7 @@
     {
       "typeString": "String!",
       "name": "optionRefId",
-      "url": "undefined/scalars/string",
+      "url": "/travelgatex/reference/scalars/string",
       "description": "Indicates the valuation key",
       "isDeprecated": false,
       "args": null
@@ -14,7 +14,7 @@
     {
       "typeString": "StatusType!",
       "name": "status",
-      "url": "undefined/enums/statustype",
+      "url": "/travelgatex/reference/enums/statustype",
       "description": "The possible values in status in response are Available (OK) or On Request (RQ).",
       "isDeprecated": false,
       "args": null
@@ -22,7 +22,7 @@
     {
       "typeString": "Price!",
       "name": "price",
-      "url": "undefined/objects/price",
+      "url": "/travelgatex/reference/objects/price",
       "description": "Specifies the prices (Gross, Net and Amount) of the option returned.",
       "isDeprecated": false,
       "args": null
@@ -30,7 +30,7 @@
     {
       "typeString": "CancelPolicy!",
       "name": "cancelPolicy",
-      "url": "undefined/objects/cancelpolicy",
+      "url": "/travelgatex/reference/objects/cancelpolicy",
       "description": "Specifies cancel policies of the option returned.",
       "isDeprecated": false,
       "args": null
@@ -38,7 +38,7 @@
     {
       "typeString": "String",
       "name": "remarks",
-      "url": "undefined/scalars/string",
+      "url": "/travelgatex/reference/scalars/string",
       "description": "Additional information about the option.",
       "isDeprecated": false,
       "args": null
@@ -46,7 +46,7 @@
     {
       "typeString": "[Surcharge!]",
       "name": "surcharges",
-      "url": "undefined/objects/surcharge",
+      "url": "/travelgatex/reference/objects/surcharge",
       "description": "List of surcharges of the option returned.",
       "isDeprecated": false,
       "args": null
@@ -54,7 +54,7 @@
     {
       "typeString": "[String!]",
       "name": "cardTypes",
-      "url": "undefined/scalars/string",
+      "url": "/travelgatex/reference/scalars/string",
       "description": "List of credit cards",
       "isDeprecated": false,
       "args": null
@@ -62,7 +62,7 @@
     {
       "typeString": "AddOns",
       "name": "addOns",
-      "url": "undefined/objects/addons",
+      "url": "/travelgatex/reference/objects/addons",
       "description": "Additional information about the option",
       "isDeprecated": false,
       "args": null
@@ -72,7 +72,7 @@
     {
       "name": "HotelQuote",
       "description": "",
-      "url": "undefined/objects/hotelquote"
+      "url": "/travelgatex/reference/objects/hotelquote"
     }
   ],
   "enumValues": null,

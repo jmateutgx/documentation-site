@@ -6,7 +6,7 @@
     {
       "typeString": "ID!",
       "name": "code",
-      "url": "undefined/scalars/id",
+      "url": "/travelgatex/reference/scalars/id",
       "description": "",
       "isDeprecated": false,
       "args": null
@@ -14,7 +14,7 @@
     {
       "typeString": "SupplierData",
       "name": "supplierData",
-      "url": "undefined/objects/supplierdata",
+      "url": "/travelgatex/reference/objects/supplierdata",
       "description": "",
       "isDeprecated": false,
       "args": null
@@ -22,7 +22,7 @@
     {
       "typeString": "[Error!]",
       "name": "error",
-      "url": "undefined/objects/error",
+      "url": "/travelgatex/reference/objects/error",
       "description": "Errors that abort services",
       "isDeprecated": false,
       "args": null
@@ -30,7 +30,7 @@
     {
       "typeString": "DateTime!",
       "name": "createdAt",
-      "url": "undefined/scalars/datetime",
+      "url": "/travelgatex/reference/scalars/datetime",
       "description": "Date created",
       "isDeprecated": false,
       "args": null
@@ -38,7 +38,7 @@
     {
       "typeString": "DateTime!",
       "name": "updatedAt",
-      "url": "undefined/scalars/datetime",
+      "url": "/travelgatex/reference/scalars/datetime",
       "description": "Date updated",
       "isDeprecated": false,
       "args": null
@@ -48,22 +48,22 @@
     {
       "name": "AccessData",
       "description": "",
-      "url": "undefined/objects/accessdata"
+      "url": "/travelgatex/reference/objects/accessdata"
     },
     {
       "name": "SupplierEdge",
       "description": "",
-      "url": "undefined/objects/supplieredge"
+      "url": "/travelgatex/reference/objects/supplieredge"
     },
     {
       "name": "AdminMutation",
       "description": "The admin query root of TravelgateX's for implementing GraphQL mutations.",
-      "url": "undefined/objects/adminmutation"
+      "url": "/travelgatex/reference/objects/adminmutation"
     },
     {
       "name": "SupplierDetected",
       "description": "",
-      "url": "undefined/objects/supplierdetected"
+      "url": "/travelgatex/reference/objects/supplierdetected"
     }
   ],
   "enumValues": null,

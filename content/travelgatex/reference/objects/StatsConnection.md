@@ -6,7 +6,7 @@
     {
       "typeString": "[StatsEdge]",
       "name": "edges",
-      "url": "undefined/objects/statsedge",
+      "url": "/travelgatex/reference/objects/statsedge",
       "description": "",
       "isDeprecated": false,
       "args": null
@@ -14,7 +14,7 @@
     {
       "typeString": "PageInfo!",
       "name": "pageInfo",
-      "url": "undefined/objects/pageinfo",
+      "url": "/travelgatex/reference/objects/pageinfo",
       "description": "",
       "isDeprecated": false,
       "args": null
@@ -24,7 +24,7 @@
     {
       "name": "StatsQuery",
       "description": "",
-      "url": "undefined/objects/statsquery"
+      "url": "/travelgatex/reference/objects/statsquery"
     }
   ],
   "enumValues": null,

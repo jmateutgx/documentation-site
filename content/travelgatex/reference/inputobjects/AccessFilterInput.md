@@ -6,14 +6,14 @@
     {
       "typeString": "[ID!]",
       "name": "includes",
-      "url": "undefined/scalars/id",
+      "url": "/travelgatex/reference/scalars/id",
       "description": "These Access IDs will overwrite the default configuration. Only the IDs on this list will be used in the search query.",
       "args": null
     },
     {
       "typeString": "[ID!]",
       "name": "excludes",
-      "url": "undefined/scalars/id",
+      "url": "/travelgatex/reference/scalars/id",
       "description": "These Access IDs will overwrite the default configuration. The IDs on this list will be excluded from the search query.",
       "args": null
     }
@@ -22,7 +22,7 @@
     {
       "name": "FilterInput",
       "description": "Filter that selects the filter criteria which will be used in this availability. Currently you can only choose the accesses.\nYou must choose one of them, include or exclude, or the other alternative isn't specified anything.\nIf input both, you will receive a validation error that indicates this error.",
-      "url": "undefined/inputobjects/filterinput"
+      "url": "/travelgatex/reference/inputobjects/filterinput"
     }
   ],
   "enumValues": null,

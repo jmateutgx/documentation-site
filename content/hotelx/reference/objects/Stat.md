@@ -6,7 +6,7 @@
     {
       "typeString": "DateTime!",
       "name": "start",
-      "url": "undefined/scalars/datetime",
+      "url": "/hotelx/reference/scalars/datetime",
       "description": "Start UTC",
       "isDeprecated": false,
       "args": null
@@ -14,7 +14,7 @@
     {
       "typeString": "DateTime!",
       "name": "end",
-      "url": "undefined/scalars/datetime",
+      "url": "/hotelx/reference/scalars/datetime",
       "description": "End UTC",
       "isDeprecated": false,
       "args": null
@@ -22,7 +22,7 @@
     {
       "typeString": "Float",
       "name": "duration",
-      "url": "undefined/scalars/float",
+      "url": "/hotelx/reference/scalars/float",
       "description": "Difference between start and end in miliseconds",
       "isDeprecated": false,
       "args": null
@@ -32,22 +32,22 @@
     {
       "name": "StatsRequest",
       "description": "Contains internal information.",
-      "url": "undefined/objects/statsrequest"
+      "url": "/hotelx/reference/objects/statsrequest"
     },
     {
       "name": "StatPlugin",
       "description": "",
-      "url": "undefined/objects/statplugin"
+      "url": "/hotelx/reference/objects/statplugin"
     },
     {
       "name": "StatAccess",
       "description": "",
-      "url": "undefined/objects/stataccess"
+      "url": "/hotelx/reference/objects/stataccess"
     },
     {
       "name": "StatTransaction",
       "description": "",
-      "url": "undefined/objects/stattransaction"
+      "url": "/hotelx/reference/objects/stattransaction"
     }
   ],
   "enumValues": null,

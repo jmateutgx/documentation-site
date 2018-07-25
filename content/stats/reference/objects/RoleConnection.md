@@ -6,7 +6,7 @@
     {
       "typeString": "[RoleEdge]",
       "name": "edges",
-      "url": "undefined/objects/roleedge",
+      "url": "/stats/reference/objects/roleedge",
       "description": "",
       "isDeprecated": false,
       "args": null
@@ -14,7 +14,7 @@
     {
       "typeString": "PageInfo!",
       "name": "pageInfo",
-      "url": "undefined/objects/pageinfo",
+      "url": "/stats/reference/objects/pageinfo",
       "description": "",
       "isDeprecated": false,
       "args": null
@@ -24,17 +24,17 @@
     {
       "name": "GroupData",
       "description": "",
-      "url": "undefined/objects/groupdata"
+      "url": "/stats/reference/objects/groupdata"
     },
     {
       "name": "MemberData",
       "description": "",
-      "url": "undefined/objects/memberdata"
+      "url": "/stats/reference/objects/memberdata"
     },
     {
       "name": "ResourceData",
       "description": "",
-      "url": "undefined/objects/resourcedata"
+      "url": "/stats/reference/objects/resourcedata"
     }
   ],
   "enumValues": null,

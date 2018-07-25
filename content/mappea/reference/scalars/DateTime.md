@@ -7,12 +7,12 @@
     {
       "name": "Supplier",
       "description": "A Supplier is a Partner who is connected to TravelgateX on the supply side in order to sell their product to connected Buyers",
-      "url": "undefined/objects/supplier"
+      "url": "/mappea/reference/objects/supplier"
     },
     {
       "name": "Access",
       "description": "An Access is a set of credentials and configuration in order to access the system of a Supplier.",
-      "url": "undefined/objects/access"
+      "url": "/mappea/reference/objects/access"
     }
   ],
   "enumValues": null,

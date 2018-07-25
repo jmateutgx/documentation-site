@@ -6,7 +6,7 @@
     {
       "typeString": "String!",
       "name": "cursor",
-      "url": "undefined/scalars/string",
+      "url": "/travelgatex/reference/scalars/string",
       "description": "",
       "isDeprecated": false,
       "args": null
@@ -14,7 +14,7 @@
     {
       "typeString": "Operation",
       "name": "node",
-      "url": "undefined/objects/operation",
+      "url": "/travelgatex/reference/objects/operation",
       "description": "",
       "isDeprecated": false,
       "args": null
@@ -24,7 +24,7 @@
     {
       "name": "OperationConnection",
       "description": "",
-      "url": "undefined/objects/operationconnection"
+      "url": "/travelgatex/reference/objects/operationconnection"
     }
   ],
   "enumValues": null,

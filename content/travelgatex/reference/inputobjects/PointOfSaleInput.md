@@ -6,14 +6,14 @@
     {
       "typeString": "ID!",
       "name": "code",
-      "url": "undefined/scalars/id",
+      "url": "/travelgatex/reference/scalars/id",
       "description": "POS Identifier",
       "args": null
     },
     {
       "typeString": "String!",
       "name": "name",
-      "url": "undefined/scalars/string",
+      "url": "/travelgatex/reference/scalars/string",
       "description": "POS Name",
       "args": null
     }
@@ -22,7 +22,7 @@
     {
       "name": "PaymentXBookingInfoInput",
       "description": "",
-      "url": "undefined/inputobjects/paymentxbookinginfoinput"
+      "url": "/travelgatex/reference/inputobjects/paymentxbookinginfoinput"
     }
   ],
   "enumValues": null,

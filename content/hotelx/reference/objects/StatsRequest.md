@@ -6,7 +6,7 @@
     {
       "typeString": "Stat!",
       "name": "total",
-      "url": "undefined/objects/stat",
+      "url": "/hotelx/reference/objects/stat",
       "description": "Total transaction time",
       "isDeprecated": false,
       "args": null
@@ -14,7 +14,7 @@
     {
       "typeString": "Stat!",
       "name": "validation",
-      "url": "undefined/objects/stat",
+      "url": "/hotelx/reference/objects/stat",
       "description": "Request validation time",
       "isDeprecated": false,
       "args": null
@@ -22,7 +22,7 @@
     {
       "typeString": "Stat!",
       "name": "process",
-      "url": "undefined/objects/stat",
+      "url": "/hotelx/reference/objects/stat",
       "description": "Process time. Contains communication time, parse time and plugin time.",
       "isDeprecated": false,
       "args": null
@@ -30,7 +30,7 @@
     {
       "typeString": "Stat!",
       "name": "configuration",
-      "url": "undefined/objects/stat",
+      "url": "/hotelx/reference/objects/stat",
       "description": "Build access time",
       "isDeprecated": false,
       "args": null
@@ -38,7 +38,7 @@
     {
       "typeString": "Stat!",
       "name": "request",
-      "url": "undefined/objects/stat",
+      "url": "/hotelx/reference/objects/stat",
       "description": "Request time",
       "isDeprecated": false,
       "args": null
@@ -46,7 +46,7 @@
     {
       "typeString": "Stat!",
       "name": "response",
-      "url": "undefined/objects/stat",
+      "url": "/hotelx/reference/objects/stat",
       "description": "Response time",
       "isDeprecated": false,
       "args": null
@@ -54,7 +54,7 @@
     {
       "typeString": "StatPlugin",
       "name": "requestPlugin",
-      "url": "undefined/objects/statplugin",
+      "url": "/hotelx/reference/objects/statplugin",
       "description": "Plugin execution time",
       "isDeprecated": false,
       "args": null
@@ -62,7 +62,7 @@
     {
       "typeString": "StatPlugin",
       "name": "responsePlugin",
-      "url": "undefined/objects/statplugin",
+      "url": "/hotelx/reference/objects/statplugin",
       "description": "Plugin execution time",
       "isDeprecated": false,
       "args": null
@@ -70,7 +70,7 @@
     {
       "typeString": "Int!",
       "name": "hotels",
-      "url": "undefined/scalars/int",
+      "url": "/hotelx/reference/scalars/int",
       "description": "Number of hotels",
       "isDeprecated": false,
       "args": null
@@ -78,7 +78,7 @@
     {
       "typeString": "Int!",
       "name": "zones",
-      "url": "undefined/scalars/int",
+      "url": "/hotelx/reference/scalars/int",
       "description": "Number of zones",
       "isDeprecated": false,
       "args": null
@@ -86,7 +86,7 @@
     {
       "typeString": "Int!",
       "name": "cities",
-      "url": "undefined/scalars/int",
+      "url": "/hotelx/reference/scalars/int",
       "description": "Number of cities",
       "isDeprecated": false,
       "args": null
@@ -94,7 +94,7 @@
     {
       "typeString": "String!",
       "name": "dockerID",
-      "url": "undefined/scalars/string",
+      "url": "/hotelx/reference/scalars/string",
       "description": "Docker Id",
       "isDeprecated": false,
       "args": null
@@ -102,7 +102,7 @@
     {
       "typeString": "[StatAccess!]!",
       "name": "Accesses",
-      "url": "undefined/objects/stataccess",
+      "url": "/hotelx/reference/objects/stataccess",
       "description": "Detail access time",
       "isDeprecated": false,
       "args": null
@@ -112,27 +112,27 @@
     {
       "name": "HotelSearch",
       "description": "Results from Avail Hotel; contains all the available options for a given date and itinerary",
-      "url": "undefined/objects/hotelsearch"
+      "url": "/hotelx/reference/objects/hotelsearch"
     },
     {
       "name": "HotelQuote",
       "description": "",
-      "url": "undefined/objects/hotelquote"
+      "url": "/hotelx/reference/objects/hotelquote"
     },
     {
       "name": "HotelBooking",
       "description": "",
-      "url": "undefined/objects/hotelbooking"
+      "url": "/hotelx/reference/objects/hotelbooking"
     },
     {
       "name": "HotelBookPayload",
       "description": "",
-      "url": "undefined/objects/hotelbookpayload"
+      "url": "/hotelx/reference/objects/hotelbookpayload"
     },
     {
       "name": "HotelCancelPayload",
       "description": "",
-      "url": "undefined/objects/hotelcancelpayload"
+      "url": "/hotelx/reference/objects/hotelcancelpayload"
     }
   ],
   "enumValues": null,

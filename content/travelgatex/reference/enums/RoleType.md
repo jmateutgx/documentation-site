@@ -7,7 +7,7 @@
     {
       "name": "RoleData",
       "description": "",
-      "url": "undefined/objects/roledata"
+      "url": "/travelgatex/reference/objects/roledata"
     }
   ],
   "enumValues": [

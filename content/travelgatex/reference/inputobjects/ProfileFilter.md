@@ -6,14 +6,14 @@
     {
       "typeString": "[ID]",
       "name": "profileIDs",
-      "url": "undefined/scalars/id",
+      "url": "/travelgatex/reference/scalars/id",
       "description": "",
       "args": null
     },
     {
       "typeString": "[ID]",
       "name": "groupIDs",
-      "url": "undefined/scalars/id",
+      "url": "/travelgatex/reference/scalars/id",
       "description": "",
       "args": null
     }

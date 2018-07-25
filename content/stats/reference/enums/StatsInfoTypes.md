@@ -7,7 +7,7 @@
     {
       "name": "StatsInfo",
       "description": "Details of an specific error",
-      "url": "undefined/objects/statsinfo"
+      "url": "/stats/reference/objects/statsinfo"
     }
   ],
   "enumValues": [

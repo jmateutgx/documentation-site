@@ -6,7 +6,7 @@
     {
       "typeString": "UploadFileData",
       "name": "data",
-      "url": "undefined/objects/uploadfiledata",
+      "url": "/mappea/reference/objects/uploadfiledata",
       "description": "",
       "isDeprecated": false,
       "args": null
@@ -14,7 +14,7 @@
     {
       "typeString": "Error",
       "name": "error",
-      "url": "undefined/objects/error",
+      "url": "/mappea/reference/objects/error",
       "description": "",
       "isDeprecated": false,
       "args": null
@@ -22,7 +22,7 @@
     {
       "typeString": "[Warning]",
       "name": "warnings",
-      "url": "undefined/objects/warning",
+      "url": "/mappea/reference/objects/warning",
       "description": "",
       "isDeprecated": false,
       "args": null
@@ -32,7 +32,7 @@
     {
       "name": "MappeaMutation",
       "description": "",
-      "url": "undefined/objects/mappeamutation"
+      "url": "/mappea/reference/objects/mappeamutation"
     }
   ],
   "enumValues": null,

@@ -6,7 +6,7 @@
     {
       "typeString": "Boolean!",
       "name": "hasNextPage",
-      "url": "undefined/scalars/boolean",
+      "url": "/hotelx/reference/scalars/boolean",
       "description": "",
       "isDeprecated": false,
       "args": null
@@ -14,7 +14,7 @@
     {
       "typeString": "Boolean!",
       "name": "hasPreviousPage",
-      "url": "undefined/scalars/boolean",
+      "url": "/hotelx/reference/scalars/boolean",
       "description": "",
       "isDeprecated": false,
       "args": null
@@ -22,7 +22,7 @@
     {
       "typeString": "String!",
       "name": "startCursor",
-      "url": "undefined/scalars/string",
+      "url": "/hotelx/reference/scalars/string",
       "description": "",
       "isDeprecated": false,
       "args": null
@@ -30,7 +30,7 @@
     {
       "typeString": "String!",
       "name": "endCursor",
-      "url": "undefined/scalars/string",
+      "url": "/hotelx/reference/scalars/string",
       "description": "",
       "isDeprecated": false,
       "args": null
@@ -40,27 +40,27 @@
     {
       "name": "BoardConnection",
       "description": "BoardList definition",
-      "url": "undefined/objects/boardconnection"
+      "url": "/hotelx/reference/objects/boardconnection"
     },
     {
       "name": "CategoryConnection",
       "description": "CategoryList definition",
-      "url": "undefined/objects/categoryconnection"
+      "url": "/hotelx/reference/objects/categoryconnection"
     },
     {
       "name": "HotelConnection",
       "description": "HotelList definition",
-      "url": "undefined/objects/hotelconnection"
+      "url": "/hotelx/reference/objects/hotelconnection"
     },
     {
       "name": "RoomConnection",
       "description": "RoomList definition",
-      "url": "undefined/objects/roomconnection"
+      "url": "/hotelx/reference/objects/roomconnection"
     },
     {
       "name": "DestinationConnection",
       "description": "DestinationList definition",
-      "url": "undefined/objects/destinationconnection"
+      "url": "/hotelx/reference/objects/destinationconnection"
     }
   ],
   "enumValues": null,

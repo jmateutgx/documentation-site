@@ -6,35 +6,35 @@
     {
       "typeString": "String!",
       "name": "organization",
-      "url": "undefined/scalars/string",
+      "url": "/travelgatex/reference/scalars/string",
       "description": "Responsible organization of the booked property.",
       "args": null
     },
     {
       "typeString": "PointOfSaleInput!",
       "name": "pointOfSale",
-      "url": "undefined/inputobjects/pointofsaleinput",
+      "url": "/travelgatex/reference/inputobjects/pointofsaleinput",
       "description": "Indicates the code of the booked property",
       "args": null
     },
     {
       "typeString": "String!",
       "name": "bookingReference",
-      "url": "undefined/scalars/string",
+      "url": "/travelgatex/reference/scalars/string",
       "description": "Indicates the referece of the booking",
       "args": null
     },
     {
       "typeString": "Date!",
       "name": "checkOut",
-      "url": "undefined/scalars/date",
+      "url": "/travelgatex/reference/scalars/date",
       "description": "Check-out, booking date Format: YYYY-MM-DD",
       "args": null
     },
     {
       "typeString": "Date!",
       "name": "checkIn",
-      "url": "undefined/scalars/date",
+      "url": "/travelgatex/reference/scalars/date",
       "description": "Check-in, booking date Format: YYYY-MM-DD",
       "args": null
     }
@@ -43,7 +43,7 @@
     {
       "name": "PaymentXStoreCardInput",
       "description": "",
-      "url": "undefined/inputobjects/paymentxstorecardinput"
+      "url": "/travelgatex/reference/inputobjects/paymentxstorecardinput"
     }
   ],
   "enumValues": null,

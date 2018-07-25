@@ -6,7 +6,7 @@
     {
       "typeString": "String!",
       "name": "cursor",
-      "url": "undefined/scalars/string",
+      "url": "/travelgatex/reference/scalars/string",
       "description": "",
       "isDeprecated": false,
       "args": null
@@ -14,7 +14,7 @@
     {
       "typeString": "Product",
       "name": "node",
-      "url": "undefined/objects/product",
+      "url": "/travelgatex/reference/objects/product",
       "description": "",
       "isDeprecated": false,
       "args": null
@@ -24,7 +24,7 @@
     {
       "name": "ProductConnection",
       "description": "",
-      "url": "undefined/objects/productconnection"
+      "url": "/travelgatex/reference/objects/productconnection"
     }
   ],
   "enumValues": null,

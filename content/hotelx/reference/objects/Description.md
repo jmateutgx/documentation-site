@@ -6,7 +6,7 @@
     {
       "typeString": "DescriptionType!",
       "name": "type",
-      "url": "undefined/enums/descriptiontype",
+      "url": "/hotelx/reference/enums/descriptiontype",
       "description": "Indicates type of description",
       "isDeprecated": false,
       "args": null
@@ -14,7 +14,7 @@
     {
       "typeString": "[Text!]",
       "name": "texts",
-      "url": "undefined/interfaces/text",
+      "url": "/hotelx/reference/interfaces/text",
       "description": "Label",
       "isDeprecated": false,
       "args": null

@@ -6,7 +6,7 @@
     {
       "typeString": "GetUploadedFilesResponse!",
       "name": "getUploadedFiles",
-      "url": "undefined/objects/getuploadedfilesresponse",
+      "url": "/travelgatex/reference/objects/getuploadedfilesresponse",
       "description": "",
       "isDeprecated": false,
       "args": null
@@ -14,14 +14,14 @@
     {
       "typeString": "GetMappeaStatsResponse!",
       "name": "getMappeaStats",
-      "url": "undefined/objects/getmappeastatsresponse",
+      "url": "/travelgatex/reference/objects/getmappeastatsresponse",
       "description": "",
       "isDeprecated": false,
       "args": [
         {
           "typeString": "MappeaGetMappeaStatsInput!",
           "name": "input",
-          "url": "undefined/inputobjects/mappeagetmappeastatsinput",
+          "url": "/travelgatex/reference/inputobjects/mappeagetmappeastatsinput",
           "description": ""
         }
       ]
@@ -31,7 +31,7 @@
     {
       "name": "Query",
       "description": "The query root of TravelgateX's GraphQL interface.",
-      "url": "undefined/schema/query"
+      "url": "/travelgatex/reference/schema/query"
     }
   ],
   "enumValues": null,

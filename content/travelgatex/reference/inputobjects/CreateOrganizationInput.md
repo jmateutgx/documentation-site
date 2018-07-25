@@ -6,28 +6,28 @@
     {
       "typeString": "ID!",
       "name": "user",
-      "url": "undefined/scalars/id",
+      "url": "/travelgatex/reference/scalars/id",
       "description": "",
       "args": null
     },
     {
       "typeString": "String",
       "name": "info",
-      "url": "undefined/scalars/string",
+      "url": "/travelgatex/reference/scalars/string",
       "description": "",
       "args": null
     },
     {
       "typeString": "ID!",
       "name": "organization",
-      "url": "undefined/scalars/id",
+      "url": "/travelgatex/reference/scalars/id",
       "description": "",
       "args": null
     },
     {
       "typeString": "OrganizationTemplate!",
       "name": "template",
-      "url": "undefined/enums/organizationtemplate",
+      "url": "/travelgatex/reference/enums/organizationtemplate",
       "description": "",
       "args": null
     }

@@ -6,14 +6,14 @@
     {
       "typeString": "[MappingContext!]",
       "name": "contexts",
-      "url": "undefined/objects/mappingcontext",
+      "url": "/hotelx/reference/objects/mappingcontext",
       "description": "Returns the differents group contexts, you can filter by some contexts.",
       "isDeprecated": false,
       "args": [
         {
           "typeString": "[String!]",
           "name": "codes",
-          "url": "undefined/scalars/string",
+          "url": "/hotelx/reference/scalars/string",
           "description": ""
         }
       ]
@@ -21,7 +21,7 @@
     {
       "typeString": "[Error!]",
       "name": "errors",
-      "url": "undefined/objects/error",
+      "url": "/hotelx/reference/objects/error",
       "description": "Errors that abort services",
       "isDeprecated": false,
       "args": null
@@ -29,7 +29,7 @@
     {
       "typeString": "[Warning!]",
       "name": "warnings",
-      "url": "undefined/objects/warning",
+      "url": "/hotelx/reference/objects/warning",
       "description": "Potentially harmful situations or errors that won't force the service to abort",
       "isDeprecated": false,
       "args": null
@@ -39,7 +39,7 @@
     {
       "name": "HotelXQuery",
       "description": "",
-      "url": "undefined/objects/hotelxquery"
+      "url": "/hotelx/reference/objects/hotelxquery"
     }
   ],
   "enumValues": null,

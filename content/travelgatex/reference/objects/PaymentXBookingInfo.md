@@ -6,7 +6,7 @@
     {
       "typeString": "String!",
       "name": "organization",
-      "url": "undefined/scalars/string",
+      "url": "/travelgatex/reference/scalars/string",
       "description": "Responsible organization of the booked property.",
       "isDeprecated": false,
       "args": null
@@ -14,7 +14,7 @@
     {
       "typeString": "PointOfSale!",
       "name": "pointOfSale",
-      "url": "undefined/objects/pointofsale",
+      "url": "/travelgatex/reference/objects/pointofsale",
       "description": "",
       "isDeprecated": false,
       "args": null
@@ -22,7 +22,7 @@
     {
       "typeString": "String!",
       "name": "bookingReference",
-      "url": "undefined/scalars/string",
+      "url": "/travelgatex/reference/scalars/string",
       "description": "Indicates the referece of the booking",
       "isDeprecated": false,
       "args": null
@@ -30,7 +30,7 @@
     {
       "typeString": "Date!",
       "name": "checkOut",
-      "url": "undefined/scalars/date",
+      "url": "/travelgatex/reference/scalars/date",
       "description": "Check-out, booking date Format: YYYY-MM-DD",
       "isDeprecated": false,
       "args": null
@@ -38,7 +38,7 @@
     {
       "typeString": "Date!",
       "name": "checkIn",
-      "url": "undefined/scalars/date",
+      "url": "/travelgatex/reference/scalars/date",
       "description": "Check-in, booking date Format: YYYY-MM-DD",
       "isDeprecated": false,
       "args": null
@@ -48,7 +48,7 @@
     {
       "name": "StoredCardData",
       "description": "",
-      "url": "undefined/objects/storedcarddata"
+      "url": "/travelgatex/reference/objects/storedcarddata"
     }
   ],
   "enumValues": null,

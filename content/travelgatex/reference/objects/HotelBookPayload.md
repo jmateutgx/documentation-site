@@ -6,14 +6,14 @@
     {
       "typeString": "StatsRequest",
       "name": "stats",
-      "url": "undefined/objects/statsrequest",
+      "url": "/travelgatex/reference/objects/statsrequest",
       "description": "Application stats in string format",
       "isDeprecated": false,
       "args": [
         {
           "typeString": "String!",
           "name": "token",
-          "url": "undefined/scalars/string",
+          "url": "/travelgatex/reference/scalars/string",
           "description": ""
         }
       ]
@@ -21,7 +21,7 @@
     {
       "typeString": "AuditData",
       "name": "auditData",
-      "url": "undefined/objects/auditdata",
+      "url": "/travelgatex/reference/objects/auditdata",
       "description": "Data sent and received in the supplier's native format.",
       "isDeprecated": false,
       "args": null
@@ -29,7 +29,7 @@
     {
       "typeString": "HotelBookingDetail",
       "name": "booking",
-      "url": "undefined/objects/hotelbookingdetail",
+      "url": "/travelgatex/reference/objects/hotelbookingdetail",
       "description": "Information about booking",
       "isDeprecated": false,
       "args": null
@@ -37,7 +37,7 @@
     {
       "typeString": "[Error!]",
       "name": "errors",
-      "url": "undefined/objects/error",
+      "url": "/travelgatex/reference/objects/error",
       "description": "Errors that abort services",
       "isDeprecated": false,
       "args": null
@@ -45,7 +45,7 @@
     {
       "typeString": "[Warning!]",
       "name": "warnings",
-      "url": "undefined/objects/warning",
+      "url": "/travelgatex/reference/objects/warning",
       "description": "Potentially harmful situations or errors, but ones that will not forcibly abort the service",
       "isDeprecated": false,
       "args": null
@@ -55,7 +55,7 @@
     {
       "name": "HotelXMutation",
       "description": "",
-      "url": "undefined/objects/hotelxmutation"
+      "url": "/travelgatex/reference/objects/hotelxmutation"
     }
   ],
   "enumValues": null,

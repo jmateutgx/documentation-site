@@ -6,7 +6,7 @@
     {
       "typeString": "[PaxInput!]!",
       "name": "paxes",
-      "url": "undefined/inputobjects/paxinput",
+      "url": "/travelgatex/reference/inputobjects/paxinput",
       "description": "Array of pax ages. The number of items in the array will indicate the pax occupancy.",
       "args": null
     }

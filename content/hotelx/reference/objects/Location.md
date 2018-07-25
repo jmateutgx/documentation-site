@@ -6,7 +6,7 @@
     {
       "typeString": "String",
       "name": "address",
-      "url": "undefined/scalars/string",
+      "url": "/hotelx/reference/scalars/string",
       "description": "Contains Hotel Address",
       "isDeprecated": false,
       "args": null
@@ -14,7 +14,7 @@
     {
       "typeString": "String",
       "name": "city",
-      "url": "undefined/scalars/string",
+      "url": "/hotelx/reference/scalars/string",
       "description": "Contains the city",
       "isDeprecated": false,
       "args": null
@@ -22,7 +22,7 @@
     {
       "typeString": "String",
       "name": "zipCode",
-      "url": "undefined/scalars/string",
+      "url": "/hotelx/reference/scalars/string",
       "description": "Contains the zipCode.",
       "isDeprecated": false,
       "args": null
@@ -30,7 +30,7 @@
     {
       "typeString": "Country!",
       "name": "country",
-      "url": "undefined/scalars/country",
+      "url": "/hotelx/reference/scalars/country",
       "description": "Country where is the Hotel.",
       "isDeprecated": false,
       "args": null
@@ -38,7 +38,7 @@
     {
       "typeString": "Coordinates",
       "name": "coordinates",
-      "url": "undefined/objects/coordinates",
+      "url": "/hotelx/reference/objects/coordinates",
       "description": "Geographical coordinates corresponding to a location.",
       "isDeprecated": false,
       "args": null
@@ -46,7 +46,7 @@
     {
       "typeString": "DestinationData!",
       "name": "closestDestination",
-      "url": "undefined/objects/destinationdata",
+      "url": "/hotelx/reference/objects/destinationdata",
       "description": "Closest destination",
       "isDeprecated": false,
       "args": null
@@ -54,7 +54,7 @@
     {
       "typeString": "[Airport!]",
       "name": "airports",
-      "url": "undefined/objects/airport",
+      "url": "/hotelx/reference/objects/airport",
       "description": "Airports",
       "isDeprecated": false,
       "args": null
@@ -64,12 +64,12 @@
     {
       "name": "HotelData",
       "description": "Hotel data",
-      "url": "undefined/objects/hoteldata"
+      "url": "/hotelx/reference/objects/hoteldata"
     },
     {
       "name": "AirportData",
       "description": "Information about the airport",
-      "url": "undefined/objects/airportdata"
+      "url": "/hotelx/reference/objects/airportdata"
     }
   ],
   "enumValues": null,

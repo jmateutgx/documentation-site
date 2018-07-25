@@ -7,7 +7,7 @@
     {
       "name": "UpdateMemberInput",
       "description": "",
-      "url": "undefined/inputobjects/updatememberinput"
+      "url": "/travelgatex/reference/inputobjects/updatememberinput"
     }
   ],
   "enumValues": [

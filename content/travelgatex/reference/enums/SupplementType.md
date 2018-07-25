@@ -7,7 +7,7 @@
     {
       "name": "Supplement",
       "description": "Supplement that it can be or its already added to the option returned. Contains all the information about the supplement.",
-      "url": "undefined/objects/supplement"
+      "url": "/travelgatex/reference/objects/supplement"
     }
   ],
   "enumValues": [

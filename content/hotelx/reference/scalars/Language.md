@@ -7,32 +7,32 @@
     {
       "name": "HotelCriteriaQuoteInput",
       "description": "The quote criteria contains the option reference id, block and language.",
-      "url": "undefined/inputobjects/hotelcriteriaquoteinput"
+      "url": "/hotelx/reference/inputobjects/hotelcriteriaquoteinput"
     },
     {
       "name": "HotelCriteriaBookingInput",
       "description": "Criteria of book contains basic information to find a book or books.",
-      "url": "undefined/inputobjects/hotelcriteriabookinginput"
+      "url": "/hotelx/reference/inputobjects/hotelcriteriabookinginput"
     },
     {
       "name": "Text",
       "description": "",
-      "url": "undefined/interfaces/text"
+      "url": "/hotelx/reference/interfaces/text"
     },
     {
       "name": "CriteriaSearch",
       "description": "Search criteria contains destination, travel dates and the number of pax in each room.",
-      "url": "undefined/objects/criteriasearch"
+      "url": "/hotelx/reference/objects/criteriasearch"
     },
     {
       "name": "HotelBookInput",
       "description": "Criteria of book.",
-      "url": "undefined/inputobjects/hotelbookinput"
+      "url": "/hotelx/reference/inputobjects/hotelbookinput"
     },
     {
       "name": "HotelCancelInput",
       "description": "Cancellation Criteria.",
-      "url": "undefined/inputobjects/hotelcancelinput"
+      "url": "/hotelx/reference/inputobjects/hotelcancelinput"
     }
   ],
   "enumValues": null,

@@ -7,7 +7,7 @@
     {
       "name": "Description",
       "description": "Object description indicates the type and the description about something.",
-      "url": "undefined/objects/description"
+      "url": "/hotelx/reference/objects/description"
     }
   ],
   "enumValues": [

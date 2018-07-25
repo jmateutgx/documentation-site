@@ -6,21 +6,21 @@
     {
       "typeString": "String!",
       "name": "label",
-      "url": "undefined/scalars/string",
+      "url": "/travelgatex/reference/scalars/string",
       "description": "Label of the Profile",
       "args": null
     },
     {
       "typeString": "String!",
       "name": "group",
-      "url": "undefined/scalars/string",
+      "url": "/travelgatex/reference/scalars/string",
       "description": "Group where Profile has to be placed",
       "args": null
     },
     {
       "typeString": "EntitiesInput",
       "name": "entities",
-      "url": "undefined/inputobjects/entitiesinput",
+      "url": "/travelgatex/reference/inputobjects/entitiesinput",
       "description": "Entities of the Profile",
       "args": null
     }

@@ -6,7 +6,7 @@
     {
       "typeString": "ID!",
       "name": "id",
-      "url": "undefined/scalars/id",
+      "url": "/stats/reference/scalars/id",
       "description": "",
       "isDeprecated": false,
       "args": null
@@ -14,7 +14,7 @@
     {
       "typeString": "ID!",
       "name": "code",
-      "url": "undefined/scalars/id",
+      "url": "/stats/reference/scalars/id",
       "description": "",
       "isDeprecated": false,
       "args": null
@@ -22,7 +22,7 @@
     {
       "typeString": "Boolean!",
       "name": "isEditable",
-      "url": "undefined/scalars/boolean",
+      "url": "/stats/reference/scalars/boolean",
       "description": "",
       "isDeprecated": false,
       "args": null
@@ -30,7 +30,7 @@
     {
       "typeString": "String",
       "name": "label",
-      "url": "undefined/scalars/string",
+      "url": "/stats/reference/scalars/string",
       "description": "",
       "isDeprecated": false,
       "args": null
@@ -38,38 +38,38 @@
     {
       "typeString": "APIConnection",
       "name": "apis",
-      "url": "undefined/objects/apiconnection",
+      "url": "/stats/reference/objects/apiconnection",
       "description": "which API have asigned this resource?",
       "isDeprecated": false,
       "args": [
         {
           "typeString": "[ID!]",
           "name": "codes",
-          "url": "undefined/scalars/id",
+          "url": "/stats/reference/scalars/id",
           "description": ""
         },
         {
           "typeString": "Int",
           "name": "first",
-          "url": "undefined/scalars/int",
+          "url": "/stats/reference/scalars/int",
           "description": ""
         },
         {
           "typeString": "Int",
           "name": "last",
-          "url": "undefined/scalars/int",
+          "url": "/stats/reference/scalars/int",
           "description": ""
         },
         {
           "typeString": "String",
           "name": "before",
-          "url": "undefined/scalars/string",
+          "url": "/stats/reference/scalars/string",
           "description": ""
         },
         {
           "typeString": "String",
           "name": "after",
-          "url": "undefined/scalars/string",
+          "url": "/stats/reference/scalars/string",
           "description": ""
         }
       ]
@@ -77,44 +77,44 @@
     {
       "typeString": "RoleConnection",
       "name": "roles",
-      "url": "undefined/objects/roleconnection",
+      "url": "/stats/reference/objects/roleconnection",
       "description": "which roles are asigned or are possibles in this resource?",
       "isDeprecated": false,
       "args": [
         {
           "typeString": "[ID!]",
           "name": "codes",
-          "url": "undefined/scalars/id",
+          "url": "/stats/reference/scalars/id",
           "description": ""
         },
         {
           "typeString": "RoleType",
           "name": "type",
-          "url": "undefined/enums/roletype",
+          "url": "/stats/reference/enums/roletype",
           "description": ""
         },
         {
           "typeString": "Int",
           "name": "first",
-          "url": "undefined/scalars/int",
+          "url": "/stats/reference/scalars/int",
           "description": ""
         },
         {
           "typeString": "Int",
           "name": "last",
-          "url": "undefined/scalars/int",
+          "url": "/stats/reference/scalars/int",
           "description": ""
         },
         {
           "typeString": "String",
           "name": "before",
-          "url": "undefined/scalars/string",
+          "url": "/stats/reference/scalars/string",
           "description": ""
         },
         {
           "typeString": "String",
           "name": "after",
-          "url": "undefined/scalars/string",
+          "url": "/stats/reference/scalars/string",
           "description": ""
         }
       ]
@@ -124,7 +124,7 @@
     {
       "name": "Resource",
       "description": "Resources are those used in APIs and Products.",
-      "url": "undefined/objects/resource"
+      "url": "/stats/reference/objects/resource"
     }
   ],
   "enumValues": null,

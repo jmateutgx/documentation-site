@@ -6,20 +6,20 @@
     {
       "typeString": "HotelBookPayload",
       "name": "book",
-      "url": "undefined/objects/hotelbookpayload",
+      "url": "/travelgatex/reference/objects/hotelbookpayload",
       "description": "Creates a new hotel booking consisting of an option of 1 or more rooms.",
       "isDeprecated": false,
       "args": [
         {
           "typeString": "HotelBookInput!",
           "name": "input",
-          "url": "undefined/inputobjects/hotelbookinput",
+          "url": "/travelgatex/reference/inputobjects/hotelbookinput",
           "description": ""
         },
         {
           "typeString": "HotelSettingsInput",
           "name": "settings",
-          "url": "undefined/inputobjects/hotelsettingsinput",
+          "url": "/travelgatex/reference/inputobjects/hotelsettingsinput",
           "description": ""
         }
       ]
@@ -27,20 +27,20 @@
     {
       "typeString": "HotelCancelPayload",
       "name": "cancel",
-      "url": "undefined/objects/hotelcancelpayload",
+      "url": "/travelgatex/reference/objects/hotelcancelpayload",
       "description": "Cancels an existing hotel booking consisting of an option of 1 or more rooms.",
       "isDeprecated": false,
       "args": [
         {
           "typeString": "HotelCancelInput!",
           "name": "input",
-          "url": "undefined/inputobjects/hotelcancelinput",
+          "url": "/travelgatex/reference/inputobjects/hotelcancelinput",
           "description": ""
         },
         {
           "typeString": "HotelSettingsInput",
           "name": "settings",
-          "url": "undefined/inputobjects/hotelsettingsinput",
+          "url": "/travelgatex/reference/inputobjects/hotelsettingsinput",
           "description": ""
         }
       ]
@@ -48,14 +48,14 @@
     {
       "typeString": "String!",
       "name": "loadFile",
-      "url": "undefined/scalars/string",
+      "url": "/travelgatex/reference/scalars/string",
       "description": "",
       "isDeprecated": true,
       "args": [
         {
           "typeString": "String!",
           "name": "input",
-          "url": "undefined/scalars/string",
+          "url": "/travelgatex/reference/scalars/string",
           "description": ""
         }
       ],
@@ -72,7 +72,7 @@
     {
       "name": "Mutation",
       "description": "The root query for implementing GraphQL mutations. Mutations are operations that change or update data on the server",
-      "url": "undefined/schema/mutation"
+      "url": "/travelgatex/reference/schema/mutation"
     }
   ],
   "enumValues": null,
