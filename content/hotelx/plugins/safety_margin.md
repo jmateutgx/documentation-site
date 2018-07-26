@@ -9,8 +9,6 @@ alwaysopen = false
 
 Safety Margin is an optional plugin and allows discards those options that have a commission higher than expected.
 
-## Margin safe {#safetymargin}
-
 ### Goals
 
 The safety margin plugin **discards those options that have a commission higher than expected.** In this way, only those options that have a commission equal or less than those reported in the file will be returned.
